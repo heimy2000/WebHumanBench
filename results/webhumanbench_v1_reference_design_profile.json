@@ -1,0 +1,2443 @@
+{
+  "by_page_type": {
+    "dashboard_shell": {
+      "aggregation": "source_group_mean_over_retained_captures_v1",
+      "captures": 8,
+      "metrics": {
+        "font_size_iqr_px": {
+          "iqr": 4.584,
+          "median": 1.056,
+          "n": 4
+        },
+        "font_size_p50_px": {
+          "iqr": 0.75,
+          "median": 16.0,
+          "n": 4
+        },
+        "grid_8px_snap_rate": {
+          "iqr": 0.3878198030244593,
+          "median": 0.7306822586897532,
+          "n": 4
+        },
+        "line_height_iqr": {
+          "iqr": 0.016278341443213717,
+          "median": 0.0025188942954758042,
+          "n": 4
+        },
+        "line_height_p50": {
+          "iqr": 0.1633748317631225,
+          "median": 1.2,
+          "n": 4
+        },
+        "neutral_color_share": {
+          "iqr": 0.4319619324044326,
+          "median": 0.7755664421310471,
+          "n": 4
+        },
+        "palette_top5_share": {
+          "iqr": 0.05434782608695654,
+          "median": 1.0,
+          "n": 4
+        },
+        "palette_unique_count": {
+          "iqr": 3.5,
+          "median": 2.0,
+          "n": 4
+        },
+        "saturation_p50": {
+          "iqr": 0.0,
+          "median": 0.0,
+          "n": 4
+        },
+        "type_hierarchy_ratio": {
+          "iqr": 0.4978365384615384,
+          "median": 1.1923076923076923,
+          "n": 4
+        }
+      },
+      "source_groups": 4
+    },
+    "developer_tool": {
+      "aggregation": "source_group_mean_over_retained_captures_v1",
+      "captures": 8,
+      "metrics": {
+        "font_size_iqr_px": {
+          "iqr": 5.426668749999999,
+          "median": 2.5,
+          "n": 4
+        },
+        "font_size_p50_px": {
+          "iqr": 1.0066749999999995,
+          "median": 16.0,
+          "n": 4
+        },
+        "grid_8px_snap_rate": {
+          "iqr": 0.15254312251216284,
+          "median": 0.7338935574229691,
+          "n": 4
+        },
+        "line_height_iqr": {
+          "iqr": 0.0,
+          "median": 0.0,
+          "n": 4
+        },
+        "line_height_p50": {
+          "iqr": 0.0,
+          "median": 1.2,
+          "n": 4
+        },
+        "neutral_color_share": {
+          "iqr": 0.27480811403508765,
+          "median": 0.7543859649122806,
+          "n": 4
+        },
+        "palette_top5_share": {
+          "iqr": 0.015625,
+          "median": 1.0,
+          "n": 4
+        },
+        "palette_unique_count": {
+          "iqr": 2.75,
+          "median": 4.0,
+          "n": 4
+        },
+        "saturation_p50": {
+          "iqr": 0.14359504132231404,
+          "median": 0.0,
+          "n": 4
+        },
+        "type_hierarchy_ratio": {
+          "iqr": 0.3034584712037818,
+          "median": 1.1000015000037502,
+          "n": 4
+        }
+      },
+      "source_groups": 4
+    },
+    "docs_homepage": {
+      "aggregation": "source_group_mean_over_retained_captures_v1",
+      "captures": 16,
+      "metrics": {
+        "font_size_iqr_px": {
+          "iqr": 2.424999999999999,
+          "median": 0.5,
+          "n": 8
+        },
+        "font_size_p50_px": {
+          "iqr": 2.5749999999999993,
+          "median": 16.0,
+          "n": 8
+        },
+        "grid_8px_snap_rate": {
+          "iqr": 0.5185700170472878,
+          "median": 0.6486928104575163,
+          "n": 8
+        },
+        "line_height_iqr": {
+          "iqr": 0.0,
+          "median": 0.0,
+          "n": 8
+        },
+        "line_height_p50": {
+          "iqr": 0.24642857142857144,
+          "median": 1.2,
+          "n": 8
+        },
+        "neutral_color_share": {
+          "iqr": 0.2192583732057417,
+          "median": 0.8658424908424909,
+          "n": 8
+        },
+        "palette_top5_share": {
+          "iqr": 0.019191919191919204,
+          "median": 1.0,
+          "n": 8
+        },
+        "palette_unique_count": {
+          "iqr": 4.0,
+          "median": 4.0,
+          "n": 8
+        },
+        "saturation_p50": {
+          "iqr": 0.018072289156626526,
+          "median": 0.0,
+          "n": 8
+        },
+        "type_hierarchy_ratio": {
+          "iqr": 0.6390190476190456,
+          "median": 1.61875,
+          "n": 8
+        }
+      },
+      "source_groups": 8
+    },
+    "portfolio_showcase": {
+      "aggregation": "source_group_mean_over_retained_captures_v1",
+      "captures": 12,
+      "metrics": {
+        "font_size_iqr_px": {
+          "iqr": 0.5533249999999987,
+          "median": 2.6933499999999997,
+          "n": 6
+        },
+        "font_size_p50_px": {
+          "iqr": 0.0,
+          "median": 16.0,
+          "n": 6
+        },
+        "grid_8px_snap_rate": {
+          "iqr": 0.3770806775749893,
+          "median": 0.74901015837466,
+          "n": 6
+        },
+        "line_height_iqr": {
+          "iqr": 0.1281250000000001,
+          "median": 0.03125,
+          "n": 6
+        },
+        "line_height_p50": {
+          "iqr": 0.30000000000000004,
+          "median": 1.35,
+          "n": 6
+        },
+        "neutral_color_share": {
+          "iqr": 0.5376863788993859,
+          "median": 0.7018633540372671,
+          "n": 6
+        },
+        "palette_top5_share": {
+          "iqr": 0.07375036971310267,
+          "median": 0.959745637385389,
+          "n": 6
+        },
+        "palette_unique_count": {
+          "iqr": 6.5,
+          "median": 8.0,
+          "n": 6
+        },
+        "saturation_p50": {
+          "iqr": 0.15222381635581061,
+          "median": 0.011764705882352955,
+          "n": 6
+        },
+        "type_hierarchy_ratio": {
+          "iqr": 0.20434375000000005,
+          "median": 1.635062500000001,
+          "n": 6
+        }
+      },
+      "source_groups": 6
+    },
+    "product_showcase": {
+      "aggregation": "source_group_mean_over_retained_captures_v1",
+      "captures": 8,
+      "metrics": {
+        "font_size_iqr_px": {
+          "iqr": 4.875,
+          "median": 4.25,
+          "n": 4
+        },
+        "font_size_p50_px": {
+          "iqr": 1.5,
+          "median": 16.0,
+          "n": 4
+        },
+        "grid_8px_snap_rate": {
+          "iqr": 0.09985413498443393,
+          "median": 0.2538678236242298,
+          "n": 4
+        },
+        "line_height_iqr": {
+          "iqr": 0.14062499999999994,
+          "median": 0.043749999999999956,
+          "n": 4
+        },
+        "line_height_p50": {
+          "iqr": 0.15000000000000013,
+          "median": 1.45,
+          "n": 4
+        },
+        "neutral_color_share": {
+          "iqr": 0.2211114662072033,
+          "median": 0.4958791208791209,
+          "n": 4
+        },
+        "palette_top5_share": {
+          "iqr": 0.058457627993393935,
+          "median": 0.9799107142857143,
+          "n": 4
+        },
+        "palette_unique_count": {
+          "iqr": 6.5,
+          "median": 7.0,
+          "n": 4
+        },
+        "saturation_p50": {
+          "iqr": 0.32982770194674427,
+          "median": 0.09756097560975609,
+          "n": 4
+        },
+        "type_hierarchy_ratio": {
+          "iqr": 0.20924999999999994,
+          "median": 1.5,
+          "n": 4
+        }
+      },
+      "source_groups": 4
+    },
+    "saas_landing": {
+      "aggregation": "source_group_mean_over_retained_captures_v1",
+      "captures": 12,
+      "metrics": {
+        "font_size_iqr_px": {
+          "iqr": 11.0,
+          "median": 7.0,
+          "n": 6
+        },
+        "font_size_p50_px": {
+          "iqr": 0.75,
+          "median": 16.0,
+          "n": 6
+        },
+        "grid_8px_snap_rate": {
+          "iqr": 0.19069311168506298,
+          "median": 0.9384685457078554,
+          "n": 6
+        },
+        "line_height_iqr": {
+          "iqr": 0.22500000000000003,
+          "median": 0.0,
+          "n": 6
+        },
+        "line_height_p50": {
+          "iqr": 0.28214285714285725,
+          "median": 1.3142857142857143,
+          "n": 6
+        },
+        "neutral_color_share": {
+          "iqr": 0.2911443701516093,
+          "median": 0.8134703196347032,
+          "n": 6
+        },
+        "palette_top5_share": {
+          "iqr": 0.0200892857142857,
+          "median": 1.0,
+          "n": 6
+        },
+        "palette_unique_count": {
+          "iqr": 5.25,
+          "median": 3.0,
+          "n": 6
+        },
+        "saturation_p50": {
+          "iqr": 0.0,
+          "median": 0.0,
+          "n": 6
+        },
+        "type_hierarchy_ratio": {
+          "iqr": 0.8033333333333335,
+          "median": 1.44,
+          "n": 6
+        }
+      },
+      "source_groups": 6
+    }
+  },
+  "by_viewport": {
+    "390x844": {
+      "aggregation": "source_group_mean_over_retained_captures_v1",
+      "captures": 32,
+      "metrics": {
+        "font_size_iqr_px": {
+          "iqr": 6.0,
+          "median": 2.4499999999999993,
+          "n": 32
+        },
+        "font_size_p50_px": {
+          "iqr": 0.25,
+          "median": 16.0,
+          "n": 32
+        },
+        "grid_8px_snap_rate": {
+          "iqr": 0.5377825090075334,
+          "median": 0.722459819272953,
+          "n": 32
+        },
+        "line_height_iqr": {
+          "iqr": 0.05312500000000003,
+          "median": 0.0,
+          "n": 32
+        },
+        "line_height_p50": {
+          "iqr": 0.30000000000000004,
+          "median": 1.2,
+          "n": 32
+        },
+        "neutral_color_share": {
+          "iqr": 0.3944705978952554,
+          "median": 0.7646520146520146,
+          "n": 32
+        },
+        "palette_top5_share": {
+          "iqr": 0.04215315934065944,
+          "median": 1.0,
+          "n": 32
+        },
+        "palette_unique_count": {
+          "iqr": 6.25,
+          "median": 4.5,
+          "n": 32
+        },
+        "saturation_p50": {
+          "iqr": 0.035719347980155955,
+          "median": 0.0,
+          "n": 32
+        },
+        "type_hierarchy_ratio": {
+          "iqr": 0.7013,
+          "median": 1.5,
+          "n": 32
+        }
+      },
+      "source_groups": 32
+    },
+    "430x932": {
+      "aggregation": "source_group_mean_over_retained_captures_v1",
+      "captures": 32,
+      "metrics": {
+        "font_size_iqr_px": {
+          "iqr": 6.0,
+          "median": 2.4499999999999993,
+          "n": 32
+        },
+        "font_size_p50_px": {
+          "iqr": 0.25,
+          "median": 16.0,
+          "n": 32
+        },
+        "grid_8px_snap_rate": {
+          "iqr": 0.5796549888832196,
+          "median": 0.7412623891497131,
+          "n": 32
+        },
+        "line_height_iqr": {
+          "iqr": 0.05312500000000003,
+          "median": 0.0,
+          "n": 32
+        },
+        "line_height_p50": {
+          "iqr": 0.30000000000000004,
+          "median": 1.2,
+          "n": 32
+        },
+        "neutral_color_share": {
+          "iqr": 0.3944705978952554,
+          "median": 0.7646520146520146,
+          "n": 32
+        },
+        "palette_top5_share": {
+          "iqr": 0.04215315934065944,
+          "median": 1.0,
+          "n": 32
+        },
+        "palette_unique_count": {
+          "iqr": 6.25,
+          "median": 4.5,
+          "n": 32
+        },
+        "saturation_p50": {
+          "iqr": 0.035719347980155955,
+          "median": 0.0,
+          "n": 32
+        },
+        "type_hierarchy_ratio": {
+          "iqr": 0.7013,
+          "median": 1.5,
+          "n": 32
+        }
+      },
+      "source_groups": 32
+    }
+  },
+  "capture_ledger_path": "benchmark/webhumanbench_v1/capture_ledger.json",
+  "capture_ledger_sha256": "2ed5ed70f68f4ca2c92952a39d54970189990a99d7b7d7a2053deb4b62f13ea4",
+  "captures": 64,
+  "created_at": "2026-07-13T10:57:30.200070+00:00",
+  "data_status": "fixed_commit_historical_open_source_reference_cohort",
+  "feature_extractor_version": "computed-style-v3",
+  "overall": {
+    "aggregation": "source_group_mean_over_retained_captures_v1",
+    "captures": 64,
+    "metrics": {
+      "font_size_iqr_px": {
+        "iqr": 6.0,
+        "median": 2.4499999999999993,
+        "n": 32
+      },
+      "font_size_p50_px": {
+        "iqr": 0.25,
+        "median": 16.0,
+        "n": 32
+      },
+      "grid_8px_snap_rate": {
+        "iqr": 0.49871827866423346,
+        "median": 0.72970173985087,
+        "n": 32
+      },
+      "line_height_iqr": {
+        "iqr": 0.05312500000000003,
+        "median": 0.0,
+        "n": 32
+      },
+      "line_height_p50": {
+        "iqr": 0.30000000000000004,
+        "median": 1.2,
+        "n": 32
+      },
+      "neutral_color_share": {
+        "iqr": 0.3944705978952554,
+        "median": 0.7646520146520146,
+        "n": 32
+      },
+      "palette_top5_share": {
+        "iqr": 0.04215315934065944,
+        "median": 1.0,
+        "n": 32
+      },
+      "palette_unique_count": {
+        "iqr": 6.25,
+        "median": 4.5,
+        "n": 32
+      },
+      "saturation_p50": {
+        "iqr": 0.035719347980155955,
+        "median": 0.0,
+        "n": 32
+      },
+      "type_hierarchy_ratio": {
+        "iqr": 0.7013,
+        "median": 1.5,
+        "n": 32
+      }
+    },
+    "source_groups": 32
+  },
+  "paired_mobile_viewport_deltas": {
+    "absolute_delta": {
+      "font_size_iqr_px": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      },
+      "font_size_p50_px": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      },
+      "grid_8px_snap_rate": {
+        "iqr": 0.0789518607033117,
+        "median": 0.01718396073778447,
+        "n": 32
+      },
+      "line_height_iqr": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      },
+      "line_height_p50": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      },
+      "neutral_color_share": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      },
+      "palette_top5_share": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      },
+      "palette_unique_count": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      },
+      "saturation_p50": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      },
+      "type_hierarchy_ratio": {
+        "iqr": 0.0,
+        "median": 0.0,
+        "n": 32
+      }
+    },
+    "paired_source_groups": 32
+  },
+  "records": [
+    {
+      "capture_html_sha256": "ad7b7fb9514b57ee89d5432f05c8107612e674f3807b221619f663183bf4779d",
+      "capture_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64@390x844",
+      "feature_sha256": "175cc1ac867f87b4f346a3b5f7db1e3343c8e153fc779b65fab2e62c5479b9f2",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 8.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 32.0,
+        "grid_8px_snap_rate": 0.8976744186046511,
+        "grid_phase_sample_count": 215,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 85,
+        "neutral_color_share": 0.9819004524886877,
+        "palette_sample_count": 221,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 221,
+        "text_style_sample_count": 85,
+        "type_hierarchy_ratio": 2.0
+      },
+      "source_group": "source-static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+      "source_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "ad7b7fb9514b57ee89d5432f05c8107612e674f3807b221619f663183bf4779d",
+      "capture_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64@430x932",
+      "feature_sha256": "b83964cc35a560db2ffc927bfb65d5ea22472a3efd574202495b7d7f1144bf21",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 8.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 32.0,
+        "grid_8px_snap_rate": 0.8976744186046511,
+        "grid_phase_sample_count": 215,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 85,
+        "neutral_color_share": 0.9819004524886877,
+        "palette_sample_count": 221,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 221,
+        "text_style_sample_count": 85,
+        "type_hierarchy_ratio": 2.0
+      },
+      "source_group": "source-static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+      "source_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "53f2f568073d4991744b1be72a2d5447abb96631ab9619153af30ed18f30b514",
+      "capture_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b@390x844",
+      "feature_sha256": "36e83f1c26eb283de8e6951097254c3d45cd8d61667052b75167b52c471f4b14",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 14.0,
+        "font_size_p90_px": 14.0,
+        "grid_8px_snap_rate": 0.075,
+        "grid_phase_sample_count": 120,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 53,
+        "neutral_color_share": 0.6693548387096774,
+        "palette_sample_count": 124,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.6666666666666666,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 124,
+        "text_style_sample_count": 53,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+      "source_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "53f2f568073d4991744b1be72a2d5447abb96631ab9619153af30ed18f30b514",
+      "capture_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b@430x932",
+      "feature_sha256": "7fc99152ccf614ff72c70b1dea71a4e14f051532ea158842936a19ce41f09ea2",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 14.0,
+        "font_size_p90_px": 14.0,
+        "grid_8px_snap_rate": 0.075,
+        "grid_phase_sample_count": 120,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 53,
+        "neutral_color_share": 0.6693548387096774,
+        "palette_sample_count": 124,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.6666666666666666,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 124,
+        "text_style_sample_count": 53,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+      "source_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "ca79ed541ba00c4edf9236ade8a31b2967d1b0fe4fe29433ddbcc43d271abe83",
+      "capture_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e@390x844",
+      "feature_sha256": "a7ea3b8836b2d24475a51454c6404deb0326f6adc9184efa9000483b95ee1438",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 14.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 36.0,
+        "grid_8px_snap_rate": 0.9611650485436893,
+        "grid_phase_sample_count": 103,
+        "line_height_iqr": 0.30000000000000004,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 44,
+        "neutral_color_share": 0.5,
+        "palette_sample_count": 104,
+        "palette_top5_share": 0.9519230769230769,
+        "palette_unique_count": 10,
+        "saturation_iqr": 0.09787439613526559,
+        "saturation_p50": 0.1467149758454106,
+        "saturation_sample_count": 104,
+        "text_style_sample_count": 44,
+        "type_hierarchy_ratio": 2.25
+      },
+      "source_group": "source-static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+      "source_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "ca79ed541ba00c4edf9236ade8a31b2967d1b0fe4fe29433ddbcc43d271abe83",
+      "capture_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e@430x932",
+      "feature_sha256": "79196ed40679cebb9b766895b40513521da8f352e0e4491297ad41838d284144",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 14.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 36.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 103,
+        "line_height_iqr": 0.30000000000000004,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 44,
+        "neutral_color_share": 0.5,
+        "palette_sample_count": 104,
+        "palette_top5_share": 0.9519230769230769,
+        "palette_unique_count": 10,
+        "saturation_iqr": 0.09787439613526559,
+        "saturation_p50": 0.1467149758454106,
+        "saturation_sample_count": 104,
+        "text_style_sample_count": 44,
+        "type_hierarchy_ratio": 2.25
+      },
+      "source_group": "source-static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+      "source_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "18bc5b0167f901697c334d02c0011352a262573a62ab18ac38280ca63ff41033",
+      "capture_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437@390x844",
+      "feature_sha256": "0fdaba6d9d48d6d39b92e629b6d63835360602e6d4cd64ef41accf6723da1b71",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.9815668202764977,
+        "grid_phase_sample_count": 217,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 92,
+        "neutral_color_share": 0.9269406392694064,
+        "palette_sample_count": 219,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 219,
+        "text_style_sample_count": 92,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+      "source_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "18bc5b0167f901697c334d02c0011352a262573a62ab18ac38280ca63ff41033",
+      "capture_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437@430x932",
+      "feature_sha256": "2e532df9f47adbec1169f092d405bbcf406edaac16c8d48820c9d8d6bdaebf96",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.9769585253456221,
+        "grid_phase_sample_count": 217,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 92,
+        "neutral_color_share": 0.9269406392694064,
+        "palette_sample_count": 219,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 219,
+        "text_style_sample_count": 92,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+      "source_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "028729e698455f9353153fee78063509ba6e89c305c70a6c16b99b63e72c29de",
+      "capture_id": "static-saas-landing-tableau-tabpy-6998dfe20a08@390x844",
+      "feature_sha256": "b5289971d50a6f08e7c1ba593c0e7ff5fe858a0d51ea580c48e7b587523fe5ed",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 16.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 24.0,
+        "font_size_p90_px": 32.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 10,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 6,
+        "neutral_color_share": 0.7,
+        "palette_sample_count": 10,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 0.75,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 10,
+        "text_style_sample_count": 6,
+        "type_hierarchy_ratio": 1.3333333333333333
+      },
+      "source_group": "source-static-saas-landing-tableau-tabpy-6998dfe20a08",
+      "source_id": "static-saas-landing-tableau-tabpy-6998dfe20a08",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "028729e698455f9353153fee78063509ba6e89c305c70a6c16b99b63e72c29de",
+      "capture_id": "static-saas-landing-tableau-tabpy-6998dfe20a08@430x932",
+      "feature_sha256": "b5289971d50a6f08e7c1ba593c0e7ff5fe858a0d51ea580c48e7b587523fe5ed",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 16.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 24.0,
+        "font_size_p90_px": 32.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 10,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 6,
+        "neutral_color_share": 0.7,
+        "palette_sample_count": 10,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 0.75,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 10,
+        "text_style_sample_count": 6,
+        "type_hierarchy_ratio": 1.3333333333333333
+      },
+      "source_group": "source-static-saas-landing-tableau-tabpy-6998dfe20a08",
+      "source_id": "static-saas-landing-tableau-tabpy-6998dfe20a08",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "384f0c6310cadecdef6067f40551d4b07c3310a648534bf267e5743fe85a7664",
+      "capture_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a@390x844",
+      "feature_sha256": "590159fdf35424704ed5a9f69cfd0e66eb315841f56dceef408588f734fca973",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 6.0,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 15.0,
+        "font_size_p90_px": 23.200000000000003,
+        "grid_8px_snap_rate": 0.7652582159624414,
+        "grid_phase_sample_count": 213,
+        "line_height_iqr": 0.32857333333333316,
+        "line_height_p50": 1.4285714285714286,
+        "line_height_sample_count": 65,
+        "neutral_color_share": 0.9910714285714286,
+        "palette_sample_count": 224,
+        "palette_top5_share": 0.9732142857142857,
+        "palette_unique_count": 10,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 224,
+        "text_style_sample_count": 65,
+        "type_hierarchy_ratio": 1.5466666666666669
+      },
+      "source_group": "source-static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+      "source_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "780941faa4485e13e1f55058514d38ca5bb4583bb65d7a9c025ecd3de8ccbc61",
+      "capture_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a@430x932",
+      "feature_sha256": "4c8eff5247f2135336661180a9eda1714d184aa8c384ed4202e37be8eb7d1c76",
+      "page_type": "saas_landing",
+      "profile": {
+        "font_size_iqr_px": 6.0,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 15.0,
+        "font_size_p90_px": 23.200000000000003,
+        "grid_8px_snap_rate": 0.7417840375586855,
+        "grid_phase_sample_count": 213,
+        "line_height_iqr": 0.32857333333333316,
+        "line_height_p50": 1.4285714285714286,
+        "line_height_sample_count": 65,
+        "neutral_color_share": 0.9910714285714286,
+        "palette_sample_count": 224,
+        "palette_top5_share": 0.9732142857142857,
+        "palette_unique_count": 10,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 224,
+        "text_style_sample_count": 65,
+        "type_hierarchy_ratio": 1.5466666666666669
+      },
+      "source_group": "source-static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+      "source_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "5acb8c4ea2772f6623f8480960881add310bd869501f390394686c98d1740e9d",
+      "capture_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db@390x844",
+      "feature_sha256": "231efb7cc691ab36a5a13188e1a952fecb494cc2cc1743fb0e61a78ef5ca7459",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 13.3333,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 24.0,
+        "grid_8px_snap_rate": 0.937984496124031,
+        "grid_phase_sample_count": 129,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 61,
+        "neutral_color_share": 0.924812030075188,
+        "palette_sample_count": 133,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 133,
+        "text_style_sample_count": 61,
+        "type_hierarchy_ratio": 1.5
+      },
+      "source_group": "source-static-docs-homepage-apache-cordova-docs-eca53cb118db",
+      "source_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "5acb8c4ea2772f6623f8480960881add310bd869501f390394686c98d1740e9d",
+      "capture_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db@430x932",
+      "feature_sha256": "c39b597ab8f3347ad34fa4f88f79a06ad3a966c78080a9ede6769cc99046726b",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 13.3333,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 24.0,
+        "grid_8px_snap_rate": 0.9302325581395349,
+        "grid_phase_sample_count": 129,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 61,
+        "neutral_color_share": 0.924812030075188,
+        "palette_sample_count": 133,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 133,
+        "text_style_sample_count": 61,
+        "type_hierarchy_ratio": 1.5
+      },
+      "source_group": "source-static-docs-homepage-apache-cordova-docs-eca53cb118db",
+      "source_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "c41967377ea3f9762e95d7d99e075262976c1f71bae3d210aeaed8dc3937aee5",
+      "capture_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343@390x844",
+      "feature_sha256": "c3f4ef879e1103e57f36b94cab31e96f7ee3f33922dfb96793678600ef53cb8c",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 14.0,
+        "font_size_p90_px": 17.000000000000043,
+        "grid_8px_snap_rate": 0.8823529411764706,
+        "grid_phase_sample_count": 51,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.4285714285714286,
+        "line_height_sample_count": 38,
+        "neutral_color_share": 0.9272727272727272,
+        "palette_sample_count": 55,
+        "palette_top5_share": 0.9818181818181818,
+        "palette_unique_count": 6,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 55,
+        "text_style_sample_count": 38,
+        "type_hierarchy_ratio": 1.2142857142857173
+      },
+      "source_group": "source-static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+      "source_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "c41967377ea3f9762e95d7d99e075262976c1f71bae3d210aeaed8dc3937aee5",
+      "capture_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343@430x932",
+      "feature_sha256": "75f12ebbf46ad647c799da8fc24827666521c77702a275bbfc7713c8a9910048",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 14.0,
+        "font_size_p90_px": 17.000000000000043,
+        "grid_8px_snap_rate": 0.8235294117647058,
+        "grid_phase_sample_count": 51,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.4285714285714286,
+        "line_height_sample_count": 38,
+        "neutral_color_share": 0.9272727272727272,
+        "palette_sample_count": 55,
+        "palette_top5_share": 0.9818181818181818,
+        "palette_unique_count": 6,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 55,
+        "text_style_sample_count": 38,
+        "type_hierarchy_ratio": 1.2142857142857173
+      },
+      "source_group": "source-static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+      "source_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "5356d4a2cd0b6fd1d6b8812999e60508b6cd6603f3ec8d7670cd0050bd81931a",
+      "capture_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9@390x844",
+      "feature_sha256": "7602565ee0b1e0aee441ae650b3451d50f595b33abe0627536bf8723e28b995b",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 2.5,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 27.799999999999997,
+        "grid_8px_snap_rate": 0.4444444444444444,
+        "grid_phase_sample_count": 9,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 8,
+        "neutral_color_share": 1.0,
+        "palette_sample_count": 9,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 1,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 9,
+        "text_style_sample_count": 8,
+        "type_hierarchy_ratio": 1.7374999999999998
+      },
+      "source_group": "source-static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+      "source_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "5356d4a2cd0b6fd1d6b8812999e60508b6cd6603f3ec8d7670cd0050bd81931a",
+      "capture_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9@430x932",
+      "feature_sha256": "7602565ee0b1e0aee441ae650b3451d50f595b33abe0627536bf8723e28b995b",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 2.5,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 27.799999999999997,
+        "grid_8px_snap_rate": 0.4444444444444444,
+        "grid_phase_sample_count": 9,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 8,
+        "neutral_color_share": 1.0,
+        "palette_sample_count": 9,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 1,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 9,
+        "text_style_sample_count": 8,
+        "type_hierarchy_ratio": 1.7374999999999998
+      },
+      "source_group": "source-static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+      "source_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "29de8b37ac5859d157d8d21711782451680d0111bf9390a369cd5712411b783e",
+      "capture_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579@390x844",
+      "feature_sha256": "4144c1b522f1254de118bb35ab8615f1e92a28ae54315c5cd676a4fe72727bfc",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 24.0,
+        "font_size_p90_px": 24.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 44,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 17,
+        "neutral_color_share": 0.6818181818181818,
+        "palette_sample_count": 44,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 1.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 44,
+        "text_style_sample_count": 17,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+      "source_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "29de8b37ac5859d157d8d21711782451680d0111bf9390a369cd5712411b783e",
+      "capture_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579@430x932",
+      "feature_sha256": "d0aab5992f6b27cb886187185f9153ccd3fffa607ee23df183bf04237789b4d7",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 24.0,
+        "font_size_p90_px": 24.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 44,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 17,
+        "neutral_color_share": 0.6818181818181818,
+        "palette_sample_count": 44,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 1.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 44,
+        "text_style_sample_count": 17,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+      "source_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "7a5bd55b85e966baa93d581c3d0e9d5148c9a654f683aee4935cae91348a105b",
+      "capture_id": "static-docs-homepage-pandao-editor-md-6900c1536aef@390x844",
+      "feature_sha256": "c469692e93ade0c834f5e7a3f3d2c142ffe6298a92958c440bee53fed7915fb3",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 21.9,
+        "font_size_p10_px": 12.599999999999998,
+        "font_size_p50_px": 21.3,
+        "font_size_p90_px": 42.6,
+        "grid_8px_snap_rate": 0.42857142857142855,
+        "grid_phase_sample_count": 7,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 4,
+        "neutral_color_share": 0.7142857142857143,
+        "palette_sample_count": 7,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 0.4638554216867469,
+        "saturation_p50": 0.0722891566265061,
+        "saturation_sample_count": 7,
+        "text_style_sample_count": 4,
+        "type_hierarchy_ratio": 2.0
+      },
+      "source_group": "source-static-docs-homepage-pandao-editor-md-6900c1536aef",
+      "source_id": "static-docs-homepage-pandao-editor-md-6900c1536aef",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "7a5bd55b85e966baa93d581c3d0e9d5148c9a654f683aee4935cae91348a105b",
+      "capture_id": "static-docs-homepage-pandao-editor-md-6900c1536aef@430x932",
+      "feature_sha256": "7771bb0f2109a978e0ae7c16acf9de611680f995103346d825d696aba7606542",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 21.9,
+        "font_size_p10_px": 12.599999999999998,
+        "font_size_p50_px": 21.3,
+        "font_size_p90_px": 42.6,
+        "grid_8px_snap_rate": 0.42857142857142855,
+        "grid_phase_sample_count": 7,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 4,
+        "neutral_color_share": 0.7142857142857143,
+        "palette_sample_count": 7,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 0.4638554216867469,
+        "saturation_p50": 0.0722891566265061,
+        "saturation_sample_count": 7,
+        "text_style_sample_count": 4,
+        "type_hierarchy_ratio": 2.0
+      },
+      "source_group": "source-static-docs-homepage-pandao-editor-md-6900c1536aef",
+      "source_id": "static-docs-homepage-pandao-editor-md-6900c1536aef",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "03aff5cc07df459eafc11b1ba31fa525e41a3624789324d87cb718d83447c93e",
+      "capture_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be@390x844",
+      "feature_sha256": "68b4ce964a8f449385caa821f0216b3967632776431ab37c58ff8d454a01ad69",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 2.3999999999999986,
+        "font_size_p10_px": 12.8,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 28.083200000000005,
+        "grid_8px_snap_rate": 0.16279069767441862,
+        "grid_phase_sample_count": 129,
+        "line_height_iqr": 0.30000000000000004,
+        "line_height_p50": 1.6,
+        "line_height_sample_count": 50,
+        "neutral_color_share": 0.05925925925925926,
+        "palette_sample_count": 135,
+        "palette_top5_share": 0.9777777777777777,
+        "palette_unique_count": 6,
+        "saturation_iqr": 0.1752369668246445,
+        "saturation_p50": 0.725,
+        "saturation_sample_count": 135,
+        "text_style_sample_count": 50,
+        "type_hierarchy_ratio": 1.7552000000000003
+      },
+      "source_group": "source-static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+      "source_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "03aff5cc07df459eafc11b1ba31fa525e41a3624789324d87cb718d83447c93e",
+      "capture_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be@430x932",
+      "feature_sha256": "570392dea4f4a6c4dcc6cd8605d36aa6f394e50c36f13211b345bf6919745956",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 2.3999999999999986,
+        "font_size_p10_px": 12.8,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 28.083200000000005,
+        "grid_8px_snap_rate": 0.12403100775193798,
+        "grid_phase_sample_count": 129,
+        "line_height_iqr": 0.30000000000000004,
+        "line_height_p50": 1.6,
+        "line_height_sample_count": 50,
+        "neutral_color_share": 0.05925925925925926,
+        "palette_sample_count": 135,
+        "palette_top5_share": 0.9777777777777777,
+        "palette_unique_count": 6,
+        "saturation_iqr": 0.1752369668246445,
+        "saturation_p50": 0.725,
+        "saturation_sample_count": 135,
+        "text_style_sample_count": 50,
+        "type_hierarchy_ratio": 1.7552000000000003
+      },
+      "source_group": "source-static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+      "source_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "3eea3fe1526224f44042dbc4dcadfecc37252341b44bca49a01b4b9de1421a6b",
+      "capture_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0@390x844",
+      "feature_sha256": "bddfc9b351b5f34e1dbe9839ccef88147526efaba06798040896130502da14cc",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 1.0,
+        "font_size_p10_px": 15.0,
+        "font_size_p50_px": 15.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.2844488188976378,
+        "grid_phase_sample_count": 1016,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 696,
+        "neutral_color_share": 0.815018315018315,
+        "palette_sample_count": 1092,
+        "palette_top5_share": 0.9404761904761905,
+        "palette_unique_count": 11,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 1092,
+        "text_style_sample_count": 696,
+        "type_hierarchy_ratio": 1.0666666666666667
+      },
+      "source_group": "source-static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+      "source_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "3eea3fe1526224f44042dbc4dcadfecc37252341b44bca49a01b4b9de1421a6b",
+      "capture_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0@430x932",
+      "feature_sha256": "546b86c206dea80d2980d75d5eaf3504f1b1b327bb2566478110985356394d0f",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 1.0,
+        "font_size_p10_px": 15.0,
+        "font_size_p50_px": 15.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.2637795275590551,
+        "grid_phase_sample_count": 1016,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 696,
+        "neutral_color_share": 0.815018315018315,
+        "palette_sample_count": 1092,
+        "palette_top5_share": 0.9404761904761905,
+        "palette_unique_count": 11,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 1092,
+        "text_style_sample_count": 696,
+        "type_hierarchy_ratio": 1.0666666666666667
+      },
+      "source_group": "source-static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+      "source_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "276da4cb230b8be68d3be04b04221238b9df512da4d7d3291529d133f2862f03",
+      "capture_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd@390x844",
+      "feature_sha256": "bfd4202c2e4d4778b33594bd1cb31a8d21096dffe78edcbc2a7ec26c8a536932",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 10.0,
+        "font_size_p50_px": 10.0,
+        "font_size_p90_px": 55.0,
+        "grid_8px_snap_rate": 0.8,
+        "grid_phase_sample_count": 10,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.0,
+        "line_height_sample_count": 6,
+        "neutral_color_share": 0.9166666666666666,
+        "palette_sample_count": 12,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 5,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 12,
+        "text_style_sample_count": 6,
+        "type_hierarchy_ratio": 5.5
+      },
+      "source_group": "source-static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+      "source_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "276da4cb230b8be68d3be04b04221238b9df512da4d7d3291529d133f2862f03",
+      "capture_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd@430x932",
+      "feature_sha256": "4d31820b1e22557fc552bf60b8d4cf983533773ea7430ed2320eb59d828c598f",
+      "page_type": "docs_homepage",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 10.0,
+        "font_size_p50_px": 10.0,
+        "font_size_p90_px": 55.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 10,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.0,
+        "line_height_sample_count": 6,
+        "neutral_color_share": 0.9166666666666666,
+        "palette_sample_count": 12,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 5,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 12,
+        "text_style_sample_count": 6,
+        "type_hierarchy_ratio": 5.5
+      },
+      "source_group": "source-static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+      "source_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "ef1688dc36a413a8c2f86e565cbb973b652b63b23b0f4905e35d7daa970e1c96",
+      "capture_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268@390x844",
+      "feature_sha256": "f67d877dd49f7a689b6334ee552d874260b73ea9b0065a0d9e015b2603b5afc0",
+      "page_type": "product_showcase",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 24.0,
+        "grid_8px_snap_rate": 0.19540229885057472,
+        "grid_phase_sample_count": 87,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.4,
+        "line_height_sample_count": 35,
+        "neutral_color_share": 0.5274725274725275,
+        "palette_sample_count": 91,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 5,
+        "saturation_iqr": 0.9325396825396826,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 91,
+        "text_style_sample_count": 35,
+        "type_hierarchy_ratio": 1.5
+      },
+      "source_group": "source-static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+      "source_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "ef1688dc36a413a8c2f86e565cbb973b652b63b23b0f4905e35d7daa970e1c96",
+      "capture_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268@430x932",
+      "feature_sha256": "2ad54519227b2e253ae70b393aa60e9e02af809d18a566f8d79d5d6dd21eed9f",
+      "page_type": "product_showcase",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 24.0,
+        "grid_8px_snap_rate": 0.26436781609195403,
+        "grid_phase_sample_count": 87,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.4,
+        "line_height_sample_count": 35,
+        "neutral_color_share": 0.5274725274725275,
+        "palette_sample_count": 91,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 5,
+        "saturation_iqr": 0.9325396825396826,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 91,
+        "text_style_sample_count": 35,
+        "type_hierarchy_ratio": 1.5
+      },
+      "source_group": "source-static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+      "source_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "ca6e341d953df18c6b130284ccdd7861922dcad1b0cc8317639e4f0c2ac62fb5",
+      "capture_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93@390x844",
+      "feature_sha256": "cb45a67b20ebcc65fe5f4d30cf2ecdd3cb4139dba2531167c8a811361bed2f9d",
+      "page_type": "product_showcase",
+      "profile": {
+        "font_size_iqr_px": 6.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 20.0,
+        "font_size_p90_px": 23.14,
+        "grid_8px_snap_rate": 0.30144167758846657,
+        "grid_phase_sample_count": 763,
+        "line_height_iqr": 0.30000000000000004,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 161,
+        "neutral_color_share": 0.23815028901734103,
+        "palette_sample_count": 865,
+        "palette_top5_share": 0.8867052023121387,
+        "palette_unique_count": 18,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.19512195121951217,
+        "saturation_sample_count": 865,
+        "text_style_sample_count": 161,
+        "type_hierarchy_ratio": 1.157
+      },
+      "source_group": "source-static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+      "source_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "67f6c54d03ab195291721def397b33c70e11ee7c59e965d010cdc5d6f2d71e6d",
+      "capture_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93@430x932",
+      "feature_sha256": "6ad04ab9b92c881a43aa015b3b47842b97db8b2d373bad36fbd396ee18e023db",
+      "page_type": "product_showcase",
+      "profile": {
+        "font_size_iqr_px": 6.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 20.0,
+        "font_size_p90_px": 23.38,
+        "grid_8px_snap_rate": 0.254259501965924,
+        "grid_phase_sample_count": 763,
+        "line_height_iqr": 0.30000000000000004,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 161,
+        "neutral_color_share": 0.23815028901734103,
+        "palette_sample_count": 865,
+        "palette_top5_share": 0.8867052023121387,
+        "palette_unique_count": 18,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.19512195121951217,
+        "saturation_sample_count": 865,
+        "text_style_sample_count": 161,
+        "type_hierarchy_ratio": 1.169
+      },
+      "source_group": "source-static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+      "source_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "023fa00904f0f2a78aaa8970a36fa6935a7eb366f3d6a06e29a2e6cbd731a52d",
+      "capture_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8@390x844",
+      "feature_sha256": "642619d595f4d2597b8ce959815ae0532f2eb8df58d63ab38683db34e576765f",
+      "page_type": "product_showcase",
+      "profile": {
+        "font_size_iqr_px": 9.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 32.0,
+        "grid_8px_snap_rate": 0.14903846153846154,
+        "grid_phase_sample_count": 208,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 60,
+        "neutral_color_share": 0.9330357142857143,
+        "palette_sample_count": 224,
+        "palette_top5_share": 0.9598214285714286,
+        "palette_unique_count": 9,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 224,
+        "text_style_sample_count": 60,
+        "type_hierarchy_ratio": 2.0
+      },
+      "source_group": "source-static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+      "source_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "023fa00904f0f2a78aaa8970a36fa6935a7eb366f3d6a06e29a2e6cbd731a52d",
+      "capture_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8@430x932",
+      "feature_sha256": "b5eedc62e3230c757500022d7917110d25a983bdd88e623d1e416b47dae26db7",
+      "page_type": "product_showcase",
+      "profile": {
+        "font_size_iqr_px": 9.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 32.0,
+        "grid_8px_snap_rate": 0.30288461538461536,
+        "grid_phase_sample_count": 208,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 60,
+        "neutral_color_share": 0.9330357142857143,
+        "palette_sample_count": 224,
+        "palette_top5_share": 0.9598214285714286,
+        "palette_unique_count": 9,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 224,
+        "text_style_sample_count": 60,
+        "type_hierarchy_ratio": 2.0
+      },
+      "source_group": "source-static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+      "source_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "f4e4718c876b1abf0fa0453f29a186b7242c06d2d76a223fe4f0d223189a26cf",
+      "capture_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111@390x844",
+      "feature_sha256": "88e47cd1dd0c73b0783cb9e2a738dd7973072c66c4ef06bbb8c372e38faca37e",
+      "page_type": "product_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.5,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 14.0,
+        "font_size_p90_px": 21.0,
+        "grid_8px_snap_rate": 0.48148148148148145,
+        "grid_phase_sample_count": 27,
+        "line_height_iqr": 0.08749999999999991,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 4,
+        "neutral_color_share": 0.4642857142857143,
+        "palette_sample_count": 28,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 4,
+        "saturation_iqr": 0.7339449541284404,
+        "saturation_p50": 0.7339449541284404,
+        "saturation_sample_count": 28,
+        "text_style_sample_count": 4,
+        "type_hierarchy_ratio": 1.5
+      },
+      "source_group": "source-static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+      "source_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "f4e4718c876b1abf0fa0453f29a186b7242c06d2d76a223fe4f0d223189a26cf",
+      "capture_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111@430x932",
+      "feature_sha256": "6125f336d15d56b054e2be34c0af0bf0c58cf200105ab0c30074cf7a296e88a1",
+      "page_type": "product_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.5,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 14.0,
+        "font_size_p90_px": 21.0,
+        "grid_8px_snap_rate": 0.48148148148148145,
+        "grid_phase_sample_count": 27,
+        "line_height_iqr": 0.08749999999999991,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 4,
+        "neutral_color_share": 0.4642857142857143,
+        "palette_sample_count": 28,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 4,
+        "saturation_iqr": 0.7339449541284404,
+        "saturation_p50": 0.7339449541284404,
+        "saturation_sample_count": 28,
+        "text_style_sample_count": 4,
+        "type_hierarchy_ratio": 1.5
+      },
+      "source_group": "source-static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+      "source_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "00df1c55f49e6c33ab7483ab79ce8077e59111028c9092c114708d891532be94",
+      "capture_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4@390x844",
+      "feature_sha256": "64c1769332407f8bbf4d6352522476bd58dd6b05624fc4dd6b66cbff062c99cb",
+      "page_type": "developer_tool",
+      "profile": {
+        "font_size_iqr_px": 5.0,
+        "font_size_p10_px": 11.0,
+        "font_size_p50_px": 13.3333,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.4,
+        "grid_phase_sample_count": 20,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 12,
+        "neutral_color_share": 0.9166666666666666,
+        "palette_sample_count": 24,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 5,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 24,
+        "text_style_sample_count": 12,
+        "type_hierarchy_ratio": 1.2000030000075002
+      },
+      "source_group": "source-static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+      "source_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "00df1c55f49e6c33ab7483ab79ce8077e59111028c9092c114708d891532be94",
+      "capture_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4@430x932",
+      "feature_sha256": "5f32e7e2537e090f0d82ec337d4dc04d7def351c12dd7472dd86c0b17ffdec02",
+      "page_type": "developer_tool",
+      "profile": {
+        "font_size_iqr_px": 5.0,
+        "font_size_p10_px": 11.0,
+        "font_size_p50_px": 13.3333,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.4,
+        "grid_phase_sample_count": 20,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 12,
+        "neutral_color_share": 0.9166666666666666,
+        "palette_sample_count": 24,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 5,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 24,
+        "text_style_sample_count": 12,
+        "type_hierarchy_ratio": 1.2000030000075002
+      },
+      "source_group": "source-static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+      "source_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "a14a9089816e75113cdce3e2c23edaae8b49d0d5b79c0c6310ac6f8c8ac2b848",
+      "capture_id": "static-developer-tool-karatelabs-karate-fc0ca2607186@390x844",
+      "feature_sha256": "ed1e61b4cdd434d0b4c5aef77b9bafe56c3ed387e09f5d52937e5e3a828002be",
+      "page_type": "developer_tool",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.8421052631578947,
+        "grid_phase_sample_count": 19,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 10,
+        "neutral_color_share": 0.8421052631578947,
+        "palette_sample_count": 19,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 19,
+        "text_style_sample_count": 10,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-developer-tool-karatelabs-karate-fc0ca2607186",
+      "source_id": "static-developer-tool-karatelabs-karate-fc0ca2607186",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "a14a9089816e75113cdce3e2c23edaae8b49d0d5b79c0c6310ac6f8c8ac2b848",
+      "capture_id": "static-developer-tool-karatelabs-karate-fc0ca2607186@430x932",
+      "feature_sha256": "ed1e61b4cdd434d0b4c5aef77b9bafe56c3ed387e09f5d52937e5e3a828002be",
+      "page_type": "developer_tool",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.8421052631578947,
+        "grid_phase_sample_count": 19,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 10,
+        "neutral_color_share": 0.8421052631578947,
+        "palette_sample_count": 19,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 19,
+        "text_style_sample_count": 10,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-developer-tool-karatelabs-karate-fc0ca2607186",
+      "source_id": "static-developer-tool-karatelabs-karate-fc0ca2607186",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "27ef30ebeccfe0777d587b3d1e54506f5bfc91bb3efed89a46207dd1b909ceed",
+      "capture_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69@390x844",
+      "feature_sha256": "aba643e8891a00adee2df3a646d5c0deb494f954b6fd473ab46552c35467bbcc",
+      "page_type": "developer_tool",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.5238095238095238,
+        "grid_phase_sample_count": 21,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 11,
+        "neutral_color_share": 0.34375,
+        "palette_sample_count": 32,
+        "palette_top5_share": 0.9375,
+        "palette_unique_count": 7,
+        "saturation_iqr": 0.6160714285714285,
+        "saturation_p50": 0.5743801652892562,
+        "saturation_sample_count": 32,
+        "text_style_sample_count": 11,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+      "source_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "27ef30ebeccfe0777d587b3d1e54506f5bfc91bb3efed89a46207dd1b909ceed",
+      "capture_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69@430x932",
+      "feature_sha256": "a029e6311a13cc6dfd1d70e1a9b89ecb7717aa27a01d3fb324b5c3b26a63a998",
+      "page_type": "developer_tool",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 21,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 11,
+        "neutral_color_share": 0.34375,
+        "palette_sample_count": 32,
+        "palette_top5_share": 0.9375,
+        "palette_unique_count": 7,
+        "saturation_iqr": 0.6160714285714285,
+        "saturation_p50": 0.5743801652892562,
+        "saturation_sample_count": 32,
+        "text_style_sample_count": 11,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+      "source_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "dd33002210fd0da345be493acc4af18072b0ca95100fb59a44ee38ac058ed15b",
+      "capture_id": "static-developer-tool-reactide-reactide-3a633e7df200@390x844",
+      "feature_sha256": "a34122e187f006242a67bb96c3afbd9cb62f82fb7e639d7bda56f39b5ab1d2f4",
+      "page_type": "developer_tool",
+      "profile": {
+        "font_size_iqr_px": 6.706674999999999,
+        "font_size_p10_px": 14.13331,
+        "font_size_p50_px": 17.36,
+        "font_size_p90_px": 28.016000000000002,
+        "grid_8px_snap_rate": 0.8235294117647058,
+        "grid_phase_sample_count": 17,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 4,
+        "neutral_color_share": 0.6666666666666666,
+        "palette_sample_count": 27,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.8653061224489796,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 27,
+        "text_style_sample_count": 4,
+        "type_hierarchy_ratio": 1.6138248847926269
+      },
+      "source_group": "source-static-developer-tool-reactide-reactide-3a633e7df200",
+      "source_id": "static-developer-tool-reactide-reactide-3a633e7df200",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "dd33002210fd0da345be493acc4af18072b0ca95100fb59a44ee38ac058ed15b",
+      "capture_id": "static-developer-tool-reactide-reactide-3a633e7df200@430x932",
+      "feature_sha256": "1730c3f548683a6155486354f55277cf4dd4a65c96b011fa5a0eca70753bb746",
+      "page_type": "developer_tool",
+      "profile": {
+        "font_size_iqr_px": 6.706674999999999,
+        "font_size_p10_px": 14.13331,
+        "font_size_p50_px": 17.36,
+        "font_size_p90_px": 28.016000000000002,
+        "grid_8px_snap_rate": 0.5882352941176471,
+        "grid_phase_sample_count": 17,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 4,
+        "neutral_color_share": 0.6666666666666666,
+        "palette_sample_count": 27,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.8653061224489796,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 27,
+        "text_style_sample_count": 4,
+        "type_hierarchy_ratio": 1.6138248847926269
+      },
+      "source_group": "source-static-developer-tool-reactide-reactide-3a633e7df200",
+      "source_id": "static-developer-tool-reactide-reactide-3a633e7df200",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "4679e983dba099d1879e0b0752ab86b5f4465a903a1db6a11a7ced878a9cb658",
+      "capture_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee@390x844",
+      "feature_sha256": "b221ae24d507a4222e1ae88fbe0768d5d029fd11714dc65c8e0e9cce7422df17",
+      "page_type": "dashboard_shell",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.9863013698630136,
+        "grid_phase_sample_count": 73,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 41,
+        "neutral_color_share": 0.5342465753424658,
+        "palette_sample_count": 73,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 1.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 73,
+        "text_style_sample_count": 41,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+      "source_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "4679e983dba099d1879e0b0752ab86b5f4465a903a1db6a11a7ced878a9cb658",
+      "capture_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee@430x932",
+      "feature_sha256": "dfb4083095771b5688f554cff3c807934031455e5e4e36d7cfb9de55d38138ae",
+      "page_type": "dashboard_shell",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.9726027397260274,
+        "grid_phase_sample_count": 73,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 41,
+        "neutral_color_share": 0.5342465753424658,
+        "palette_sample_count": 73,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 1.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 73,
+        "text_style_sample_count": 41,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+      "source_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "f6c0ee51be79a38481af1389ae89bbb6ceedb9ee7d70ce29e6744919eff324dc",
+      "capture_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6@390x844",
+      "feature_sha256": "077aefdcae83dd86ac014de10f29bc6f401c54db205d4a5288f6ee2351a995f4",
+      "page_type": "dashboard_shell",
+      "profile": {
+        "font_size_iqr_px": 12.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 29.400000000000002,
+        "grid_8px_snap_rate": 0.3333333333333333,
+        "grid_phase_sample_count": 27,
+        "line_height_iqr": 0.050000000000000044,
+        "line_height_p50": 1.15,
+        "line_height_sample_count": 9,
+        "neutral_color_share": 1.0,
+        "palette_sample_count": 28,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 1,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 28,
+        "text_style_sample_count": 9,
+        "type_hierarchy_ratio": 1.8375000000000001
+      },
+      "source_group": "source-static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+      "source_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "f6c0ee51be79a38481af1389ae89bbb6ceedb9ee7d70ce29e6744919eff324dc",
+      "capture_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6@430x932",
+      "feature_sha256": "63503a933e8aa83952d5d9aaa89ca5f3726415bc4ea25e4b07a3e3ef7f9a7f71",
+      "page_type": "dashboard_shell",
+      "profile": {
+        "font_size_iqr_px": 12.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 29.400000000000002,
+        "grid_8px_snap_rate": 0.7407407407407407,
+        "grid_phase_sample_count": 27,
+        "line_height_iqr": 0.050000000000000044,
+        "line_height_p50": 1.15,
+        "line_height_sample_count": 9,
+        "neutral_color_share": 1.0,
+        "palette_sample_count": 28,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 1,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 28,
+        "text_style_sample_count": 9,
+        "type_hierarchy_ratio": 1.8375000000000001
+      },
+      "source_group": "source-static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+      "source_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "d5762998136902d4e9f74e0c8ebb15ade08512942bda5543aad235e13b210ac9",
+      "capture_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a@390x844",
+      "feature_sha256": "e82415fd456122802b8652fc727584fab72c58bb6711293f8310f20118bef4f7",
+      "page_type": "dashboard_shell",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.9154929577464789,
+        "grid_phase_sample_count": 71,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 28,
+        "neutral_color_share": 0.9859154929577465,
+        "palette_sample_count": 71,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 71,
+        "text_style_sample_count": 28,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+      "source_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "d5762998136902d4e9f74e0c8ebb15ade08512942bda5543aad235e13b210ac9",
+      "capture_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a@430x932",
+      "feature_sha256": "e82415fd456122802b8652fc727584fab72c58bb6711293f8310f20118bef4f7",
+      "page_type": "dashboard_shell",
+      "profile": {
+        "font_size_iqr_px": 0.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 0.9154929577464789,
+        "grid_phase_sample_count": 71,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 28,
+        "neutral_color_share": 0.9859154929577465,
+        "palette_sample_count": 71,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 2,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 71,
+        "text_style_sample_count": 28,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+      "source_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "4a266186b610536cc1a136ef8ce2fbdd24121efd0ff09fd0d170d9e575b2db69",
+      "capture_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b@390x844",
+      "feature_sha256": "312f8cb46410237c7f901833a0b787f66b39c52a9f0209f1b30ce49ac5669bd3",
+      "page_type": "dashboard_shell",
+      "profile": {
+        "font_size_iqr_px": 2.112,
+        "font_size_p10_px": 11.888,
+        "font_size_p50_px": 13.0,
+        "font_size_p90_px": 18.0,
+        "grid_8px_snap_rate": 0.7155963302752294,
+        "grid_phase_sample_count": 109,
+        "line_height_iqr": 0.0050377885909516085,
+        "line_height_p50": 1.80349932705249,
+        "line_height_sample_count": 67,
+        "neutral_color_share": 0.5652173913043478,
+        "palette_sample_count": 115,
+        "palette_top5_share": 0.782608695652174,
+        "palette_unique_count": 15,
+        "saturation_iqr": 0.23333333333333334,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 115,
+        "text_style_sample_count": 67,
+        "type_hierarchy_ratio": 1.3846153846153846
+      },
+      "source_group": "source-static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+      "source_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "4a266186b610536cc1a136ef8ce2fbdd24121efd0ff09fd0d170d9e575b2db69",
+      "capture_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b@430x932",
+      "feature_sha256": "2b72996a39ea86bb58f17678b8a224020bb2fca23ecd1a5c1eb0064b388b0723",
+      "page_type": "dashboard_shell",
+      "profile": {
+        "font_size_iqr_px": 2.112,
+        "font_size_p10_px": 11.888,
+        "font_size_p50_px": 13.0,
+        "font_size_p90_px": 18.0,
+        "grid_8px_snap_rate": 0.3761467889908257,
+        "grid_phase_sample_count": 109,
+        "line_height_iqr": 0.0050377885909516085,
+        "line_height_p50": 1.80349932705249,
+        "line_height_sample_count": 67,
+        "neutral_color_share": 0.5652173913043478,
+        "palette_sample_count": 115,
+        "palette_top5_share": 0.782608695652174,
+        "palette_unique_count": 15,
+        "saturation_iqr": 0.23333333333333334,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 115,
+        "text_style_sample_count": 67,
+        "type_hierarchy_ratio": 1.3846153846153846
+      },
+      "source_group": "source-static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+      "source_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "b2c40d43dd8df2467e4c6e05e33be5f7cb009f40d7374c9d7ba2c2dc3ea66392",
+      "capture_id": "portfolio-target-andy@390x844",
+      "feature_sha256": "cdde98a69081da72c1d7400ba909e0f85bc3374ae2d5e3e9c1515107108d01f0",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.6667000000000005,
+        "font_size_p10_px": 13.279999999999998,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 113,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 28,
+        "neutral_color_share": 0.9914529914529915,
+        "palette_sample_count": 117,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 117,
+        "text_style_sample_count": 28,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-portfolio-target-andy",
+      "source_id": "portfolio-target-andy",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "b2c40d43dd8df2467e4c6e05e33be5f7cb009f40d7374c9d7ba2c2dc3ea66392",
+      "capture_id": "portfolio-target-andy@430x932",
+      "feature_sha256": "cdde98a69081da72c1d7400ba909e0f85bc3374ae2d5e3e9c1515107108d01f0",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.6667000000000005,
+        "font_size_p10_px": 13.279999999999998,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 16.0,
+        "grid_8px_snap_rate": 1.0,
+        "grid_phase_sample_count": 113,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 28,
+        "neutral_color_share": 0.9914529914529915,
+        "palette_sample_count": 117,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 117,
+        "text_style_sample_count": 28,
+        "type_hierarchy_ratio": 1.0
+      },
+      "source_group": "source-portfolio-target-andy",
+      "source_id": "portfolio-target-andy",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "de7c36aa7cfe4aac4a504acf87573d1a7bb207b46c6247cb6ff6d0e84a5fb24c",
+      "capture_id": "portfolio-target-chester@390x844",
+      "feature_sha256": "91e50cefeb03f307bc8e252d39a9c1adda1b5f794f31cdaac1ecdf2feceb68ff",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.719999999999999,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 26.400000000000034,
+        "grid_8px_snap_rate": 0.9831932773109243,
+        "grid_phase_sample_count": 119,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 58,
+        "neutral_color_share": 0.8739495798319328,
+        "palette_sample_count": 119,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 119,
+        "text_style_sample_count": 58,
+        "type_hierarchy_ratio": 1.6500000000000021
+      },
+      "source_group": "source-portfolio-target-chester",
+      "source_id": "portfolio-target-chester",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "de7c36aa7cfe4aac4a504acf87573d1a7bb207b46c6247cb6ff6d0e84a5fb24c",
+      "capture_id": "portfolio-target-chester@430x932",
+      "feature_sha256": "91e50cefeb03f307bc8e252d39a9c1adda1b5f794f31cdaac1ecdf2feceb68ff",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.719999999999999,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 26.400000000000034,
+        "grid_8px_snap_rate": 0.9831932773109243,
+        "grid_phase_sample_count": 119,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 58,
+        "neutral_color_share": 0.8739495798319328,
+        "palette_sample_count": 119,
+        "palette_top5_share": 1.0,
+        "palette_unique_count": 3,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 119,
+        "text_style_sample_count": 58,
+        "type_hierarchy_ratio": 1.6500000000000021
+      },
+      "source_group": "source-portfolio-target-chester",
+      "source_id": "portfolio-target-chester",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "9383da1d962efb2acd534a7558eac7df75663eef356cca251e297f3d9eede407",
+      "capture_id": "portfolio-target-emerson@390x844",
+      "feature_sha256": "df5f85e42a8c46a68ac0ab56e9b2114cc1d7c623905cef9d9790daf202b2b893",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 30.0,
+        "grid_8px_snap_rate": 0.3014705882352941,
+        "grid_phase_sample_count": 272,
+        "line_height_iqr": 0.0625,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 87,
+        "neutral_color_share": 0.5428571428571428,
+        "palette_sample_count": 315,
+        "palette_top5_share": 0.9111111111111111,
+        "palette_unique_count": 13,
+        "saturation_iqr": 0.40259740259740256,
+        "saturation_p50": 0.02352941176470591,
+        "saturation_sample_count": 315,
+        "text_style_sample_count": 87,
+        "type_hierarchy_ratio": 1.875
+      },
+      "source_group": "source-portfolio-target-emerson",
+      "source_id": "portfolio-target-emerson",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "9383da1d962efb2acd534a7558eac7df75663eef356cca251e297f3d9eede407",
+      "capture_id": "portfolio-target-emerson@430x932",
+      "feature_sha256": "51ba2b2e84c37ddfc35b0c59bfc6d1dcf62cc7fb4e401c38bf9ee68bd6e66b05",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.0,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 30.0,
+        "grid_8px_snap_rate": 0.3088235294117647,
+        "grid_phase_sample_count": 272,
+        "line_height_iqr": 0.0625,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 87,
+        "neutral_color_share": 0.5428571428571428,
+        "palette_sample_count": 315,
+        "palette_top5_share": 0.9111111111111111,
+        "palette_unique_count": 13,
+        "saturation_iqr": 0.40259740259740256,
+        "saturation_p50": 0.02352941176470591,
+        "saturation_sample_count": 315,
+        "text_style_sample_count": 87,
+        "type_hierarchy_ratio": 1.875
+      },
+      "source_group": "source-portfolio-target-emerson",
+      "source_id": "portfolio-target-emerson",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "1826510ac6db87db82c7a620aacdf9e814bbcf04e4d6ef94ebdf7f2261942fea",
+      "capture_id": "portfolio-target-german@390x844",
+      "feature_sha256": "6d981d89c860c8dc3de0e0c1018935243d299a5b2e408ad4a541ccdc1873e5a9",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.0,
+        "font_size_p10_px": 15.360000000000003,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 28.0,
+        "grid_8px_snap_rate": 0.7293233082706767,
+        "grid_phase_sample_count": 133,
+        "line_height_iqr": 0.15000000000000013,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 59,
+        "neutral_color_share": 0.2422360248447205,
+        "palette_sample_count": 161,
+        "palette_top5_share": 0.8819875776397516,
+        "palette_unique_count": 9,
+        "saturation_iqr": 0.05912195121951219,
+        "saturation_p50": 0.19512195121951217,
+        "saturation_sample_count": 161,
+        "text_style_sample_count": 59,
+        "type_hierarchy_ratio": 1.75
+      },
+      "source_group": "source-portfolio-target-german",
+      "source_id": "portfolio-target-german",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "1826510ac6db87db82c7a620aacdf9e814bbcf04e4d6ef94ebdf7f2261942fea",
+      "capture_id": "portfolio-target-german@430x932",
+      "feature_sha256": "b630cfd34b32d6c197d1c86260e55714f3d028813866a0d9a1f1d3585598d211",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.0,
+        "font_size_p10_px": 15.360000000000003,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 28.0,
+        "grid_8px_snap_rate": 0.8571428571428571,
+        "grid_phase_sample_count": 133,
+        "line_height_iqr": 0.15000000000000013,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 59,
+        "neutral_color_share": 0.2422360248447205,
+        "palette_sample_count": 161,
+        "palette_top5_share": 0.8819875776397516,
+        "palette_unique_count": 9,
+        "saturation_iqr": 0.05912195121951219,
+        "saturation_p50": 0.19512195121951217,
+        "saturation_sample_count": 161,
+        "text_style_sample_count": 59,
+        "type_hierarchy_ratio": 1.75
+      },
+      "source_group": "source-portfolio-target-german",
+      "source_id": "portfolio-target-german",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "9883aebcb17cb4761b3b84d29828e8028894e07d8b34e013d5c3e242e7e3835d",
+      "capture_id": "portfolio-target-rafael@390x844",
+      "feature_sha256": "e4c5c00170b3115cd856d1a10125c58afdf7d6a543656703a7a3635f4cd438de",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 6.0,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 23.80000000000001,
+        "grid_8px_snap_rate": 0.6941489361702128,
+        "grid_phase_sample_count": 376,
+        "line_height_iqr": 0.30000000000000004,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 92,
+        "neutral_color_share": 0.26303854875283444,
+        "palette_sample_count": 441,
+        "palette_top5_share": 0.9455782312925171,
+        "palette_unique_count": 11,
+        "saturation_iqr": 0.19642857142857137,
+        "saturation_p50": 0.19512195121951217,
+        "saturation_sample_count": 441,
+        "text_style_sample_count": 92,
+        "type_hierarchy_ratio": 1.4875000000000007
+      },
+      "source_group": "source-portfolio-target-rafael",
+      "source_id": "portfolio-target-rafael",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "a2702557a72b2e6f10fb726d2720a0f88f57bfa2098a10947f1d62f8819c2067",
+      "capture_id": "portfolio-target-rafael@430x932",
+      "feature_sha256": "99ba93d9dd9f98828da135fbe4ea83617fca282734a70bef84a1cd667364c551",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 6.0,
+        "font_size_p10_px": 14.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 23.80000000000001,
+        "grid_8px_snap_rate": 0.7154255319148937,
+        "grid_phase_sample_count": 376,
+        "line_height_iqr": 0.30000000000000004,
+        "line_height_p50": 1.5,
+        "line_height_sample_count": 92,
+        "neutral_color_share": 0.26303854875283444,
+        "palette_sample_count": 441,
+        "palette_top5_share": 0.9455782312925171,
+        "palette_unique_count": 11,
+        "saturation_iqr": 0.19642857142857137,
+        "saturation_p50": 0.19512195121951217,
+        "saturation_sample_count": 441,
+        "text_style_sample_count": 92,
+        "type_hierarchy_ratio": 1.4875000000000007
+      },
+      "source_group": "source-portfolio-target-rafael",
+      "source_id": "portfolio-target-rafael",
+      "viewport": "430x932"
+    },
+    {
+      "capture_html_sha256": "819b597c5091b868649fe91ea9029360eb6a28bee2d89166a7efcb8a2f2e3223",
+      "capture_id": "portfolio-target-rodrigues@390x844",
+      "feature_sha256": "c222a4bf6cd913e9f1731676ddafaa9cd4f6d3c1f807a468ef12c17f9029dd2c",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.719999999999999,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 25.844,
+        "grid_8px_snap_rate": 0.5643564356435643,
+        "grid_phase_sample_count": 101,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 37,
+        "neutral_color_share": 0.8608695652173913,
+        "palette_sample_count": 115,
+        "palette_top5_share": 0.9739130434782609,
+        "palette_unique_count": 7,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 115,
+        "text_style_sample_count": 37,
+        "type_hierarchy_ratio": 1.61525
+      },
+      "source_group": "source-portfolio-target-rodrigues",
+      "source_id": "portfolio-target-rodrigues",
+      "viewport": "390x844"
+    },
+    {
+      "capture_html_sha256": "819b597c5091b868649fe91ea9029360eb6a28bee2d89166a7efcb8a2f2e3223",
+      "capture_id": "portfolio-target-rodrigues@430x932",
+      "feature_sha256": "a1780133446aec120482083ab89c927ffc52ab0259d40ad9811b171a4a009d79",
+      "page_type": "portfolio_showcase",
+      "profile": {
+        "font_size_iqr_px": 2.719999999999999,
+        "font_size_p10_px": 16.0,
+        "font_size_p50_px": 16.0,
+        "font_size_p90_px": 26.0,
+        "grid_8px_snap_rate": 0.45544554455445546,
+        "grid_phase_sample_count": 101,
+        "line_height_iqr": 0.0,
+        "line_height_p50": 1.2,
+        "line_height_sample_count": 37,
+        "neutral_color_share": 0.8608695652173913,
+        "palette_sample_count": 115,
+        "palette_top5_share": 0.9739130434782609,
+        "palette_unique_count": 7,
+        "saturation_iqr": 0.0,
+        "saturation_p50": 0.0,
+        "saturation_sample_count": 115,
+        "text_style_sample_count": 37,
+        "type_hierarchy_ratio": 1.625
+      },
+      "source_group": "source-portfolio-target-rodrigues",
+      "source_id": "portfolio-target-rodrigues",
+      "viewport": "430x932"
+    }
+  ],
+  "schema": "webmark_reference_design_profile_v1",
+  "scope": "Viewport-conditioned computed CSS profiles from the declared fixed-commit historical open-source reference cohort. The historical evidence policy is a temporal/source-provenance proxy, not proof of individual human authorship, preference, or universal design quality.",
+  "source_groups": 32,
+  "source_manifest_path": "benchmark/webhumanbench_v1/source_manifest.json",
+  "source_manifest_sha256": "7067abb01232561aaa4b2d699a94a4ea7715cd7655e49927031589ef635b2f98"
+}

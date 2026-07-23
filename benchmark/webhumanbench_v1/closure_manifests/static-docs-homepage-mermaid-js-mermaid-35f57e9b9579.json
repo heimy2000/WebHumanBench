@@ -1,0 +1,96 @@
+{
+  "commit_sha": "36c0a30c50c18d45e98bb1a7d3e6c3713743fe45",
+  "entrypoint": "demos/index.html",
+  "files": [
+    {
+      "bytes": 13295,
+      "git_blob_sha1": "e085e611cb817307ff2e5f6cd393583aaa748d36",
+      "path": "demos/c4context.html",
+      "sha256": "d8d109292d3648dbe1ff5251273980a945dd55457fa39b06f656f758b4d8a8d2"
+    },
+    {
+      "bytes": 3890,
+      "git_blob_sha1": "e8e48e482d1db29d3fefb77daf4fc8ff907bba4e",
+      "path": "demos/classchart.html",
+      "sha256": "a8d37de7009d4f5f5c52667a0f8bad766a6d5bae87453bc7aad7b920257519b4"
+    },
+    {
+      "bytes": 1826,
+      "git_blob_sha1": "d49118ae0ebbdc3d4c0b6aefd678d903cabe7c7d",
+      "path": "demos/dataflowchart.html",
+      "sha256": "7caac914232a284961bd8bb34cb9dfddd90798356cf29a498c4e2ec5d1033275"
+    },
+    {
+      "bytes": 2504,
+      "git_blob_sha1": "34e06acf850d8709e083673d6a85535d5d338a5c",
+      "path": "demos/er.html",
+      "sha256": "de9b9ca40404c343da023b3ce21f642109aa09d510d342d00c7db8ae6ae8100d"
+    },
+    {
+      "bytes": 64029,
+      "git_blob_sha1": "60e6160c38a2040d1ce1981f521299d5518322a9",
+      "path": "demos/flowchart.html",
+      "sha256": "18dec72cfde6b4e191f6044346286802a1acd881e3f0e09da83a999dbf2ababf"
+    },
+    {
+      "bytes": 5573,
+      "git_blob_sha1": "227fdb1d22c2baab2df494a2fb49e0dcb6534b62",
+      "path": "demos/gantt.html",
+      "sha256": "b871c0f1a0405d5d0a31b4871d91edc5f1a2191a7a3a540c07cd5d1b3e6ffcde"
+    },
+    {
+      "bytes": 1943,
+      "git_blob_sha1": "5e683152aa30dc5bb2a02665e901779407a5f71a",
+      "path": "demos/git.html",
+      "sha256": "cc850b3ff10e484242196ffa6fffa41ca76c227b1c43afe6884ef8cf43ee6ef3"
+    },
+    {
+      "bytes": 1940,
+      "git_blob_sha1": "da27cdcff30bfd17c87197ee646bf4b1042ad549",
+      "path": "demos/index.html",
+      "sha256": "d391c7ad24122e9b9d62a4983bea2ec329957e157f334f59b1b2770aa34a5d4a"
+    },
+    {
+      "bytes": 1188,
+      "git_blob_sha1": "96c89a21519dff7b24afce2a2bd3664183d673b3",
+      "path": "demos/journey.html",
+      "sha256": "6588ef5eda70a81cbbfc26781f7a243e69a1970d86baa09f0538f37d26b655bb"
+    },
+    {
+      "bytes": 2549,
+      "git_blob_sha1": "a5b554a1a0e120e1b8b2351f20b91225f7b3738c",
+      "path": "demos/mindmap.html",
+      "sha256": "4ae2f6a69daf689f247a0bf1374d8e09f61e7553a107a3f0b4496ce7cf0d7303"
+    },
+    {
+      "bytes": 1499,
+      "git_blob_sha1": "333ef949171687fcbf33b0943a40e158da77ca20",
+      "path": "demos/pie.html",
+      "sha256": "7350d1c81fbcf1c9aea1bc15aec7b1c7887e25f4f4f5341413595d7d47d2578d"
+    },
+    {
+      "bytes": 3793,
+      "git_blob_sha1": "b6384658344bf03009b0ec90291ed30d2cf7c63f",
+      "path": "demos/requirements.html",
+      "sha256": "1db3641f0515c42d250e4ed5becb9a4069a802300790133b5bbb2bb7beefc6c4"
+    },
+    {
+      "bytes": 4547,
+      "git_blob_sha1": "2000d489a621f1000af29aed3b649ccbbd05fd1f",
+      "path": "demos/sequence.html",
+      "sha256": "66b863d9b4dffbaf9e440ac14714797f99c9d678c023112e39c586c0ae47987b"
+    },
+    {
+      "bytes": 6268,
+      "git_blob_sha1": "1ab0461f3ef1b1dac4b305a35c248a90ab59be07",
+      "path": "demos/state.html",
+      "sha256": "4d302e37720ee423793e2ad105e4fa6c201a018a93cdaff688e2572cf86f2277"
+    }
+  ],
+  "github_tree_sha": "4576224156056cc6c3459158264b8fd3d5dd07ca",
+  "github_tree_sha256": "c7e67b7133e9a8dff06ed8958e7ffc5f2a1ac7721ea06df823a897497a70a4f5",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "mermaid-js/mermaid",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579"
+}

@@ -1,0 +1,1298 @@
+{
+  "artifact_root": "benchmark/webhumanbench_v1/captures",
+  "capture_ledger_sha256": "2ed5ed70f68f4ca2c92952a39d54970189990a99d7b7d7a2053deb4b62f13ea4",
+  "n_failed": 0,
+  "n_passed": 32,
+  "n_sources": 32,
+  "note": "This deterministic render-integrity screen rejects blank/error-like captured states. It does not verify individual human authorship, page-type correctness, aesthetic preference, accessibility, or design quality.",
+  "schema": "webmark_reference_render_integrity_screen_v1",
+  "source_manifest_sha256": "7067abb01232561aaa4b2d699a94a4ea7715cd7655e49927031589ef635b2f98",
+  "sources": [
+    {
+      "captures": [
+        {
+          "capture_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64@390x844",
+          "feature_sample_counts": {
+            "color": 221,
+            "grid": 215,
+            "saturation": 221,
+            "spacing": 85,
+            "typography": 85
+          },
+          "reasons": [],
+          "screenshot_channel_std": 78.16031390564487,
+          "source_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 4272
+        },
+        {
+          "capture_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64@430x932",
+          "feature_sample_counts": {
+            "color": 221,
+            "grid": 215,
+            "saturation": 221,
+            "spacing": 85,
+            "typography": 85
+          },
+          "reasons": [],
+          "screenshot_channel_std": 78.82711986212162,
+          "source_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 4272
+        }
+      ],
+      "page_type": "saas_landing",
+      "reasons": [],
+      "source_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b@390x844",
+          "feature_sample_counts": {
+            "color": 124,
+            "grid": 120,
+            "saturation": 124,
+            "spacing": 53,
+            "typography": 53
+          },
+          "reasons": [],
+          "screenshot_channel_std": 53.36395495079518,
+          "source_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 2519
+        },
+        {
+          "capture_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b@430x932",
+          "feature_sample_counts": {
+            "color": 124,
+            "grid": 120,
+            "saturation": 124,
+            "spacing": 53,
+            "typography": 53
+          },
+          "reasons": [],
+          "screenshot_channel_std": 53.61943697301779,
+          "source_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 2519
+        }
+      ],
+      "page_type": "saas_landing",
+      "reasons": [],
+      "source_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e@390x844",
+          "feature_sample_counts": {
+            "color": 104,
+            "grid": 103,
+            "saturation": 104,
+            "spacing": 44,
+            "typography": 44
+          },
+          "reasons": [],
+          "screenshot_channel_std": 33.83469249422173,
+          "source_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 1397
+        },
+        {
+          "capture_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e@430x932",
+          "feature_sample_counts": {
+            "color": 104,
+            "grid": 103,
+            "saturation": 104,
+            "spacing": 44,
+            "typography": 44
+          },
+          "reasons": [],
+          "screenshot_channel_std": 32.66154488226822,
+          "source_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 1397
+        }
+      ],
+      "page_type": "saas_landing",
+      "reasons": [],
+      "source_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437@390x844",
+          "feature_sample_counts": {
+            "color": 219,
+            "grid": 217,
+            "saturation": 219,
+            "spacing": 92,
+            "typography": 92
+          },
+          "reasons": [],
+          "screenshot_channel_std": 45.1685725190677,
+          "source_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 668
+        },
+        {
+          "capture_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437@430x932",
+          "feature_sample_counts": {
+            "color": 219,
+            "grid": 217,
+            "saturation": 219,
+            "spacing": 92,
+            "typography": 92
+          },
+          "reasons": [],
+          "screenshot_channel_std": 43.333418839122,
+          "source_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 668
+        }
+      ],
+      "page_type": "saas_landing",
+      "reasons": [],
+      "source_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-saas-landing-tableau-tabpy-6998dfe20a08@390x844",
+          "feature_sample_counts": {
+            "color": 10,
+            "grid": 10,
+            "saturation": 10,
+            "spacing": 6,
+            "typography": 6
+          },
+          "reasons": [],
+          "screenshot_channel_std": 35.13592485444962,
+          "source_id": "static-saas-landing-tableau-tabpy-6998dfe20a08",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 120
+        },
+        {
+          "capture_id": "static-saas-landing-tableau-tabpy-6998dfe20a08@430x932",
+          "feature_sample_counts": {
+            "color": 10,
+            "grid": 10,
+            "saturation": 10,
+            "spacing": 6,
+            "typography": 6
+          },
+          "reasons": [],
+          "screenshot_channel_std": 31.914045247915368,
+          "source_id": "static-saas-landing-tableau-tabpy-6998dfe20a08",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 120
+        }
+      ],
+      "page_type": "saas_landing",
+      "reasons": [],
+      "source_id": "static-saas-landing-tableau-tabpy-6998dfe20a08",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a@390x844",
+          "feature_sample_counts": {
+            "color": 224,
+            "grid": 213,
+            "saturation": 224,
+            "spacing": 65,
+            "typography": 65
+          },
+          "reasons": [],
+          "screenshot_channel_std": 55.854641605360776,
+          "source_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 3767
+        },
+        {
+          "capture_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a@430x932",
+          "feature_sample_counts": {
+            "color": 224,
+            "grid": 213,
+            "saturation": 224,
+            "spacing": 65,
+            "typography": 65
+          },
+          "reasons": [],
+          "screenshot_channel_std": 61.01823748066673,
+          "source_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 3767
+        }
+      ],
+      "page_type": "saas_landing",
+      "reasons": [],
+      "source_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db@390x844",
+          "feature_sample_counts": {
+            "color": 133,
+            "grid": 129,
+            "saturation": 133,
+            "spacing": 61,
+            "typography": 61
+          },
+          "reasons": [],
+          "screenshot_channel_std": 54.037678652009056,
+          "source_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 1860
+        },
+        {
+          "capture_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db@430x932",
+          "feature_sample_counts": {
+            "color": 133,
+            "grid": 129,
+            "saturation": 133,
+            "spacing": 61,
+            "typography": 61
+          },
+          "reasons": [],
+          "screenshot_channel_std": 52.3092302199532,
+          "source_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 1860
+        }
+      ],
+      "page_type": "docs_homepage",
+      "reasons": [],
+      "source_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343@390x844",
+          "feature_sample_counts": {
+            "color": 55,
+            "grid": 51,
+            "saturation": 55,
+            "spacing": 38,
+            "typography": 38
+          },
+          "reasons": [],
+          "screenshot_channel_std": 84.63787421465669,
+          "source_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 1892
+        },
+        {
+          "capture_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343@430x932",
+          "feature_sample_counts": {
+            "color": 55,
+            "grid": 51,
+            "saturation": 55,
+            "spacing": 38,
+            "typography": 38
+          },
+          "reasons": [],
+          "screenshot_channel_std": 83.63288581594155,
+          "source_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 1892
+        }
+      ],
+      "page_type": "docs_homepage",
+      "reasons": [],
+      "source_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9@390x844",
+          "feature_sample_counts": {
+            "color": 9,
+            "grid": 9,
+            "saturation": 9,
+            "spacing": 8,
+            "typography": 8
+          },
+          "reasons": [],
+          "screenshot_channel_std": 28.53748827513601,
+          "source_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 91
+        },
+        {
+          "capture_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9@430x932",
+          "feature_sample_counts": {
+            "color": 9,
+            "grid": 9,
+            "saturation": 9,
+            "spacing": 8,
+            "typography": 8
+          },
+          "reasons": [],
+          "screenshot_channel_std": 25.907643509132836,
+          "source_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 91
+        }
+      ],
+      "page_type": "docs_homepage",
+      "reasons": [],
+      "source_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579@390x844",
+          "feature_sample_counts": {
+            "color": 44,
+            "grid": 44,
+            "saturation": 44,
+            "spacing": 17,
+            "typography": 17
+          },
+          "reasons": [],
+          "screenshot_channel_std": 53.772813270266475,
+          "source_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 379
+        },
+        {
+          "capture_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579@430x932",
+          "feature_sample_counts": {
+            "color": 44,
+            "grid": 44,
+            "saturation": 44,
+            "spacing": 17,
+            "typography": 17
+          },
+          "reasons": [],
+          "screenshot_channel_std": 46.914245808371724,
+          "source_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 379
+        }
+      ],
+      "page_type": "docs_homepage",
+      "reasons": [],
+      "source_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-docs-homepage-pandao-editor-md-6900c1536aef@390x844",
+          "feature_sample_counts": {
+            "color": 7,
+            "grid": 7,
+            "saturation": 7,
+            "spacing": 4,
+            "typography": 4
+          },
+          "reasons": [],
+          "screenshot_channel_std": 15.773285472044964,
+          "source_id": "static-docs-homepage-pandao-editor-md-6900c1536aef",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 106
+        },
+        {
+          "capture_id": "static-docs-homepage-pandao-editor-md-6900c1536aef@430x932",
+          "feature_sample_counts": {
+            "color": 7,
+            "grid": 7,
+            "saturation": 7,
+            "spacing": 4,
+            "typography": 4
+          },
+          "reasons": [],
+          "screenshot_channel_std": 14.310439405199231,
+          "source_id": "static-docs-homepage-pandao-editor-md-6900c1536aef",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 106
+        }
+      ],
+      "page_type": "docs_homepage",
+      "reasons": [],
+      "source_id": "static-docs-homepage-pandao-editor-md-6900c1536aef",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be@390x844",
+          "feature_sample_counts": {
+            "color": 135,
+            "grid": 129,
+            "saturation": 135,
+            "spacing": 50,
+            "typography": 50
+          },
+          "reasons": [],
+          "screenshot_channel_std": 57.266870680320906,
+          "source_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 2395
+        },
+        {
+          "capture_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be@430x932",
+          "feature_sample_counts": {
+            "color": 135,
+            "grid": 129,
+            "saturation": 135,
+            "spacing": 50,
+            "typography": 50
+          },
+          "reasons": [],
+          "screenshot_channel_std": 57.97385410842079,
+          "source_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 2395
+        }
+      ],
+      "page_type": "docs_homepage",
+      "reasons": [],
+      "source_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0@390x844",
+          "feature_sample_counts": {
+            "color": 1092,
+            "grid": 1016,
+            "saturation": 1092,
+            "spacing": 696,
+            "typography": 696
+          },
+          "reasons": [],
+          "screenshot_channel_std": 36.84062979362627,
+          "source_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 14855
+        },
+        {
+          "capture_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0@430x932",
+          "feature_sample_counts": {
+            "color": 1092,
+            "grid": 1016,
+            "saturation": 1092,
+            "spacing": 696,
+            "typography": 696
+          },
+          "reasons": [],
+          "screenshot_channel_std": 37.86138719920319,
+          "source_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 14855
+        }
+      ],
+      "page_type": "docs_homepage",
+      "reasons": [],
+      "source_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd@390x844",
+          "feature_sample_counts": {
+            "color": 12,
+            "grid": 10,
+            "saturation": 12,
+            "spacing": 6,
+            "typography": 6
+          },
+          "reasons": [],
+          "screenshot_channel_std": 5.170884962863294,
+          "source_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 127
+        },
+        {
+          "capture_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd@430x932",
+          "feature_sample_counts": {
+            "color": 12,
+            "grid": 10,
+            "saturation": 12,
+            "spacing": 6,
+            "typography": 6
+          },
+          "reasons": [],
+          "screenshot_channel_std": 4.900788014210163,
+          "source_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 127
+        }
+      ],
+      "page_type": "docs_homepage",
+      "reasons": [],
+      "source_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268@390x844",
+          "feature_sample_counts": {
+            "color": 91,
+            "grid": 87,
+            "saturation": 91,
+            "spacing": 35,
+            "typography": 35
+          },
+          "reasons": [],
+          "screenshot_channel_std": 92.27351889776547,
+          "source_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 950
+        },
+        {
+          "capture_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268@430x932",
+          "feature_sample_counts": {
+            "color": 91,
+            "grid": 87,
+            "saturation": 91,
+            "spacing": 35,
+            "typography": 35
+          },
+          "reasons": [],
+          "screenshot_channel_std": 92.33894418315323,
+          "source_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 950
+        }
+      ],
+      "page_type": "product_showcase",
+      "reasons": [],
+      "source_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93@390x844",
+          "feature_sample_counts": {
+            "color": 865,
+            "grid": 763,
+            "saturation": 865,
+            "spacing": 161,
+            "typography": 161
+          },
+          "reasons": [],
+          "screenshot_channel_std": 69.74899452950709,
+          "source_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 7216
+        },
+        {
+          "capture_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93@430x932",
+          "feature_sample_counts": {
+            "color": 865,
+            "grid": 763,
+            "saturation": 865,
+            "spacing": 161,
+            "typography": 161
+          },
+          "reasons": [],
+          "screenshot_channel_std": 70.89302100926376,
+          "source_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 7216
+        }
+      ],
+      "page_type": "product_showcase",
+      "reasons": [],
+      "source_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8@390x844",
+          "feature_sample_counts": {
+            "color": 224,
+            "grid": 208,
+            "saturation": 224,
+            "spacing": 60,
+            "typography": 60
+          },
+          "reasons": [],
+          "screenshot_channel_std": 65.64243175649302,
+          "source_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 1742
+        },
+        {
+          "capture_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8@430x932",
+          "feature_sample_counts": {
+            "color": 224,
+            "grid": 208,
+            "saturation": 224,
+            "spacing": 60,
+            "typography": 60
+          },
+          "reasons": [],
+          "screenshot_channel_std": 66.13430132993732,
+          "source_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 1742
+        }
+      ],
+      "page_type": "product_showcase",
+      "reasons": [],
+      "source_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111@390x844",
+          "feature_sample_counts": {
+            "color": 28,
+            "grid": 27,
+            "saturation": 28,
+            "spacing": 4,
+            "typography": 4
+          },
+          "reasons": [],
+          "screenshot_channel_std": 47.35874879668079,
+          "source_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 839
+        },
+        {
+          "capture_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111@430x932",
+          "feature_sample_counts": {
+            "color": 28,
+            "grid": 27,
+            "saturation": 28,
+            "spacing": 4,
+            "typography": 4
+          },
+          "reasons": [],
+          "screenshot_channel_std": 45.69935917289326,
+          "source_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 839
+        }
+      ],
+      "page_type": "product_showcase",
+      "reasons": [],
+      "source_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4@390x844",
+          "feature_sample_counts": {
+            "color": 24,
+            "grid": 20,
+            "saturation": 24,
+            "spacing": 12,
+            "typography": 12
+          },
+          "reasons": [],
+          "screenshot_channel_std": 70.54504999069752,
+          "source_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 148
+        },
+        {
+          "capture_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4@430x932",
+          "feature_sample_counts": {
+            "color": 24,
+            "grid": 20,
+            "saturation": 24,
+            "spacing": 12,
+            "typography": 12
+          },
+          "reasons": [],
+          "screenshot_channel_std": 70.55153157559964,
+          "source_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 148
+        }
+      ],
+      "page_type": "developer_tool",
+      "reasons": [],
+      "source_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-developer-tool-karatelabs-karate-fc0ca2607186@390x844",
+          "feature_sample_counts": {
+            "color": 19,
+            "grid": 19,
+            "saturation": 19,
+            "spacing": 10,
+            "typography": 10
+          },
+          "reasons": [],
+          "screenshot_channel_std": 21.76725843220317,
+          "source_id": "static-developer-tool-karatelabs-karate-fc0ca2607186",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 114
+        },
+        {
+          "capture_id": "static-developer-tool-karatelabs-karate-fc0ca2607186@430x932",
+          "feature_sample_counts": {
+            "color": 19,
+            "grid": 19,
+            "saturation": 19,
+            "spacing": 10,
+            "typography": 10
+          },
+          "reasons": [],
+          "screenshot_channel_std": 19.74981059819685,
+          "source_id": "static-developer-tool-karatelabs-karate-fc0ca2607186",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 114
+        }
+      ],
+      "page_type": "developer_tool",
+      "reasons": [],
+      "source_id": "static-developer-tool-karatelabs-karate-fc0ca2607186",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69@390x844",
+          "feature_sample_counts": {
+            "color": 32,
+            "grid": 21,
+            "saturation": 32,
+            "spacing": 11,
+            "typography": 11
+          },
+          "reasons": [],
+          "screenshot_channel_std": 48.90250119067163,
+          "source_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 110
+        },
+        {
+          "capture_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69@430x932",
+          "feature_sample_counts": {
+            "color": 32,
+            "grid": 21,
+            "saturation": 32,
+            "spacing": 11,
+            "typography": 11
+          },
+          "reasons": [],
+          "screenshot_channel_std": 47.4581843217141,
+          "source_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 110
+        }
+      ],
+      "page_type": "developer_tool",
+      "reasons": [],
+      "source_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-developer-tool-reactide-reactide-3a633e7df200@390x844",
+          "feature_sample_counts": {
+            "color": 27,
+            "grid": 17,
+            "saturation": 27,
+            "spacing": 4,
+            "typography": 4
+          },
+          "reasons": [],
+          "screenshot_channel_std": 55.34476633023733,
+          "source_id": "static-developer-tool-reactide-reactide-3a633e7df200",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 80
+        },
+        {
+          "capture_id": "static-developer-tool-reactide-reactide-3a633e7df200@430x932",
+          "feature_sample_counts": {
+            "color": 27,
+            "grid": 17,
+            "saturation": 27,
+            "spacing": 4,
+            "typography": 4
+          },
+          "reasons": [],
+          "screenshot_channel_std": 52.928358813360624,
+          "source_id": "static-developer-tool-reactide-reactide-3a633e7df200",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 80
+        }
+      ],
+      "page_type": "developer_tool",
+      "reasons": [],
+      "source_id": "static-developer-tool-reactide-reactide-3a633e7df200",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee@390x844",
+          "feature_sample_counts": {
+            "color": 73,
+            "grid": 73,
+            "saturation": 73,
+            "spacing": 41,
+            "typography": 41
+          },
+          "reasons": [],
+          "screenshot_channel_std": 53.900357990987146,
+          "source_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 891
+        },
+        {
+          "capture_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee@430x932",
+          "feature_sample_counts": {
+            "color": 73,
+            "grid": 73,
+            "saturation": 73,
+            "spacing": 41,
+            "typography": 41
+          },
+          "reasons": [],
+          "screenshot_channel_std": 51.547483091453195,
+          "source_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 891
+        }
+      ],
+      "page_type": "dashboard_shell",
+      "reasons": [],
+      "source_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6@390x844",
+          "feature_sample_counts": {
+            "color": 28,
+            "grid": 27,
+            "saturation": 28,
+            "spacing": 9,
+            "typography": 9
+          },
+          "reasons": [],
+          "screenshot_channel_std": 67.18410825230907,
+          "source_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 150
+        },
+        {
+          "capture_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6@430x932",
+          "feature_sample_counts": {
+            "color": 28,
+            "grid": 27,
+            "saturation": 28,
+            "spacing": 9,
+            "typography": 9
+          },
+          "reasons": [],
+          "screenshot_channel_std": 64.23253995602705,
+          "source_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 150
+        }
+      ],
+      "page_type": "dashboard_shell",
+      "reasons": [],
+      "source_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a@390x844",
+          "feature_sample_counts": {
+            "color": 71,
+            "grid": 71,
+            "saturation": 71,
+            "spacing": 28,
+            "typography": 28
+          },
+          "reasons": [],
+          "screenshot_channel_std": 33.66932715741509,
+          "source_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 244
+        },
+        {
+          "capture_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a@430x932",
+          "feature_sample_counts": {
+            "color": 71,
+            "grid": 71,
+            "saturation": 71,
+            "spacing": 28,
+            "typography": 28
+          },
+          "reasons": [],
+          "screenshot_channel_std": 30.595532118103907,
+          "source_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 244
+        }
+      ],
+      "page_type": "dashboard_shell",
+      "reasons": [],
+      "source_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b@390x844",
+          "feature_sample_counts": {
+            "color": 115,
+            "grid": 109,
+            "saturation": 115,
+            "spacing": 67,
+            "typography": 67
+          },
+          "reasons": [],
+          "screenshot_channel_std": 61.395393769522244,
+          "source_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 2188
+        },
+        {
+          "capture_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b@430x932",
+          "feature_sample_counts": {
+            "color": 115,
+            "grid": 109,
+            "saturation": 115,
+            "spacing": 67,
+            "typography": 67
+          },
+          "reasons": [],
+          "screenshot_channel_std": 60.95089621911065,
+          "source_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 2188
+        }
+      ],
+      "page_type": "dashboard_shell",
+      "reasons": [],
+      "source_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "portfolio-target-andy@390x844",
+          "feature_sample_counts": {
+            "color": 117,
+            "grid": 113,
+            "saturation": 117,
+            "spacing": 28,
+            "typography": 28
+          },
+          "reasons": [],
+          "screenshot_channel_std": 46.71171756591454,
+          "source_id": "portfolio-target-andy",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 932
+        },
+        {
+          "capture_id": "portfolio-target-andy@430x932",
+          "feature_sample_counts": {
+            "color": 117,
+            "grid": 113,
+            "saturation": 117,
+            "spacing": 28,
+            "typography": 28
+          },
+          "reasons": [],
+          "screenshot_channel_std": 46.6140417747014,
+          "source_id": "portfolio-target-andy",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 932
+        }
+      ],
+      "page_type": "portfolio_showcase",
+      "reasons": [],
+      "source_id": "portfolio-target-andy",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "portfolio-target-chester@390x844",
+          "feature_sample_counts": {
+            "color": 119,
+            "grid": 119,
+            "saturation": 119,
+            "spacing": 58,
+            "typography": 58
+          },
+          "reasons": [],
+          "screenshot_channel_std": 60.13278710853686,
+          "source_id": "portfolio-target-chester",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 1835
+        },
+        {
+          "capture_id": "portfolio-target-chester@430x932",
+          "feature_sample_counts": {
+            "color": 119,
+            "grid": 119,
+            "saturation": 119,
+            "spacing": 58,
+            "typography": 58
+          },
+          "reasons": [],
+          "screenshot_channel_std": 60.21805169898597,
+          "source_id": "portfolio-target-chester",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 1835
+        }
+      ],
+      "page_type": "portfolio_showcase",
+      "reasons": [],
+      "source_id": "portfolio-target-chester",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "portfolio-target-emerson@390x844",
+          "feature_sample_counts": {
+            "color": 315,
+            "grid": 272,
+            "saturation": 315,
+            "spacing": 87,
+            "typography": 87
+          },
+          "reasons": [],
+          "screenshot_channel_std": 40.8933662401775,
+          "source_id": "portfolio-target-emerson",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 2764
+        },
+        {
+          "capture_id": "portfolio-target-emerson@430x932",
+          "feature_sample_counts": {
+            "color": 315,
+            "grid": 272,
+            "saturation": 315,
+            "spacing": 87,
+            "typography": 87
+          },
+          "reasons": [],
+          "screenshot_channel_std": 37.37045332633292,
+          "source_id": "portfolio-target-emerson",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 2764
+        }
+      ],
+      "page_type": "portfolio_showcase",
+      "reasons": [],
+      "source_id": "portfolio-target-emerson",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "portfolio-target-german@390x844",
+          "feature_sample_counts": {
+            "color": 161,
+            "grid": 133,
+            "saturation": 161,
+            "spacing": 59,
+            "typography": 59
+          },
+          "reasons": [],
+          "screenshot_channel_std": 103.36731472640965,
+          "source_id": "portfolio-target-german",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 1535
+        },
+        {
+          "capture_id": "portfolio-target-german@430x932",
+          "feature_sample_counts": {
+            "color": 161,
+            "grid": 133,
+            "saturation": 161,
+            "spacing": 59,
+            "typography": 59
+          },
+          "reasons": [],
+          "screenshot_channel_std": 102.8995970348092,
+          "source_id": "portfolio-target-german",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 1535
+        }
+      ],
+      "page_type": "portfolio_showcase",
+      "reasons": [],
+      "source_id": "portfolio-target-german",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "portfolio-target-rafael@390x844",
+          "feature_sample_counts": {
+            "color": 441,
+            "grid": 376,
+            "saturation": 441,
+            "spacing": 92,
+            "typography": 92
+          },
+          "reasons": [],
+          "screenshot_channel_std": 15.960720584553128,
+          "source_id": "portfolio-target-rafael",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 1969
+        },
+        {
+          "capture_id": "portfolio-target-rafael@430x932",
+          "feature_sample_counts": {
+            "color": 441,
+            "grid": 376,
+            "saturation": 441,
+            "spacing": 92,
+            "typography": 92
+          },
+          "reasons": [],
+          "screenshot_channel_std": 15.920755797931255,
+          "source_id": "portfolio-target-rafael",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 1969
+        }
+      ],
+      "page_type": "portfolio_showcase",
+      "reasons": [],
+      "source_id": "portfolio-target-rafael",
+      "status": "pass"
+    },
+    {
+      "captures": [
+        {
+          "capture_id": "portfolio-target-rodrigues@390x844",
+          "feature_sample_counts": {
+            "color": 115,
+            "grid": 101,
+            "saturation": 115,
+            "spacing": 37,
+            "typography": 37
+          },
+          "reasons": [],
+          "screenshot_channel_std": 88.40917313903988,
+          "source_id": "portfolio-target-rodrigues",
+          "status": "pass",
+          "viewport": "390x844",
+          "visible_text_chars": 3646
+        },
+        {
+          "capture_id": "portfolio-target-rodrigues@430x932",
+          "feature_sample_counts": {
+            "color": 115,
+            "grid": 101,
+            "saturation": 115,
+            "spacing": 37,
+            "typography": 37
+          },
+          "reasons": [],
+          "screenshot_channel_std": 86.59819665775441,
+          "source_id": "portfolio-target-rodrigues",
+          "status": "pass",
+          "viewport": "430x932",
+          "visible_text_chars": 3646
+        }
+      ],
+      "page_type": "portfolio_showcase",
+      "reasons": [],
+      "source_id": "portfolio-target-rodrigues",
+      "status": "pass"
+    }
+  ],
+  "status": "pass",
+  "thresholds": {
+    "min_feature_samples": 2,
+    "min_screenshot_channel_std": 1.0,
+    "min_visible_text_chars": 80
+  }
+}

@@ -1,0 +1,5431 @@
+{
+  "generation_protocol": {
+    "max_tokens": 8192,
+    "models": [
+      "Qwen/Qwen3-32B",
+      "deepseek-ai/DeepSeek-V4-Flash",
+      "MiniMaxAI/MiniMax-M2.5",
+      "tencent/Hunyuan-A13B-Instruct",
+      "zai-org/GLM-5.2",
+      "Pro/moonshotai/Kimi-K2.6",
+      "meituan-longcat/LongCat-2.0"
+    ],
+    "page_types": [
+      "saas_landing",
+      "docs_homepage",
+      "product_showcase",
+      "developer_tool",
+      "dashboard_shell",
+      "portfolio_showcase"
+    ],
+    "pages_per_type": 100,
+    "seed": 42,
+    "temperature": 0.7
+  },
+  "note": "This ledger records the planned 600-page generation run only. It omits the archived controller outputs that shared the original execution file.",
+  "planned_pages": 600,
+  "records": [
+    {
+      "id": "sf_dashboard_shell_000",
+      "index": 0,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "medical scheduling tool",
+      "seed": 40042,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_001",
+      "index": 1,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40043,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_002",
+      "index": 2,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40044,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_003",
+      "index": 3,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "research lab homepage",
+      "seed": 40045,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_004",
+      "index": 4,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40046,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_005",
+      "index": 5,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40047,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_006",
+      "index": 6,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "privacy-first analytics",
+      "seed": 40048,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_007",
+      "index": 7,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40049,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_008",
+      "index": 8,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40050,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_009",
+      "index": 9,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40051,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_010",
+      "index": 10,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40052,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_011",
+      "index": 11,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "medical scheduling tool",
+      "seed": 40053,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_012",
+      "index": 12,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40054,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_013",
+      "index": 13,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40055,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_014",
+      "index": 14,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40056,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_015",
+      "index": 15,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40057,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_016",
+      "index": 16,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40058,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_017",
+      "index": 17,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40059,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_018",
+      "index": 18,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "privacy-first analytics",
+      "seed": 40060,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_019",
+      "index": 19,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "research lab homepage",
+      "seed": 40061,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_020",
+      "index": 20,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40062,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_021",
+      "index": 21,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40063,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_022",
+      "index": 22,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40064,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_023",
+      "index": 23,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40065,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_024",
+      "index": 24,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40066,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_025",
+      "index": 25,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "medical scheduling tool",
+      "seed": 40067,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_026",
+      "index": 26,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40068,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_027",
+      "index": 27,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40069,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_028",
+      "index": 28,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40070,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_029",
+      "index": 29,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40071,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_030",
+      "index": 30,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40072,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_031",
+      "index": 31,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "medical scheduling tool",
+      "seed": 40073,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_032",
+      "index": 32,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40074,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_033",
+      "index": 33,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "medical scheduling tool",
+      "seed": 40075,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_034",
+      "index": 34,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40076,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_035",
+      "index": 35,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40077,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_036",
+      "index": 36,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40078,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_037",
+      "index": 37,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40079,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_038",
+      "index": 38,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40080,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_039",
+      "index": 39,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40081,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_040",
+      "index": 40,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40082,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_041",
+      "index": 41,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40083,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_042",
+      "index": 42,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "fintech reconciliation app",
+      "seed": 40084,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_043",
+      "index": 43,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40085,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_044",
+      "index": 44,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40086,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_045",
+      "index": 45,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40087,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_046",
+      "index": 46,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40088,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_047",
+      "index": 47,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40089,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_048",
+      "index": 48,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40090,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_049",
+      "index": 49,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40091,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_050",
+      "index": 50,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40092,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_051",
+      "index": 51,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40093,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_052",
+      "index": 52,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40094,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_053",
+      "index": 53,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "research lab homepage",
+      "seed": 40095,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_054",
+      "index": 54,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40096,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_055",
+      "index": 55,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40097,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_056",
+      "index": 56,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40098,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_057",
+      "index": 57,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40099,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_058",
+      "index": 58,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40100,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_059",
+      "index": 59,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "privacy-first analytics",
+      "seed": 40101,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_060",
+      "index": 60,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40102,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_061",
+      "index": 61,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40103,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_062",
+      "index": 62,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40104,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_063",
+      "index": 63,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "privacy-first analytics",
+      "seed": 40105,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_064",
+      "index": 64,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40106,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_065",
+      "index": 65,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40107,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_066",
+      "index": 66,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40108,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_067",
+      "index": 67,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "privacy-first analytics",
+      "seed": 40109,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_068",
+      "index": 68,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40110,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_069",
+      "index": 69,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40111,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_070",
+      "index": 70,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40112,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_071",
+      "index": 71,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40113,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_072",
+      "index": 72,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40114,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_073",
+      "index": 73,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "privacy-first analytics",
+      "seed": 40115,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_074",
+      "index": 74,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40116,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_075",
+      "index": 75,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40117,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_076",
+      "index": 76,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "collaborative notes workspace",
+      "seed": 40118,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_077",
+      "index": 77,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40119,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_078",
+      "index": 78,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40120,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_079",
+      "index": 79,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40121,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_080",
+      "index": 80,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "robotics monitoring console",
+      "seed": 40122,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_081",
+      "index": 81,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40123,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_082",
+      "index": 82,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40124,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_083",
+      "index": 83,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "medical scheduling tool",
+      "seed": 40125,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_084",
+      "index": 84,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "privacy-first analytics",
+      "seed": 40126,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_085",
+      "index": 85,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40127,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_086",
+      "index": 86,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40128,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_087",
+      "index": 87,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "open-source design system",
+      "seed": 40129,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_088",
+      "index": 88,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40130,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_089",
+      "index": 89,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "climate-data platform",
+      "seed": 40131,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_090",
+      "index": 90,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "open-source design system",
+      "seed": 40132,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_091",
+      "index": 91,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "security observability product",
+      "seed": 40133,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_092",
+      "index": 92,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40134,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_093",
+      "index": 93,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40135,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_094",
+      "index": 94,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "dashboard_shell",
+      "scenario": "creator-commerce storefront",
+      "seed": 40136,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_095",
+      "index": 95,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "dashboard_shell",
+      "scenario": "open-source design system",
+      "seed": 40137,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_096",
+      "index": 96,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "dashboard_shell",
+      "scenario": "research lab homepage",
+      "seed": 40138,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_097",
+      "index": 97,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "dashboard_shell",
+      "scenario": "privacy-first analytics",
+      "seed": 40139,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_098",
+      "index": 98,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "dashboard_shell",
+      "scenario": "education course builder",
+      "seed": 40140,
+      "status": "ok"
+    },
+    {
+      "id": "sf_dashboard_shell_099",
+      "index": 99,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "dashboard_shell",
+      "scenario": "AI coding assistant",
+      "seed": 40141,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_000",
+      "index": 0,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30042,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_001",
+      "index": 1,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "AI coding assistant",
+      "seed": 30043,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_002",
+      "index": 2,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "creator-commerce storefront",
+      "seed": 30044,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_003",
+      "index": 3,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30045,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_004",
+      "index": 4,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "medical scheduling tool",
+      "seed": 30046,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_005",
+      "index": 5,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30047,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_006",
+      "index": 6,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30048,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_007",
+      "index": 7,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30049,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_008",
+      "index": 8,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30050,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_009",
+      "index": 9,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "robotics monitoring console",
+      "seed": 30051,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_010",
+      "index": 10,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30052,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_011",
+      "index": 11,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "climate-data platform",
+      "seed": 30053,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_012",
+      "index": 12,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "research lab homepage",
+      "seed": 30054,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_013",
+      "index": 13,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "fintech reconciliation app",
+      "seed": 30055,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_014",
+      "index": 14,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "AI coding assistant",
+      "seed": 30056,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_015",
+      "index": 15,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30057,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_016",
+      "index": 16,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30058,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_017",
+      "index": 17,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "research lab homepage",
+      "seed": 30059,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_018",
+      "index": 18,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "medical scheduling tool",
+      "seed": 30060,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_019",
+      "index": 19,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30061,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_020",
+      "index": 20,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30062,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_021",
+      "index": 21,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30063,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_022",
+      "index": 22,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "medical scheduling tool",
+      "seed": 30064,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_023",
+      "index": 23,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "fintech reconciliation app",
+      "seed": 30065,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_024",
+      "index": 24,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "research lab homepage",
+      "seed": 30066,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_025",
+      "index": 25,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30067,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_026",
+      "index": 26,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "climate-data platform",
+      "seed": 30068,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_027",
+      "index": 27,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30069,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_028",
+      "index": 28,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30070,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_029",
+      "index": 29,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30071,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_030",
+      "index": 30,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30072,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_031",
+      "index": 31,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30073,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_032",
+      "index": 32,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30074,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_033",
+      "index": 33,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30075,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_034",
+      "index": 34,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30076,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_035",
+      "index": 35,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "research lab homepage",
+      "seed": 30077,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_036",
+      "index": 36,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "research lab homepage",
+      "seed": 30078,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_037",
+      "index": 37,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30079,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_038",
+      "index": 38,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "fintech reconciliation app",
+      "seed": 30080,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_039",
+      "index": 39,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30081,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_040",
+      "index": 40,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30082,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_041",
+      "index": 41,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "medical scheduling tool",
+      "seed": 30083,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_042",
+      "index": 42,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "robotics monitoring console",
+      "seed": 30084,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_043",
+      "index": 43,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "AI coding assistant",
+      "seed": 30085,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_044",
+      "index": 44,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30086,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_045",
+      "index": 45,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30087,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_046",
+      "index": 46,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "creator-commerce storefront",
+      "seed": 30088,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_047",
+      "index": 47,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "AI coding assistant",
+      "seed": 30089,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_048",
+      "index": 48,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "climate-data platform",
+      "seed": 30090,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_049",
+      "index": 49,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30091,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_050",
+      "index": 50,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "climate-data platform",
+      "seed": 30092,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_051",
+      "index": 51,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30093,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_052",
+      "index": 52,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30094,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_053",
+      "index": 53,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30095,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_054",
+      "index": 54,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30096,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_055",
+      "index": 55,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "robotics monitoring console",
+      "seed": 30097,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_056",
+      "index": 56,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "research lab homepage",
+      "seed": 30098,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_057",
+      "index": 57,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "creator-commerce storefront",
+      "seed": 30099,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_058",
+      "index": 58,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30100,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_059",
+      "index": 59,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30101,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_060",
+      "index": 60,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "medical scheduling tool",
+      "seed": 30102,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_061",
+      "index": 61,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30103,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_062",
+      "index": 62,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30104,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_063",
+      "index": 63,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "robotics monitoring console",
+      "seed": 30105,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_064",
+      "index": 64,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30106,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_065",
+      "index": 65,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30107,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_066",
+      "index": 66,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30108,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_067",
+      "index": 67,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "climate-data platform",
+      "seed": 30109,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_068",
+      "index": 68,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30110,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_069",
+      "index": 69,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30111,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_070",
+      "index": 70,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30112,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_071",
+      "index": 71,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30113,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_072",
+      "index": 72,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "robotics monitoring console",
+      "seed": 30114,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_073",
+      "index": 73,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "fintech reconciliation app",
+      "seed": 30115,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_074",
+      "index": 74,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "climate-data platform",
+      "seed": 30116,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_075",
+      "index": 75,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "AI coding assistant",
+      "seed": 30117,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_076",
+      "index": 76,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30118,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_077",
+      "index": 77,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "creator-commerce storefront",
+      "seed": 30119,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_078",
+      "index": 78,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "research lab homepage",
+      "seed": 30120,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_079",
+      "index": 79,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30121,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_080",
+      "index": 80,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30122,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_081",
+      "index": 81,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "climate-data platform",
+      "seed": 30123,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_082",
+      "index": 82,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30124,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_083",
+      "index": 83,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "medical scheduling tool",
+      "seed": 30125,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_084",
+      "index": 84,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "education course builder",
+      "seed": 30126,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_085",
+      "index": 85,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30127,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_086",
+      "index": 86,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30128,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_087",
+      "index": 87,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "collaborative notes workspace",
+      "seed": 30129,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_088",
+      "index": 88,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "robotics monitoring console",
+      "seed": 30130,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_089",
+      "index": 89,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "fintech reconciliation app",
+      "seed": 30131,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_090",
+      "index": 90,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30132,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_091",
+      "index": 91,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30133,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_092",
+      "index": 92,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30134,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_093",
+      "index": 93,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "developer_tool",
+      "scenario": "open-source design system",
+      "seed": 30135,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_094",
+      "index": 94,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "developer_tool",
+      "scenario": "security observability product",
+      "seed": 30136,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_095",
+      "index": 95,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "developer_tool",
+      "scenario": "privacy-first analytics",
+      "seed": 30137,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_096",
+      "index": 96,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "developer_tool",
+      "scenario": "creator-commerce storefront",
+      "seed": 30138,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_097",
+      "index": 97,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "developer_tool",
+      "scenario": "creator-commerce storefront",
+      "seed": 30139,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_098",
+      "index": 98,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "developer_tool",
+      "scenario": "climate-data platform",
+      "seed": 30140,
+      "status": "ok"
+    },
+    {
+      "id": "sf_developer_tool_099",
+      "index": 99,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "developer_tool",
+      "scenario": "creator-commerce storefront",
+      "seed": 30141,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_000",
+      "index": 0,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10042,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_001",
+      "index": 1,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10043,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_002",
+      "index": 2,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "climate-data platform",
+      "seed": 10044,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_003",
+      "index": 3,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "collaborative notes workspace",
+      "seed": 10045,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_004",
+      "index": 4,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10046,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_005",
+      "index": 5,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "fintech reconciliation app",
+      "seed": 10047,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_006",
+      "index": 6,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10048,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_007",
+      "index": 7,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10049,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_008",
+      "index": 8,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "open-source design system",
+      "seed": 10050,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_009",
+      "index": 9,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10051,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_010",
+      "index": 10,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "fintech reconciliation app",
+      "seed": 10052,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_011",
+      "index": 11,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "fintech reconciliation app",
+      "seed": 10053,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_012",
+      "index": 12,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "research lab homepage",
+      "seed": 10054,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_013",
+      "index": 13,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10055,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_014",
+      "index": 14,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10056,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_015",
+      "index": 15,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10057,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_016",
+      "index": 16,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "climate-data platform",
+      "seed": 10058,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_017",
+      "index": 17,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "collaborative notes workspace",
+      "seed": 10059,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_018",
+      "index": 18,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "fintech reconciliation app",
+      "seed": 10060,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_019",
+      "index": 19,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10061,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_020",
+      "index": 20,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "medical scheduling tool",
+      "seed": 10062,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_021",
+      "index": 21,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "climate-data platform",
+      "seed": 10063,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_022",
+      "index": 22,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10064,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_023",
+      "index": 23,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10065,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_024",
+      "index": 24,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10066,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_025",
+      "index": 25,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10067,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_026",
+      "index": 26,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10068,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_027",
+      "index": 27,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10069,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_028",
+      "index": 28,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "collaborative notes workspace",
+      "seed": 10070,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_029",
+      "index": 29,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "climate-data platform",
+      "seed": 10071,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_030",
+      "index": 30,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10072,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_031",
+      "index": 31,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10073,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_032",
+      "index": 32,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10074,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_033",
+      "index": 33,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10075,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_034",
+      "index": 34,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10076,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_035",
+      "index": 35,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10077,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_036",
+      "index": 36,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "medical scheduling tool",
+      "seed": 10078,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_037",
+      "index": 37,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10079,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_038",
+      "index": 38,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10080,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_039",
+      "index": 39,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "climate-data platform",
+      "seed": 10081,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_040",
+      "index": 40,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10082,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_041",
+      "index": 41,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "medical scheduling tool",
+      "seed": 10083,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_042",
+      "index": 42,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10084,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_043",
+      "index": 43,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "education course builder",
+      "seed": 10085,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_044",
+      "index": 44,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10086,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_045",
+      "index": 45,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "research lab homepage",
+      "seed": 10087,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_046",
+      "index": 46,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10088,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_047",
+      "index": 47,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10089,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_048",
+      "index": 48,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "research lab homepage",
+      "seed": 10090,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_049",
+      "index": 49,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "collaborative notes workspace",
+      "seed": 10091,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_050",
+      "index": 50,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "medical scheduling tool",
+      "seed": 10092,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_051",
+      "index": 51,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10093,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_052",
+      "index": 52,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10094,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_053",
+      "index": 53,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10095,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_054",
+      "index": 54,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10096,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_055",
+      "index": 55,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10097,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_056",
+      "index": 56,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "research lab homepage",
+      "seed": 10098,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_057",
+      "index": 57,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "collaborative notes workspace",
+      "seed": 10099,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_058",
+      "index": 58,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10100,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_059",
+      "index": 59,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "research lab homepage",
+      "seed": 10101,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_060",
+      "index": 60,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10102,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_061",
+      "index": 61,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10103,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_062",
+      "index": 62,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10104,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_063",
+      "index": 63,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10105,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_064",
+      "index": 64,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "open-source design system",
+      "seed": 10106,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_065",
+      "index": 65,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10107,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_066",
+      "index": 66,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10108,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_067",
+      "index": 67,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10109,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_068",
+      "index": 68,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "medical scheduling tool",
+      "seed": 10110,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_069",
+      "index": 69,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "climate-data platform",
+      "seed": 10111,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_070",
+      "index": 70,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10112,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_071",
+      "index": 71,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10113,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_072",
+      "index": 72,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10114,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_073",
+      "index": 73,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10115,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_074",
+      "index": 74,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10116,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_075",
+      "index": 75,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "medical scheduling tool",
+      "seed": 10117,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_076",
+      "index": 76,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10118,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_077",
+      "index": 77,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "fintech reconciliation app",
+      "seed": 10119,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_078",
+      "index": 78,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "fintech reconciliation app",
+      "seed": 10120,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_079",
+      "index": 79,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10121,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_080",
+      "index": 80,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "open-source design system",
+      "seed": 10122,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_081",
+      "index": 81,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10123,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_082",
+      "index": 82,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "AI coding assistant",
+      "seed": 10124,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_083",
+      "index": 83,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10125,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_084",
+      "index": 84,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "collaborative notes workspace",
+      "seed": 10126,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_085",
+      "index": 85,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "climate-data platform",
+      "seed": 10127,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_086",
+      "index": 86,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "education course builder",
+      "seed": 10128,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_087",
+      "index": 87,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10129,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_088",
+      "index": 88,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "privacy-first analytics",
+      "seed": 10130,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_089",
+      "index": 89,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "education course builder",
+      "seed": 10131,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_090",
+      "index": 90,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10132,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_091",
+      "index": 91,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "creator-commerce storefront",
+      "seed": 10133,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_092",
+      "index": 92,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "open-source design system",
+      "seed": 10134,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_093",
+      "index": 93,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10135,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_094",
+      "index": 94,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "docs_homepage",
+      "scenario": "security observability product",
+      "seed": 10136,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_095",
+      "index": 95,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10137,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_096",
+      "index": 96,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "docs_homepage",
+      "scenario": "medical scheduling tool",
+      "seed": 10138,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_097",
+      "index": 97,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "docs_homepage",
+      "scenario": "open-source design system",
+      "seed": 10139,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_098",
+      "index": 98,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "docs_homepage",
+      "scenario": "fintech reconciliation app",
+      "seed": 10140,
+      "status": "ok"
+    },
+    {
+      "id": "sf_docs_homepage_099",
+      "index": 99,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "docs_homepage",
+      "scenario": "robotics monitoring console",
+      "seed": 10141,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_000",
+      "index": 0,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "research lab homepage",
+      "seed": 50042,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_001",
+      "index": 1,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50043,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_002",
+      "index": 2,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50044,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_003",
+      "index": 3,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50045,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_004",
+      "index": 4,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50046,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_005",
+      "index": 5,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 50047,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_006",
+      "index": 6,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50048,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_007",
+      "index": 7,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50049,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_008",
+      "index": 8,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "research lab homepage",
+      "seed": 50050,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_009",
+      "index": 9,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50051,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_010",
+      "index": 10,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50052,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_011",
+      "index": 11,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50053,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_012",
+      "index": 12,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50054,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_013",
+      "index": 13,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 50055,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_014",
+      "index": 14,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "climate-data platform",
+      "seed": 50056,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_015",
+      "index": 15,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 50057,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_016",
+      "index": 16,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 50058,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_017",
+      "index": 17,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50059,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_018",
+      "index": 18,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50060,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_019",
+      "index": 19,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50061,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_020",
+      "index": 20,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 50062,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_021",
+      "index": 21,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "research lab homepage",
+      "seed": 50063,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_022",
+      "index": 22,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50064,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_023",
+      "index": 23,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50065,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_024",
+      "index": 24,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50066,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_025",
+      "index": 25,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 50067,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_026",
+      "index": 26,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50068,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_027",
+      "index": 27,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50069,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_028",
+      "index": 28,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "research lab homepage",
+      "seed": 50070,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_029",
+      "index": 29,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50071,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_030",
+      "index": 30,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 50072,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_031",
+      "index": 31,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50073,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_032",
+      "index": 32,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50074,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_033",
+      "index": 33,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50075,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_034",
+      "index": 34,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 50076,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_035",
+      "index": 35,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50077,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_036",
+      "index": 36,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50078,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_037",
+      "index": 37,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50079,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_038",
+      "index": 38,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50080,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_039",
+      "index": 39,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50081,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_040",
+      "index": 40,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 50082,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_041",
+      "index": 41,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50083,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_042",
+      "index": 42,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "climate-data platform",
+      "seed": 50084,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_043",
+      "index": 43,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 50085,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_044",
+      "index": 44,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 50086,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_045",
+      "index": 45,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 50087,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_046",
+      "index": 46,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50088,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_047",
+      "index": 47,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50089,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_048",
+      "index": 48,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50090,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_049",
+      "index": 49,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50091,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_050",
+      "index": 50,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "research lab homepage",
+      "seed": 50092,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_051",
+      "index": 51,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "climate-data platform",
+      "seed": 50093,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_052",
+      "index": 52,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 50094,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_053",
+      "index": 53,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50095,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_054",
+      "index": 54,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 50096,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_055",
+      "index": 55,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50097,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_056",
+      "index": 56,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 50098,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_057",
+      "index": 57,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50099,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_058",
+      "index": 58,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50100,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_059",
+      "index": 59,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50101,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_060",
+      "index": 60,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 50102,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_061",
+      "index": 61,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "climate-data platform",
+      "seed": 50103,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_062",
+      "index": 62,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50104,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_063",
+      "index": 63,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50105,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_064",
+      "index": 64,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50106,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_065",
+      "index": 65,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50107,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_066",
+      "index": 66,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50108,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_067",
+      "index": 67,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50109,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_068",
+      "index": 68,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50110,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_069",
+      "index": 69,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 50111,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_070",
+      "index": 70,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50112,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_071",
+      "index": 71,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "climate-data platform",
+      "seed": 50113,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_072",
+      "index": 72,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50114,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_073",
+      "index": 73,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50115,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_074",
+      "index": 74,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "climate-data platform",
+      "seed": 50116,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_075",
+      "index": 75,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 50117,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_076",
+      "index": 76,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50118,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_077",
+      "index": 77,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50119,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_078",
+      "index": 78,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 50120,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_079",
+      "index": 79,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50121,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_080",
+      "index": 80,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50122,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_081",
+      "index": 81,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 50123,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_082",
+      "index": 82,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50124,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_083",
+      "index": 83,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 50125,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_084",
+      "index": 84,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50126,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_085",
+      "index": 85,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "research lab homepage",
+      "seed": 50127,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_086",
+      "index": 86,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "research lab homepage",
+      "seed": 50128,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_087",
+      "index": 87,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 50129,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_088",
+      "index": 88,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "research lab homepage",
+      "seed": 50130,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_089",
+      "index": 89,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50131,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_090",
+      "index": 90,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50132,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_091",
+      "index": 91,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 50133,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_092",
+      "index": 92,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "climate-data platform",
+      "seed": 50134,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_093",
+      "index": 93,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "portfolio_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 50135,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_094",
+      "index": 94,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "portfolio_showcase",
+      "scenario": "security observability product",
+      "seed": 50136,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_095",
+      "index": 95,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "portfolio_showcase",
+      "scenario": "open-source design system",
+      "seed": 50137,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_096",
+      "index": 96,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "portfolio_showcase",
+      "scenario": "education course builder",
+      "seed": 50138,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_097",
+      "index": 97,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "portfolio_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 50139,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_098",
+      "index": 98,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50140,
+      "status": "ok"
+    },
+    {
+      "id": "sf_portfolio_showcase_099",
+      "index": 99,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "portfolio_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 50141,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_000",
+      "index": 0,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20042,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_001",
+      "index": 1,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20043,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_002",
+      "index": 2,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20044,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_003",
+      "index": 3,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20045,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_004",
+      "index": 4,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20046,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_005",
+      "index": 5,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20047,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_006",
+      "index": 6,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20048,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_007",
+      "index": 7,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20049,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_008",
+      "index": 8,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "open-source design system",
+      "seed": 20050,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_009",
+      "index": 9,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20051,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_010",
+      "index": 10,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20052,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_011",
+      "index": 11,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 20053,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_012",
+      "index": 12,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "climate-data platform",
+      "seed": 20054,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_013",
+      "index": 13,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20055,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_014",
+      "index": 14,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20056,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_015",
+      "index": 15,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20057,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_016",
+      "index": 16,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 20058,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_017",
+      "index": 17,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "open-source design system",
+      "seed": 20059,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_018",
+      "index": 18,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 20060,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_019",
+      "index": 19,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "climate-data platform",
+      "seed": 20061,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_020",
+      "index": 20,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20062,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_021",
+      "index": 21,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 20063,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_022",
+      "index": 22,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "security observability product",
+      "seed": 20064,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_023",
+      "index": 23,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "open-source design system",
+      "seed": 20065,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_024",
+      "index": 24,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20066,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_025",
+      "index": 25,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 20067,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_026",
+      "index": 26,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "security observability product",
+      "seed": 20068,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_027",
+      "index": 27,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20069,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_028",
+      "index": 28,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20070,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_029",
+      "index": 29,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 20071,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_030",
+      "index": 30,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "security observability product",
+      "seed": 20072,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_031",
+      "index": 31,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20073,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_032",
+      "index": 32,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "open-source design system",
+      "seed": 20074,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_033",
+      "index": 33,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 20075,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_034",
+      "index": 34,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20076,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_035",
+      "index": 35,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "climate-data platform",
+      "seed": 20077,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_036",
+      "index": 36,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20078,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_037",
+      "index": 37,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20079,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_038",
+      "index": 38,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20080,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_039",
+      "index": 39,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20081,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_040",
+      "index": 40,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20082,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_041",
+      "index": 41,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "open-source design system",
+      "seed": 20083,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_042",
+      "index": 42,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20084,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_043",
+      "index": 43,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 20085,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_044",
+      "index": 44,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20086,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_045",
+      "index": 45,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20087,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_046",
+      "index": 46,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 20088,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_047",
+      "index": 47,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20089,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_048",
+      "index": 48,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20090,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_049",
+      "index": 49,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20091,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_050",
+      "index": 50,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20092,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_051",
+      "index": 51,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 20093,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_052",
+      "index": 52,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 20094,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_053",
+      "index": 53,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20095,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_054",
+      "index": 54,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 20096,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_055",
+      "index": 55,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20097,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_056",
+      "index": 56,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 20098,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_057",
+      "index": 57,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20099,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_058",
+      "index": 58,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20100,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_059",
+      "index": 59,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20101,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_060",
+      "index": 60,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 20102,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_061",
+      "index": 61,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "open-source design system",
+      "seed": 20103,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_062",
+      "index": 62,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20104,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_063",
+      "index": 63,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20105,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_064",
+      "index": 64,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20106,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_065",
+      "index": 65,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "robotics monitoring console",
+      "seed": 20107,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_066",
+      "index": 66,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 20108,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_067",
+      "index": 67,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 20109,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_068",
+      "index": 68,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 20110,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_069",
+      "index": 69,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20111,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_070",
+      "index": 70,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20112,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_071",
+      "index": 71,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "creator-commerce storefront",
+      "seed": 20113,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_072",
+      "index": 72,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20114,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_073",
+      "index": 73,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 20115,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_074",
+      "index": 74,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20116,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_075",
+      "index": 75,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20117,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_076",
+      "index": 76,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "climate-data platform",
+      "seed": 20118,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_077",
+      "index": 77,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20119,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_078",
+      "index": 78,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20120,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_079",
+      "index": 79,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20121,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_080",
+      "index": 80,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "education course builder",
+      "seed": 20122,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_081",
+      "index": 81,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20123,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_082",
+      "index": 82,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 20124,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_083",
+      "index": 83,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20125,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_084",
+      "index": 84,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "security observability product",
+      "seed": 20126,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_085",
+      "index": 85,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20127,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_086",
+      "index": 86,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20128,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_087",
+      "index": 87,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "climate-data platform",
+      "seed": 20129,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_088",
+      "index": 88,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20130,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_089",
+      "index": 89,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20131,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_090",
+      "index": 90,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "AI coding assistant",
+      "seed": 20132,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_091",
+      "index": 91,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20133,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_092",
+      "index": 92,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "medical scheduling tool",
+      "seed": 20134,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_093",
+      "index": 93,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "product_showcase",
+      "scenario": "climate-data platform",
+      "seed": 20135,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_094",
+      "index": 94,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "product_showcase",
+      "scenario": "collaborative notes workspace",
+      "seed": 20136,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_095",
+      "index": 95,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "product_showcase",
+      "scenario": "privacy-first analytics",
+      "seed": 20137,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_096",
+      "index": 96,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "product_showcase",
+      "scenario": "fintech reconciliation app",
+      "seed": 20138,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_097",
+      "index": 97,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "product_showcase",
+      "scenario": "open-source design system",
+      "seed": 20139,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_098",
+      "index": 98,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "product_showcase",
+      "scenario": "research lab homepage",
+      "seed": 20140,
+      "status": "ok"
+    },
+    {
+      "id": "sf_product_showcase_099",
+      "index": 99,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "product_showcase",
+      "scenario": "climate-data platform",
+      "seed": 20141,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_000",
+      "index": 0,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "security observability product",
+      "seed": 42,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_001",
+      "index": 1,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "privacy-first analytics",
+      "seed": 43,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_002",
+      "index": 2,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "medical scheduling tool",
+      "seed": 44,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_003",
+      "index": 3,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 45,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_004",
+      "index": 4,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 46,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_005",
+      "index": 5,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "robotics monitoring console",
+      "seed": 47,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_006",
+      "index": 6,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 48,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_007",
+      "index": 7,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 49,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_008",
+      "index": 8,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 50,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_009",
+      "index": 9,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 51,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_010",
+      "index": 10,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 52,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_011",
+      "index": 11,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 53,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_012",
+      "index": 12,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "open-source design system",
+      "seed": 54,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_013",
+      "index": 13,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 55,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_014",
+      "index": 14,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 56,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_015",
+      "index": 15,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "privacy-first analytics",
+      "seed": 57,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_016",
+      "index": 16,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 58,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_017",
+      "index": 17,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 59,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_018",
+      "index": 18,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 60,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_019",
+      "index": 19,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 61,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_020",
+      "index": 20,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 62,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_021",
+      "index": 21,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 63,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_022",
+      "index": 22,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 64,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_023",
+      "index": 23,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "medical scheduling tool",
+      "seed": 65,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_024",
+      "index": 24,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 66,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_025",
+      "index": 25,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 67,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_026",
+      "index": 26,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "research lab homepage",
+      "seed": 68,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_027",
+      "index": 27,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "security observability product",
+      "seed": 69,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_028",
+      "index": 28,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 70,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_029",
+      "index": 29,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "robotics monitoring console",
+      "seed": 71,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_030",
+      "index": 30,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 72,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_031",
+      "index": 31,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 73,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_032",
+      "index": 32,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 74,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_033",
+      "index": 33,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 75,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_034",
+      "index": 34,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "robotics monitoring console",
+      "seed": 76,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_035",
+      "index": 35,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 77,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_036",
+      "index": 36,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 78,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_037",
+      "index": 37,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "open-source design system",
+      "seed": 79,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_038",
+      "index": 38,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 80,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_039",
+      "index": 39,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 81,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_040",
+      "index": 40,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "open-source design system",
+      "seed": 82,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_041",
+      "index": 41,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 83,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_042",
+      "index": 42,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "research lab homepage",
+      "seed": 84,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_043",
+      "index": 43,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 85,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_044",
+      "index": 44,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "privacy-first analytics",
+      "seed": 86,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_045",
+      "index": 45,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "open-source design system",
+      "seed": 87,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_046",
+      "index": 46,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "medical scheduling tool",
+      "seed": 88,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_047",
+      "index": 47,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 89,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_048",
+      "index": 48,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 90,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_049",
+      "index": 49,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 91,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_050",
+      "index": 50,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "medical scheduling tool",
+      "seed": 92,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_051",
+      "index": 51,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 93,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_052",
+      "index": 52,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 94,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_053",
+      "index": 53,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 95,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_054",
+      "index": 54,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "robotics monitoring console",
+      "seed": 96,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_055",
+      "index": 55,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 97,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_056",
+      "index": 56,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "robotics monitoring console",
+      "seed": 98,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_057",
+      "index": 57,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "medical scheduling tool",
+      "seed": 99,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_058",
+      "index": 58,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "open-source design system",
+      "seed": 100,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_059",
+      "index": 59,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 101,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_060",
+      "index": 60,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "open-source design system",
+      "seed": 102,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_061",
+      "index": 61,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "research lab homepage",
+      "seed": 103,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_062",
+      "index": 62,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "privacy-first analytics",
+      "seed": 104,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_063",
+      "index": 63,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 105,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_064",
+      "index": 64,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "research lab homepage",
+      "seed": 106,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_065",
+      "index": 65,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 107,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_066",
+      "index": 66,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "open-source design system",
+      "seed": 108,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_067",
+      "index": 67,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 109,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_068",
+      "index": 68,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "medical scheduling tool",
+      "seed": 110,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_069",
+      "index": 69,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 111,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_070",
+      "index": 70,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 112,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_071",
+      "index": 71,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "privacy-first analytics",
+      "seed": 113,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_072",
+      "index": 72,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 114,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_073",
+      "index": 73,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 115,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_074",
+      "index": 74,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "research lab homepage",
+      "seed": 116,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_075",
+      "index": 75,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 117,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_076",
+      "index": 76,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "research lab homepage",
+      "seed": 118,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_077",
+      "index": 77,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 119,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_078",
+      "index": 78,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 120,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_079",
+      "index": 79,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 121,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_080",
+      "index": 80,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 122,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_081",
+      "index": 81,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "privacy-first analytics",
+      "seed": 123,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_082",
+      "index": 82,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "collaborative notes workspace",
+      "seed": 124,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_083",
+      "index": 83,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 125,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_084",
+      "index": 84,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 126,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_085",
+      "index": 85,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "privacy-first analytics",
+      "seed": 127,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_086",
+      "index": 86,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 128,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_087",
+      "index": 87,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 129,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_088",
+      "index": 88,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 130,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_089",
+      "index": 89,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "robotics monitoring console",
+      "seed": 131,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_090",
+      "index": 90,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "medical scheduling tool",
+      "seed": 132,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_091",
+      "index": 91,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 133,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_092",
+      "index": 92,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "fintech reconciliation app",
+      "seed": 134,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_093",
+      "index": 93,
+      "model_id": "MiniMaxAI/MiniMax-M2.5",
+      "page_type": "saas_landing",
+      "scenario": "security observability product",
+      "seed": 135,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_094",
+      "index": 94,
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_type": "saas_landing",
+      "scenario": "creator-commerce storefront",
+      "seed": 136,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_095",
+      "index": 95,
+      "model_id": "zai-org/GLM-5.2",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 137,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_096",
+      "index": 96,
+      "model_id": "Pro/moonshotai/Kimi-K2.6",
+      "page_type": "saas_landing",
+      "scenario": "climate-data platform",
+      "seed": 138,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_097",
+      "index": 97,
+      "model_id": "meituan-longcat/LongCat-2.0",
+      "page_type": "saas_landing",
+      "scenario": "privacy-first analytics",
+      "seed": 139,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_098",
+      "index": 98,
+      "model_id": "Qwen/Qwen3-32B",
+      "page_type": "saas_landing",
+      "scenario": "AI coding assistant",
+      "seed": 140,
+      "status": "ok"
+    },
+    {
+      "id": "sf_saas_landing_099",
+      "index": 99,
+      "model_id": "deepseek-ai/DeepSeek-V4-Flash",
+      "page_type": "saas_landing",
+      "scenario": "education course builder",
+      "seed": 141,
+      "status": "ok"
+    }
+  ],
+  "schema": "webhumanbench_v1_ai_source_run_ledger_v1",
+  "source_run_sha256": "5ca7e5b59b5ed82a39929b12a01b090603b55cb7cca33cf5ba762b9d19525a37"
+}

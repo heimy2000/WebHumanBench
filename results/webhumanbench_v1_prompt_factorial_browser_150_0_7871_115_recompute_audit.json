@@ -1,0 +1,27 @@
+{
+  "comparison": {
+    "recomputed_analysis_sha256": "b02845754b6b5fb0283e51337c0dddbc4405dad7b2f82ce4a8c825f4761305ef",
+    "recomputed_baseline_sha256": "b710781507f85f17de4e92d4c7f417d5ed67100cb419c6e2f05fcf7af29c4c3f",
+    "stored_analysis_sha256": "b02845754b6b5fb0283e51337c0dddbc4405dad7b2f82ce4a8c825f4761305ef",
+    "stored_baseline_sha256": "b710781507f85f17de4e92d4c7f417d5ed67100cb419c6e2f05fcf7af29c4c3f"
+  },
+  "determinism_boundary": "The audit compares deterministic baseline and analysis objects. Provider timestamps, request latency, and total run elapsed time are intentionally excluded.",
+  "inputs": {
+    "artifact_root": "results/webhumanbench_v1_prompt_factorial_artifacts",
+    "benchmark_manifest": {
+      "path": "benchmark/webhumanbench_v1/webhumanbench_manifest.json",
+      "sha256": "5c80caf286a57b0886c414d2acae585c64a183ed91d1e0790b48414cee299bb3"
+    },
+    "result": {
+      "path": "results/webhumanbench_v1_prompt_factorial.json",
+      "sha256": "def2b6aa0d3a073a72dfecc2ac3d08aa87de2c3e5857d667f1e7d89374092038"
+    },
+    "source_run": {
+      "path": "results/webhumanbench_v1_prompt_factorial_source_run.json",
+      "sha256": "708eda609a29c566a64e4a9868715b3e1c720356d1deee13a0b830a96306aba6"
+    },
+    "validated_capture_records": 120
+  },
+  "schema": "webmark_prompt_factorial_recompute_audit_v1",
+  "status": "pass"
+}

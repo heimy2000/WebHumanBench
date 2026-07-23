@@ -1,0 +1,150 @@
+{
+  "commit_sha": "2dbfae466498d5c641a0be8c55f78a79393c677d",
+  "entrypoint": "src/main/webapp/plugins/ckeditor/samples/index.html",
+  "files": [
+    {
+      "bytes": 518088,
+      "git_blob_sha1": "f4d8b4b3bfb84611b9886930331efc6045366fb9",
+      "path": "src/main/webapp/plugins/ckeditor/ckeditor.js",
+      "sha256": "21bd789757cc4aa379ff0e09683a8db030ff2fef1380ecd564fd3facdd2c8617"
+    },
+    {
+      "bytes": 1321,
+      "git_blob_sha1": "35c0db9fc251bdff4a0978e0225512372d7c395a",
+      "path": "src/main/webapp/plugins/ckeditor/config.js",
+      "sha256": "073ee5e5545768b7ff88ae67c7441bf3e2e74e9b9a5204ae9b9b317fbe1f9b0d"
+    },
+    {
+      "bytes": 65973,
+      "git_blob_sha1": "7697e82728702380c720bab284577ffefed60b4b",
+      "path": "src/main/webapp/plugins/ckeditor/samples/css/samples.css",
+      "sha256": "5c5268966de1c459bdbdc79ac46024d2e66300dff53050ce75c9cd8a1784a5d9"
+    },
+    {
+      "bytes": 5891,
+      "git_blob_sha1": "96d86e27c137e248693721e35485b590b7ab805e",
+      "path": "src/main/webapp/plugins/ckeditor/samples/img/logo.png",
+      "sha256": "3f06064634e4f5c7b7d7663207df219364e79af0ab679774e175bf829328a875"
+    },
+    {
+      "bytes": 6564,
+      "git_blob_sha1": "0b154b799d6b86d884baadee3d9b0614345a31a9",
+      "path": "src/main/webapp/plugins/ckeditor/samples/index.html",
+      "sha256": "8a310d984786518bf43787a8791e37decd5214926ee273e0f0c6ddc3add81864"
+    },
+    {
+      "bytes": 1521,
+      "git_blob_sha1": "21cf97b1d15eba55453695dfc1435efe57d7d4dc",
+      "path": "src/main/webapp/plugins/ckeditor/samples/js/sample.js",
+      "sha256": "27057ca5a1bc2ae45ec1a476aee88b90946426b7599c7fea61e72c42f0cdff47"
+    },
+    {
+      "bytes": 6408,
+      "git_blob_sha1": "72edbdebba63f19747fd90010fd09c4f5731cf61",
+      "path": "src/main/webapp/plugins/ckeditor/samples/js/sf.js",
+      "sha256": "6a1c8cab4762277b12de0f3a3c0e6fc90ea58a6151bc2eed36fd6d5230f64430"
+    },
+    {
+      "bytes": 1703,
+      "git_blob_sha1": "af1d460853d72fd2847b1c0d8f358ef11ba19bae",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/css/fontello.css",
+      "sha256": "26507438effd65a54b71c71dfcfed38a34dbde137f5783b35d619d313cdc943d"
+    },
+    {
+      "bytes": 4988,
+      "git_blob_sha1": "2732fad4b99afccc74c27aa672ccd40f913b80ca",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/font/fontello.eot",
+      "sha256": "5ab7047b67141f76d20500fcb5220bde1e63fbd331fb4ba8910d03b5ceee83fc"
+    },
+    {
+      "bytes": 1701,
+      "git_blob_sha1": "33d14ac833081f5c67551d741db9fe51e5587783",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/font/fontello.svg",
+      "sha256": "0660da80c6903e1dda005f289c31189c5228bd540815dafe4391915d40e1c21b"
+    },
+    {
+      "bytes": 4820,
+      "git_blob_sha1": "fbcbf06af5fe25519880166886f3af289acfd960",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/font/fontello.ttf",
+      "sha256": "d2a517b288a7d6dcbe004b569339d556bf0e81ac049a2dccbd1cb96bb70fc6ed"
+    },
+    {
+      "bytes": 2904,
+      "git_blob_sha1": "e1d56472f88b35b037149608094afc4bbcf97b50",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/font/fontello.woff",
+      "sha256": "30630051898b4dcbbab7ad83b00c425f58da3f548366134ba6f1488a06e7f29b"
+    },
+    {
+      "bytes": 15003,
+      "git_blob_sha1": "cf3d0438a32870a0f98ff537970d51ed1c666c37",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/index.html",
+      "sha256": "b011620763e8cb0118fa9f5d51085905566e2d7fd9565cd80647a09a750a30e2"
+    },
+    {
+      "bytes": 6523,
+      "git_blob_sha1": "65f0b8753f6909e0d165cb1d563cb148eb34333b",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js",
+      "sha256": "b7d84c9a34aaf7bffc7908647b5c01d8e9da1a81610e4b69d1387a6b88cc8a2a"
+    },
+    {
+      "bytes": 3819,
+      "git_blob_sha1": "dc19beedf99bcd2a23b9152575727f8d46bc927e",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js",
+      "sha256": "39f1fb3bc643f693eb560f5e03e6eeb53d6105d2ab6b6f1406be641a1ce743a1"
+    },
+    {
+      "bytes": 16651,
+      "git_blob_sha1": "973181837f9a447f8ebb60f1505ccb2cbb41e122",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js",
+      "sha256": "7abd0dab1954164fe0c288efaa9d9a226a1236b8915e94cb3f5c1a82af1c3e3c"
+    },
+    {
+      "bytes": 6850,
+      "git_blob_sha1": "b9ef46be768ea660519aafa85c2c2ec3fcef2a67",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js",
+      "sha256": "ab7deab820642fe9defd1275ba5e93adb1db437e7c955b6209f55b13ce85b755"
+    },
+    {
+      "bytes": 7771,
+      "git_blob_sha1": "ceacd130479081406dadee603d2c9fa859ed6471",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css",
+      "sha256": "7704b22671b52fff60b83ab933f08398f9951996498d1760426933c81fd73591"
+    },
+    {
+      "bytes": 148874,
+      "git_blob_sha1": "538493fe07467f75a916edaa8e085cadaea2f709",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js",
+      "sha256": "ed6bcd976c405aaccbcb0a4b27722d272432e83934c5412e581e9a699f6ab047"
+    },
+    {
+      "bytes": 12285,
+      "git_blob_sha1": "c76ab4653f2b0ca6ae6366bc5f0f78003bca88ce",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js",
+      "sha256": "153b47a7979dc77f0a4a320e056b8f6ce803a5a8d0e443ce7e206ea73a15bcd5"
+    },
+    {
+      "bytes": 815,
+      "git_blob_sha1": "d019aab88b28811066dc78c631bb13b03227b020",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css",
+      "sha256": "46c414e54451a75de02b1d0feb63637ea946b724a58c6b1d80be66c3d071539d"
+    },
+    {
+      "bytes": 662,
+      "git_blob_sha1": "924e638f7f7bb690809225c2ac28650fe4596938",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css",
+      "sha256": "6e2f632941466645d05680348abf4e04100a40d8178949ba092c67bbb8911c45"
+    },
+    {
+      "bytes": 8080,
+      "git_blob_sha1": "072359c2f2c53ddfc716f8191b5d2a7892b2e886",
+      "path": "src/main/webapp/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js",
+      "sha256": "dbc535fd986942f6820095ae77241e6990b5cf44709a482598b31da72139eacd"
+    }
+  ],
+  "github_tree_sha": "a8a693e327016b2719953b6e67ff685461d87c89",
+  "github_tree_sha256": "cb1d8162467b1855a5bb68d007e704dfcb12a2243ad4690343242914724e9286",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "TuiQiao/CBoard",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b"
+}

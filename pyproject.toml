@@ -1,0 +1,84 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "webmark"
+version = "1.0.0rc5"
+description = "Auditable WebHumanBench pilot for reference-relative webpage design fit"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10"
+authors = [
+    { name = "Anonymized Authors" },
+]
+keywords = [
+    "reference-relative-design-fit-benchmark",
+    "browser-artifact-provenance",
+    "benchmark-auditing",
+    "one-class-reference-modeling",
+    "aaai-2027",
+    "reference-implementation",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.11",
+    "matplotlib>=3.7",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+# Offline-only dependencies; the default install works without them.
+dev = [
+    "pytest>=7.4",
+    "pytest-cov>=4.1",
+    "ruff>=0.4",
+]
+analysis = [
+    # Required only for optional analysis scripts outside the frozen v1 baseline.
+    "scikit-learn>=1.3",
+]
+browser = [
+    # Only needed to rebuild browser captures and render-integrity audits.
+    "playwright>=1.45",
+    "pillow>=10.0",
+    "scikit-image>=0.22",
+    "html5lib>=1.1",
+]
+vision = [
+    # Only needed to rebuild the frozen UIClip image-embedding cache.
+    "torch>=2.2",
+    "transformers>=4.40",
+    "pillow>=10.0",
+]
+notebook = [
+    "jupyter>=1.0",
+    "ipykernel>=6.25",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+webmark = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra --strict-markers"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["B008", "E501"]

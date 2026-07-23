@@ -1,0 +1,30 @@
+{
+  "commit_sha": "a45aefd1f1af7bd9c95b5d61fae526193476e1e0",
+  "entrypoint": "karate-core/src/test/java/demo/index.html",
+  "files": [
+    {
+      "bytes": 283,
+      "git_blob_sha1": "866520d47c1687916915efe7a2bf0cac20070da1",
+      "path": "karate-core/src/test/java/demo/app.css",
+      "sha256": "9870771449882dd91345a472a893ebedcdc6123de6feb0e068bca5dd2c883a64"
+    },
+    {
+      "bytes": 15086,
+      "git_blob_sha1": "9538ae87a5612bdae9386426ba61315308a50835",
+      "path": "karate-core/src/test/java/demo/favicon.ico",
+      "sha256": "8e8c96f1baf9d47df2696662d1e85bd3880b890eae7635f49ec74c3b041932a9"
+    },
+    {
+      "bytes": 1418,
+      "git_blob_sha1": "625ad62baac5e57eb02772d2dee9ca7a9d08f36d",
+      "path": "karate-core/src/test/java/demo/index.html",
+      "sha256": "fd9cea155106dad90d94d6879e4d57532fec3a69e0352fea07f3da16d4f871fd"
+    }
+  ],
+  "github_tree_sha": "d07b687640914a827a4300eb28869f930a72aa0f",
+  "github_tree_sha256": "15dde6bc63f100db8e0ce5b2b4b75e98f85204df5d1ee9bd2dd6f47b9b620846",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "karatelabs/karate",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-developer-tool-karatelabs-karate-fc0ca2607186"
+}

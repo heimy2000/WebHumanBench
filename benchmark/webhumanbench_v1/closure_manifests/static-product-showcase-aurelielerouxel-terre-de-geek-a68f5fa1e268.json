@@ -1,0 +1,150 @@
+{
+  "commit_sha": "0a7f7e4b9e698d14f84bdd21f032f5859db5f32d",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 10765,
+      "git_blob_sha1": "5d470b91408992a56eaff8de153bb465982d9533",
+      "path": "css/main.css",
+      "sha256": "658c0961c699b60e0d180746ecdc3c2e2babe6103d6a53d27fb479afa364deba"
+    },
+    {
+      "bytes": 6138,
+      "git_blob_sha1": "192eb9ce43389039996bc2e9344c5bb14b730d72",
+      "path": "css/normalize.css",
+      "sha256": "580818700724d42d7fcc4979b0197971fca1c6d2e0286769237a0ac897df5512"
+    },
+    {
+      "bytes": 3582,
+      "git_blob_sha1": "206e99db35f998f86d2c0b7490eb2556c796ad6a",
+      "path": "img/facebook.png",
+      "sha256": "03beff1640f99ba1515352c824d9fe6dac1110d764476aab50b249eae6424ac5"
+    },
+    {
+      "bytes": 18398,
+      "git_blob_sha1": "01d70952d1356179908003f4e0168946b188a880",
+      "path": "img/fauteuil_mti373_noir.png",
+      "sha256": "41e2e0635350423f6b461c4b762409ab838bb958ad43286c8e2b5687fc676630"
+    },
+    {
+      "bytes": 15127,
+      "git_blob_sha1": "45f0d119c24fd9f1646e06cd8247f6daa4b18117",
+      "path": "img/gaming.png",
+      "sha256": "7b0a4e25e5cb8b7cd1cf011d10eecf4a9055f1daa4c6047b1f04388ea2712e10"
+    },
+    {
+      "bytes": 1692,
+      "git_blob_sha1": "280d47bdb41ca513e8b8c106d8352534a0d83c9f",
+      "path": "img/icone_technologies.png",
+      "sha256": "e5f940cfcdf17b233c64d8586f1cee20818a5a45ebfdf96b49e1b435dc653b58"
+    },
+    {
+      "bytes": 24785,
+      "git_blob_sha1": "9094624da81b9b78eef3c4de3114f2432acda1a0",
+      "path": "img/iphone7_32go_roseor.png",
+      "sha256": "642e4bb01dd43bc272f26376c244babd97397be52fb2834e9e5121e38368a976"
+    },
+    {
+      "bytes": 9306,
+      "git_blob_sha1": "5033e9013b7cf74eb8e30c0de3efb8eb131fa16d",
+      "path": "img/logo_dell.png",
+      "sha256": "89cc9236e9ffa616361bc87eaff58f933cd279436476a19a55c5ec123944f606"
+    },
+    {
+      "bytes": 26117,
+      "git_blob_sha1": "aebc3fbe13f0f9f658bfb33f1c12911acec92b74",
+      "path": "img/logo_tdg.png",
+      "sha256": "a2c04619b3f35c8d926ae5c89000f97e796fd1ec902706e882c295c587114b50"
+    },
+    {
+      "bytes": 16531,
+      "git_blob_sha1": "283407ae0b55b09a1a1e4e44c5a8b6065974a6e1",
+      "path": "img/ordinateur_portable.png",
+      "sha256": "1a6470263e4021e69a31acb3a1be75f62fdf9be3f6e726e90258a99808273585"
+    },
+    {
+      "bytes": 14475,
+      "git_blob_sha1": "0594183e8f215a405932c4303236092c41771672",
+      "path": "img/performances.png",
+      "sha256": "37f9aaf091e10af6e3da5fc88c5236b7b3acc4b8b38284f0f104bc5705b026e7"
+    },
+    {
+      "bytes": 4252,
+      "git_blob_sha1": "8ca32f6058927b533ba721028585ce8b5aa7fcc8",
+      "path": "img/whatsapp.png",
+      "sha256": "8f0356bed10928cd2238597356bee6d1ac9ccbbb9151bc9caab340fd8f78ff95"
+    },
+    {
+      "bytes": 2027,
+      "git_blob_sha1": "c7b58926c5b856b7b95e7ed89e50b855c806cfae",
+      "path": "img/youtube.png",
+      "sha256": "e11df0c6eb685d0d6d5c2ed69ec909ae118570f6d370b8c57a8078ff0ae35976"
+    },
+    {
+      "bytes": 5041,
+      "git_blob_sha1": "a5ac562dbdfd50f894fc2e35fc92d2454b407b98",
+      "path": "index.html",
+      "sha256": "8cf2b3aeb32e5c3968ec9804a1010bd0184244458979e7592822315d042debd4"
+    },
+    {
+      "bytes": 5884,
+      "git_blob_sha1": "2a11dd71083d44587236373749aab6ed7f1ace1f",
+      "path": "informatique.html",
+      "sha256": "abe56aa568122b512f8df95251e9f8fea7bd9a6dea40c88d796ddd8ea4c8696e"
+    },
+    {
+      "bytes": 0,
+      "git_blob_sha1": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "path": "js/main.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "bytes": 706,
+      "git_blob_sha1": "feb7d19e6e5ff6b45f3d87bbae09794b9006f3ed",
+      "path": "js/plugins.js",
+      "sha256": "ba48d440c79456c03c9bd51bc75d3367d8b4b12c8c5dd889b11c33c651561d11"
+    },
+    {
+      "bytes": 8606,
+      "git_blob_sha1": "feada515d142b09bc6e07cb3a36703c16ac3d4e8",
+      "path": "js/vendor/modernizr-3.11.2.min.js",
+      "sha256": "8c52fd09c046eb1c50d8c10ed30e5ee15aa1f46c3ba26ee4019b1509277ffc2d"
+    },
+    {
+      "bytes": 4328,
+      "git_blob_sha1": "7aa8edfca49f91533edac2a40fc3ac5e5b2e5b1e",
+      "path": "mentionsLegales.html",
+      "sha256": "1b4ca1b420f2fb7d58b85e3926f5a2e03a89bb6a74bc552f489f8551339047b4"
+    },
+    {
+      "bytes": 4615,
+      "git_blob_sha1": "4088b336f799d81874762bd0324e8603266223ae",
+      "path": "nousContacter.html",
+      "sha256": "0e701a9417db6b67664fe5576336f0ea93185452615c8b1df61e7cc0c113a07f"
+    },
+    {
+      "bytes": 3087,
+      "git_blob_sha1": "cba5613d100e5b351b04343882031dbf3ff92d87",
+      "path": "prestations.html",
+      "sha256": "190bc2f578761590b2c371ad37757f8c88891d38d27753378cc00c1146f43b76"
+    },
+    {
+      "bytes": 3533,
+      "git_blob_sha1": "d285383efedbc137adb378e169dfcfd83db16fa4",
+      "path": "quiSommesNous.html",
+      "sha256": "83bef15663b24c46426ba7aaec70536163f02d8a0fff233bb26a20602b821b6c"
+    },
+    {
+      "bytes": 231,
+      "git_blob_sha1": "222ae169e976b699e8158dab96f5f036bf7b0eb4",
+      "path": "site.webmanifest",
+      "sha256": "7f7eced3788f3b126e7fd2d22640814a3ad5b1c9a76b0ddc7e689cd3eb25bd40"
+    }
+  ],
+  "github_tree_sha": "daaf0d5e0e166504412293960dc3a43b981264d0",
+  "github_tree_sha256": "5a2afc0fec3d07ce4e38ba8ca150ad7090ae8147ef4aaa63106984d2ead4107d",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "aurelielerouxel/terre_de_geek",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268"
+}

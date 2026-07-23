@@ -1,0 +1,18 @@
+{
+  "commit_sha": "5e35b9de02e5904aa1583abd2efa544025734ba4",
+  "entrypoint": "samples/html/index.html",
+  "files": [
+    {
+      "bytes": 49550,
+      "git_blob_sha1": "7395ad1e060fd36208fbebc660587b4957ce0d33",
+      "path": "samples/html/index.html",
+      "sha256": "40a7ab607c2765c158d7ed23793987dcf77048dc4dc01674f49f5743053df933"
+    }
+  ],
+  "github_tree_sha": "2291e4376a0b82917f14710b2be32d33f38a4e2a",
+  "github_tree_sha256": "381f23e4e83f7d48930774429e96a166ee1262f6d0c4cb916df976a4461a0980",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "swagger-api/swagger-codegen",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0"
+}

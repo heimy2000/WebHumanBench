@@ -1,0 +1,66 @@
+{
+  "commit_sha": "caf6de81aacdd076502c796509c5784d6765ac93",
+  "entrypoint": "kubenav.io/index.html",
+  "files": [
+    {
+      "bytes": 4221,
+      "git_blob_sha1": "e6250ea430c37922e0dc2d5c81fb5b821a8d9aaf",
+      "path": "kubenav.io/css/index.css",
+      "sha256": "4d489ad26222df79abf874d10a5023b10b240a29cfbc6462486be298169879a6"
+    },
+    {
+      "bytes": 7103,
+      "git_blob_sha1": "94cc1eb82b6494a3fd6f5384487c0ceb8292a1df",
+      "path": "kubenav.io/favicon.png",
+      "sha256": "ab71aadbf7fa88cbc58c4e85918dd005af8ae4279891bf154364699cffc5d010"
+    },
+    {
+      "bytes": 20437,
+      "git_blob_sha1": "0d4809e97d7f4b1cece27c7592c224404a0943a3",
+      "path": "kubenav.io/img/badge-app-store.png",
+      "sha256": "5f45539af9d563ca2b7d78da9f7d457611ad5cd2d8c88d2c68dce4b7f5440b87"
+    },
+    {
+      "bytes": 19592,
+      "git_blob_sha1": "3174c8bfa3da6988a9d68da26cfda9d6db3b633b",
+      "path": "kubenav.io/img/badge-desktop.png",
+      "sha256": "12c49d092cdd74655171cefbf4e01d291b1a08261232f6963692a5428cc84312"
+    },
+    {
+      "bytes": 16514,
+      "git_blob_sha1": "1922f583f01cb92fbde97607414c1091e9f5321f",
+      "path": "kubenav.io/img/badge-google-play.png",
+      "sha256": "4d04f556378cd159eb6090855b2c85520f5592511a9cdd2be3d2176c8e01cd6d"
+    },
+    {
+      "bytes": 21109,
+      "git_blob_sha1": "c583ff56100f199e866cf2d4e89f5fbbef29e544",
+      "path": "kubenav.io/img/icon.png",
+      "sha256": "da7d41aaacff442e68b962bca67193523bdd9907bad05320fe2e69c899462748"
+    },
+    {
+      "bytes": 788676,
+      "git_blob_sha1": "19364819cc290a7487f4b7b82875ba720f5ed043",
+      "path": "kubenav.io/img/iphone.png",
+      "sha256": "ed907bd87b394417748853a90752c68cb6d76c8509175b1236f43f4a15cbb780"
+    },
+    {
+      "bytes": 3696,
+      "git_blob_sha1": "38647e813a28eca0f1d7be89c7e0cb439fdced01",
+      "path": "kubenav.io/index.html",
+      "sha256": "5163f15c5597da91420cae3de0d0d6406e7bc5c1a9cdbc457e28d709e2cc5222"
+    },
+    {
+      "bytes": 2717,
+      "git_blob_sha1": "f177ad8e0312e842721a1cd5696659ee4bfa4b0f",
+      "path": "kubenav.io/privacy.html",
+      "sha256": "492ee581d4210fef0686971ed5b51e65b002444f9eb94a15a37e75057481137f"
+    }
+  ],
+  "github_tree_sha": "2b30e953be6b2fc09e37fae294778b39c4901ec4",
+  "github_tree_sha256": "461670d1def88f6c787752dca64c23160552d26e586715729a44e64a62bedabd",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "kubenav/kubenav",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6"
+}

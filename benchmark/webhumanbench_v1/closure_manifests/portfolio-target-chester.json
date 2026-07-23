@@ -1,0 +1,114 @@
+{
+  "commit_sha": "896513b1895d02565c8b559228ad69dde1a3e2b0",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 1874,
+      "git_blob_sha1": "a4a5e11a8cfbd546b4dc7bc480085d6e9a9d7e2e",
+      "path": "apple-touch-icon.png",
+      "sha256": "dbb68af19c0ef76a39720e2bb859133d91f4247032b909ddb85296ba83547429"
+    },
+    {
+      "bytes": 106060,
+      "git_blob_sha1": "07c665b11cc8f08c89555ad9285951295fd79331",
+      "path": "assets/images/averagejoe.png",
+      "sha256": "bf2295eedce9cc82f3acc3d7708baab6f48b3bb6d0e584f64a1b1a8679f5ac07"
+    },
+    {
+      "bytes": 63663,
+      "git_blob_sha1": "19bff6a4cc7369265adf8beb32b187b7897731fa",
+      "path": "assets/images/byers-miggs.png",
+      "sha256": "4e38e5a3b20d9b064cb61595c575be215f82160149c9514890106f49a556a960"
+    },
+    {
+      "bytes": 20304,
+      "git_blob_sha1": "389ec62bc197fdb54defd5d763eccde064cd08e6",
+      "path": "assets/images/contentco.png",
+      "sha256": "40b15757a9c246563b434348eaf3b13ee79247d2dc55b0a2ca6431a373ce2d11"
+    },
+    {
+      "bytes": 832,
+      "git_blob_sha1": "9202d9467cbbfafc760a9f96cab38d145cfc9b4b",
+      "path": "assets/images/estl.svg",
+      "sha256": "51178ca60504011a5b1666a4b0751a0f78eeb63c5cc669ac55249b61c79c8755"
+    },
+    {
+      "bytes": 99141,
+      "git_blob_sha1": "d13ab5f45461dbcd4bb3df89705d063390d72936",
+      "path": "assets/images/fourthclasshonours.png",
+      "sha256": "a5d0c6e9bcfdf6b149f7805886ddcc10baef18b6a30c01e19af13a80f7e4f635"
+    },
+    {
+      "bytes": 249068,
+      "git_blob_sha1": "94d2699df9ae38e4bbfdee167ce14bf623f2235e",
+      "path": "assets/images/heritage.png",
+      "sha256": "7347d779aca8ea877777db8038c229896674801ddeaa5efae9cdca2dfd841ab7"
+    },
+    {
+      "bytes": 80048,
+      "git_blob_sha1": "070c64f27bae47ba6a437cf78cf7e1209125055b",
+      "path": "assets/images/tale.png",
+      "sha256": "c8b065b5fced75e1a8293114cdf7913df8bdedf26a627412cf75bb702a84aef8"
+    },
+    {
+      "bytes": 15112,
+      "git_blob_sha1": "afba9a217950f11f686c41d94ecb5a5bdff32abb",
+      "path": "assets/images/taskade.svg",
+      "sha256": "824c2aa9c144fad0f6cc79f5fbfe2012493ec2df7c349ba0093b8916067bb1e6"
+    },
+    {
+      "bytes": 4736,
+      "git_blob_sha1": "2c6312f416dc121e7a471d423e3d9630d1781ce3",
+      "path": "assets/images/undertide.png",
+      "sha256": "a40fc9a4fac2c3238b488b3fb1630603bd8ea824aa484d151c1d726477282dc8"
+    },
+    {
+      "bytes": 562,
+      "git_blob_sha1": "7759395b87d57519b5e6df7b5efb327266a57aa9",
+      "path": "favicon-16x16.png",
+      "sha256": "32b7157b7585d7857cf81bb3f1556649e77a0d2f6ef87fd9f0b676903e8f4e6a"
+    },
+    {
+      "bytes": 794,
+      "git_blob_sha1": "2df756ab6b8d49fca2b06b1ec93c26360200a93d",
+      "path": "favicon-32x32.png",
+      "sha256": "f30fc6bb19d6bf3379b87aac353047ae3b70331b76ed2aa4fa96330c8bfc8377"
+    },
+    {
+      "bytes": 9764,
+      "git_blob_sha1": "77652746a8237316fe3f331e779162fe91885d18",
+      "path": "index.html",
+      "sha256": "6ae4d10025f8263715b4736f80b72795834e10a16d20672373c3449f4c0eb768"
+    },
+    {
+      "bytes": 36,
+      "git_blob_sha1": "5dab0b38ea9ddc1fc90eee6f140dad41bf1591e9",
+      "path": "index.js",
+      "sha256": "4502ea28ae92ada2a5f0527eb540b61a7c0dec608fec5543f0e10cc1e26a28d6"
+    },
+    {
+      "bytes": 1342,
+      "git_blob_sha1": "e0e09634031ecc3131f4c74ddba80c2f0bb7d0a8",
+      "path": "safari-pinned-tab.svg",
+      "sha256": "43b1f641381f7336600ba05acca98c5ebfb3e89f147bf4266f3df05b5d4d70ed"
+    },
+    {
+      "bytes": 426,
+      "git_blob_sha1": "8f28d313d628a041cf8d840c6955575805c71c78",
+      "path": "site.webmanifest",
+      "sha256": "581898f9c3a06b1ea99452ab5df88bdba68fae8fef9b27ea050b765d6a61573b"
+    },
+    {
+      "bytes": 85,
+      "git_blob_sha1": "df42de0476b83f1f7501f1d4d55dbf8303794912",
+      "path": "stylesheets/styles.scss",
+      "sha256": "aba50fe2856fdfbcb90e5defa47c07b1f44009ad4f9a6025ac9e6f0589970166"
+    }
+  ],
+  "github_tree_sha": "aafe8901c8a80e3338ce8dff6e56e7ec5b7c483d",
+  "github_tree_sha256": "df10496ff47a7c1adecea039fc49dff45c0257f375604be54f2340959cd59ed5",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "chesterhow/Portfolio",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "portfolio-target-chester"
+}

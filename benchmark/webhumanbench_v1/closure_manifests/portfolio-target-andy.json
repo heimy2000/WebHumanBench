@@ -1,0 +1,102 @@
+{
+  "commit_sha": "d7a0d1ca5dac6d3a99af9e41c2abf5060088c235",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 525,
+      "git_blob_sha1": "34e0d6654bb6c9f958ef68cc29031a1ef0404f70",
+      "path": "images/IconMenu.svg",
+      "sha256": "59ccd05f829339aeeed9469480191061843b64016a7725adb39c1e7e625c5507"
+    },
+    {
+      "bytes": 235,
+      "git_blob_sha1": "f5085ca75547c41bee2af5ec6ef6f4dc35939ddd",
+      "path": "images/counter.png",
+      "sha256": "0f2aea0eec3e1dabd996f04411cbb05f2e0abd7bf4d0d29f3a74f67c2db45520"
+    },
+    {
+      "bytes": 719,
+      "git_blob_sha1": "5161a5be93e76b801f18fb89871e294bae344987",
+      "path": "images/css.png",
+      "sha256": "8dbb172fe6f3b18e050037309846625ab6db0aad207d27a6041a36e4352a1b1b"
+    },
+    {
+      "bytes": 1037,
+      "git_blob_sha1": "e1a397b6310791246fd0d7dc4a05cddffe0cfb5e",
+      "path": "images/github.svg",
+      "sha256": "fd886ce7a8e0407c8e5e7a92a260384dc0a60cca75060fd1e9c8d179af3921c3"
+    },
+    {
+      "bytes": 3148,
+      "git_blob_sha1": "c7ce3da4e67401fb496c7768c3972d360cb54f5d",
+      "path": "images/headerbigscreen.svg",
+      "sha256": "d6615c6a60cdd0ad99fa628bb253ada7687e5195278dd52975eed58d8472bfdb"
+    },
+    {
+      "bytes": 639,
+      "git_blob_sha1": "a479e505dc21429425ab7a7d49419af6f1aa90ec",
+      "path": "images/html.png",
+      "sha256": "68eb47a91f2fdf8329eba90c36d8babbc69d768a833326c53292e176c579cc34"
+    },
+    {
+      "bytes": 1209,
+      "git_blob_sha1": "d789c00ee3ef2e3c9718eebbf6b5b6cd3f87e659",
+      "path": "images/javascript.png",
+      "sha256": "8f37c777a1f6b1e4073815e8f7cf1bc5cc9b3a19358d2fb26ad9a46daf0b7a59"
+    },
+    {
+      "bytes": 1015,
+      "git_blob_sha1": "171e0b60878a29ea5bd722e4a95e74d494f78648",
+      "path": "images/linkedin.svg",
+      "sha256": "07ce131cfbf820779e24379136364dc491c9b0c60687800817c227bc75538367"
+    },
+    {
+      "bytes": 677,
+      "git_blob_sha1": "fe5651481814a1523bf7f5dc88ac57e692f0cd17",
+      "path": "images/m.svg",
+      "sha256": "9983af9f391087fb3bdeddf48853fcbbc90cfadbc5ef599e01b668070f9186e6"
+    },
+    {
+      "bytes": 403794,
+      "git_blob_sha1": "0b2970334f3299c8119cba0ecea12d049bf318e8",
+      "path": "images/snapshoot-portfolio.svg",
+      "sha256": "379dcab47dfdf275eb83db10095201dad0bc5488fe6386b219c8d976a5830db4"
+    },
+    {
+      "bytes": 73742,
+      "git_blob_sha1": "537bff80dc5aff79575350473f1303ea07f75b59",
+      "path": "images/snapshootportfolio4.png",
+      "sha256": "5ca32e1a286e6253e51dd9a70fc48d1b8d39bccb5a4f933cdb9dbb0ac3b833da"
+    },
+    {
+      "bytes": 847,
+      "git_blob_sha1": "f505d95bb41950b295c93d69a531ca3d47b9d9ee",
+      "path": "images/twitter.svg",
+      "sha256": "c4c68aaa8538348f15084ac6d801d44d898d430ef5af2a5b397496928154b069"
+    },
+    {
+      "bytes": 2445,
+      "git_blob_sha1": "1abc06e39a5675d89570f6bfc260b62713d3ec50",
+      "path": "images/vector.svg",
+      "sha256": "5a32e01933b099d5ab35c7c66a986abd6d54ee93c651b4af52af4a4535b55a64"
+    },
+    {
+      "bytes": 6988,
+      "git_blob_sha1": "6b850e279e1cc7f67fc9de6d1e726b26b2e6e432",
+      "path": "index.html",
+      "sha256": "93e2cd4a17f547c720528684cd40fe423792ca2dbdfff1feec10515c4743d63e"
+    },
+    {
+      "bytes": 80,
+      "git_blob_sha1": "9d949f5a36295a5c4267f2fac0a5d5fe79b162e3",
+      "path": "styles.css",
+      "sha256": "6de0452d6e852e861c1548edc04926e4109e9edd213e5962748d8d4e5a8d2d53"
+    }
+  ],
+  "github_tree_sha": "dec6ebc165b1eb9615e5f5a5fb425ce9992ed30a",
+  "github_tree_sha256": "fe62de1ba491e7c6bbf35d2b1ea4a9e1bf1bd451708acecf95310a2ea3d435bf",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "andym80/Portfolio",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "portfolio-target-andy"
+}

@@ -1,0 +1,120 @@
+{
+  "commit_sha": "a18a71b0fbce380ab3b6253ffb63bc32319a6acf",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 36,
+      "git_blob_sha1": "a9d5e1d439abcc860dfe29d8e08e74ec49561200",
+      "path": "css/skins/color-1.css",
+      "sha256": "9d72d78d5d5b2dbeed0d7207382080763083b737771b25950e9e350b63e827fb"
+    },
+    {
+      "bytes": 36,
+      "git_blob_sha1": "371d40973f2e72c4349a10dc801b6eed83c3cc6d",
+      "path": "css/skins/color-2.css",
+      "sha256": "ff751a3e1a4fa8226e7c49e6b701067f43afcfb30f85d7105f5ec0e752ddb66d"
+    },
+    {
+      "bytes": 36,
+      "git_blob_sha1": "4d894b3d1de1e72a4632405d57c3f286f1cff553",
+      "path": "css/skins/color-3.css",
+      "sha256": "02d273c9e28f231add341490b662c5bb0ec771df4ce86af38860fcb2434e5e69"
+    },
+    {
+      "bytes": 36,
+      "git_blob_sha1": "51d14ee702edad17988c3b2eff463569e4d5c287",
+      "path": "css/skins/color-4.css",
+      "sha256": "a5d927135d90ffc2ad76b542bd79d0879e7e972da4da1344d0b8e8c890e3384c"
+    },
+    {
+      "bytes": 36,
+      "git_blob_sha1": "cd7fd7eced9a979d7cfab41b0a3812bc01f59bf5",
+      "path": "css/skins/color-5.css",
+      "sha256": "e485f555cf026f198464775dabca30e95460bd1054505f7aaf5e8ba3c73afe56"
+    },
+    {
+      "bytes": 1589,
+      "git_blob_sha1": "208a7d895dc9b9722891b0dcf202eb539a100c15",
+      "path": "css/style-switcher.css",
+      "sha256": "d426c362314b1a7cad04283cfa0cdd608975449cd4e60bae24ac8041fd96fdfe"
+    },
+    {
+      "bytes": 15809,
+      "git_blob_sha1": "2e27ce62529420a70e52e5af6585b99bd3359612",
+      "path": "css/style.css",
+      "sha256": "6de1f66baf976b6b1f0174251176277a4b775e6c7b16f6a75bdaa84e8052e528"
+    },
+    {
+      "bytes": 2861637,
+      "git_blob_sha1": "6b2cb5c54c7ae0e662bc02fe8d24d23414bf678b",
+      "path": "images/IMG_20220212_214026.jpg",
+      "sha256": "abd616cb95d27dfd3d767e96e4b77ba38cf2355c450f95bcde09a97b9a224311"
+    },
+    {
+      "bytes": 851,
+      "git_blob_sha1": "956691142e6262f03f95fb27e2840ee7d92794fc",
+      "path": "images/icons8-portfolio-64.png",
+      "sha256": "09398714b8994e089ee999f2f6e5acc95132069f0eeb14f6aa914b79257f1043"
+    },
+    {
+      "bytes": 1170001,
+      "git_blob_sha1": "2fa08c94d352d242284fbce23d2f6aa74c476c21",
+      "path": "images/portfolio/food.png",
+      "sha256": "536f8541e3ea57256c4ad040e9c8f454f3dbbf3b0f45212ec8d1b2e89594a89c"
+    },
+    {
+      "bytes": 701510,
+      "git_blob_sha1": "86da315d2f45f1237f8ab88226bb6ce5322bbc9b",
+      "path": "images/portfolio/gym.png",
+      "sha256": "c8cf052de4514f82ec744bdaf887bc10aace74db30053e57907a17533edaff68"
+    },
+    {
+      "bytes": 1590149,
+      "git_blob_sha1": "8b599edaa4772abfee72f5711b24768b499eb19b",
+      "path": "images/portfolio/netflix.png",
+      "sha256": "1c007dca0fc6cd6e0d634bcb5df77bf17826e026d00412c4ac895b21d037797a"
+    },
+    {
+      "bytes": 469137,
+      "git_blob_sha1": "10db90d81f4bc8a78a2ea41b677d6c0577bc98f2",
+      "path": "images/portfolio/pet.png",
+      "sha256": "e668a47f5f98298a29049dc9ac36a7a869c90fc3a5c04c20790f05c90b14f74b"
+    },
+    {
+      "bytes": 157250,
+      "git_blob_sha1": "e7aa1166f277e989f34f0e359fd76fb62cb7b034",
+      "path": "images/portfolio/relogio_analogico_glassmorphism.png",
+      "sha256": "722e41b16fba50fefa4e874445a150841f75329be4c2f609db3be3bb37a34217"
+    },
+    {
+      "bytes": 346855,
+      "git_blob_sha1": "4df8c2ac437ddc3417b4cfa23e15ea45ecb28f0e",
+      "path": "images/portfolio/starbucks.png",
+      "sha256": "696383e0f3c4c1753475c310f27d950faa7405530a9e8a1288c89288c2ebb1ee"
+    },
+    {
+      "bytes": 26731,
+      "git_blob_sha1": "c087237a48698d595aee2f505d835397e62d8079",
+      "path": "index.html",
+      "sha256": "1a94aabe016d585bda24c705e2a1cfee10f0e1f2ce532a2b5020bd280e817392"
+    },
+    {
+      "bytes": 3253,
+      "git_blob_sha1": "df83155e7217dd94dc16f6f42a157898a6493273",
+      "path": "js/script.js",
+      "sha256": "d91009cb22f80b865168745e21f0053be1832be5c47cb8393ebeecbdab309e7e"
+    },
+    {
+      "bytes": 1528,
+      "git_blob_sha1": "ec87673c2abc844efa676c0349659f3095c53cbe",
+      "path": "js/style-switcher.js",
+      "sha256": "84eaadd13e74b6798d6d14b50a6ffb57f03cac540d51a84db0e3043b40b879e0"
+    }
+  ],
+  "github_tree_sha": "f26769f748859a04ce2815af7f741058fb6a17c5",
+  "github_tree_sha256": "4f38e27ffe9e43dda911a4a90be677d64fadbbcda5b1bc3bc83bd1101ae59aaf",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "emersoncarneirodasilva/portfolio",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "portfolio-target-emerson"
+}

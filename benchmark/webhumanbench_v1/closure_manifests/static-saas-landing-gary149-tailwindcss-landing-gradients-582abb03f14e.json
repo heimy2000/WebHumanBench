@@ -1,0 +1,24 @@
+{
+  "commit_sha": "1288cade3b5e3b58f9609e940e50d65aabb5ff31",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 9288,
+      "git_blob_sha1": "6bf5e7c40d13a16ee7c6e699c60127b5661a6bad",
+      "path": "index.html",
+      "sha256": "1c58dcf846bf65189278720b0394b93dcc4bd32b20058862f09c3cb9d64184d8"
+    },
+    {
+      "bytes": 4209565,
+      "git_blob_sha1": "40d8a5ce4200a4286812dab441f36dd2d9504c06",
+      "path": "static/output.css",
+      "sha256": "8574eb91a3c6a511f9d1f232762268da9e70fdf09f449496195cd0a33fcf086a"
+    }
+  ],
+  "github_tree_sha": "46f432691fb778b91bb04fab696db29677c5ee37",
+  "github_tree_sha256": "29ec41729031fbf0150b2836bb4ff05985ed5b6df164afbf78ad1aa2ee84c9e0",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "gary149/tailwindcss-landing-gradients",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e"
+}

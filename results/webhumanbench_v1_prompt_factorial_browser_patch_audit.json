@@ -1,0 +1,60 @@
+{
+  "claim_boundary": "This paired audit measures sensitivity to the two named Chromium patch builds for the same 120 frozen HTML documents and capture settings. It is not cross-engine or long-term browser-version validation.",
+  "feature_comparison": {
+    "color": {
+      "changed_page_ids": [],
+      "changed_pages": 0
+    },
+    "grid": {
+      "changed_page_ids": [],
+      "changed_pages": 0,
+      "max_absolute_value_delta": 0.0
+    },
+    "saturation": {
+      "changed_page_ids": [],
+      "changed_pages": 0,
+      "max_absolute_value_delta": 0.0
+    },
+    "spacing": {
+      "changed_page_ids": [],
+      "changed_pages": 0,
+      "max_absolute_value_delta": 0.0
+    },
+    "typography": {
+      "changed_page_ids": [],
+      "changed_pages": 0,
+      "max_absolute_value_delta": 0.0
+    }
+  },
+  "inputs": {
+    "left": {
+      "artifact_root": "restricted://webhumanbench_v1_prompt_factorial_artifacts_browser_150_0_7871_129",
+      "browser": "150.0.7871.129",
+      "path": "results/webhumanbench_v1_prompt_factorial_browser_150_0_7871_129.json",
+      "sha256": "9a29e45a959c45037159960c6efe698192449d9a0619028f75c62c3680bc9247"
+    },
+    "right": {
+      "artifact_root": "restricted://webhumanbench_v1_prompt_factorial_artifacts",
+      "browser": "150.0.7871.115",
+      "path": "results/webhumanbench_v1_prompt_factorial.json",
+      "sha256": "def2b6aa0d3a073a72dfecc2ac3d08aa87de2c3e5857d667f1e7d89374092038"
+    },
+    "same_benchmark_manifest_sha256": "90ccf09c7fea6f8b01af4e4708023960cdcc02b45f3f2008272eafaed8dd4bdd",
+    "same_source_run_sha256": "708eda609a29c566a64e4a9868715b3e1c720356d1deee13a0b830a96306aba6"
+  },
+  "pixel_comparison": {
+    "changed_page_ids": [],
+    "max_channel_delta_0_255": 0,
+    "max_page_mean_absolute_channel_delta_0_255": 0.0
+  },
+  "schema": "webmark_prompt_factorial_browser_patch_audit_v1",
+  "status": "pass",
+  "summary": {
+    "all_computed_features_exact": true,
+    "analysis_object_exact": true,
+    "baseline_object_exact": true,
+    "changed_png_pixels": 0,
+    "exact_png_pixels": 120,
+    "n_pages": 120
+  }
+}

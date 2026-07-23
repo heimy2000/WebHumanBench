@@ -1,0 +1,89 @@
+{
+  "capture_plan": {
+    "expected_human_capture_records": 64,
+    "method": "pinned_local_static_snapshot",
+    "viewports": [
+      "390x844",
+      "430x932"
+    ]
+  },
+  "dataset_name": "WebHumanBench",
+  "explicit_public_exclusions": [
+    {
+      "reason": "Public release preflight detected a credential-like token pattern in captured upstream HTML; the source is excluded rather than sanitized or redistributed.",
+      "source_id": "static-developer-tool-itsgoingd-clockwork-dd2888d55f45"
+    }
+  ],
+  "note": "The final v1 capture ledger and benchmark manifest are generated after this source assembly. The receipt records only source admission and does not replace final artifact verification.",
+  "release_revision": "39d65e8b308b591075fff1e2ca4a620d4f665d212d9de7bd549721b7bfcdb6c8",
+  "schema": "webhumanbench_v1_corpus_assembly_receipt_v1",
+  "selected_source_counts": {
+    "dashboard_shell": 4,
+    "developer_tool": 4,
+    "docs_homepage": 8,
+    "portfolio_showcase": 6,
+    "product_showcase": 4,
+    "saas_landing": 6
+  },
+  "selected_source_ids": [
+    "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+    "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+    "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+    "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+    "static-saas-landing-tableau-tabpy-6998dfe20a08",
+    "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+    "static-docs-homepage-apache-cordova-docs-eca53cb118db",
+    "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+    "static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+    "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+    "static-docs-homepage-pandao-editor-md-6900c1536aef",
+    "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+    "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+    "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+    "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+    "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+    "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+    "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+    "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+    "static-developer-tool-karatelabs-karate-fc0ca2607186",
+    "static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+    "static-developer-tool-reactide-reactide-3a633e7df200",
+    "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+    "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+    "static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+    "static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+    "portfolio-target-andy",
+    "portfolio-target-chester",
+    "portfolio-target-emerson",
+    "portfolio-target-german",
+    "portfolio-target-rafael",
+    "portfolio-target-rodrigues"
+  ],
+  "selection_inputs": {
+    "candidate_capture_ledger_sha256": "b7fac2679946f9f5d0377870fbf420f3475522430a259e2abdf99b508aa8a1d4",
+    "candidate_render_screen_sha256": "72ca26182c294f2960fd714c35ec5151df2b31ad99e8f58b81470b3c3f63ee0a",
+    "candidate_source_manifest_sha256": "61daef967e5aae4831152a6db0ed160549e8cf2a678c72dd3e0179fc28257650",
+    "portfolio_source_manifest_sha256": "1e76af8cd9f29dff737a5ba2b0830e5082d31106da8dcd2b063a0567fcb833aa",
+    "product_recovery_capture_ledger_sha256": "30e2324bb61684696bdcc2b78d10426bebcce3d8c1c1fdd5ca767235e846395f",
+    "product_recovery_render_screen_sha256": "ceb97baf995ca3611c60777d464c70a9c185572853639a5244859b16aa28a531",
+    "product_recovery_source_manifest_sha256": "f694456aba2e33f9bc28fb7adcf32eb635eb939004ca0b34e5c2f7eefe1c9619"
+  },
+  "selection_policy": {
+    "candidate_admission": "dual-mobile render-integrity pass",
+    "candidate_page_types": [
+      "dashboard_shell",
+      "developer_tool",
+      "docs_homepage",
+      "product_showcase",
+      "saas_landing"
+    ],
+    "excluded_candidate_page_type": "portfolio_showcase",
+    "explicit_public_exclusion_policy": "A source may be excluded only by explicit ID with a recorded publication reason; the retained corpus must still satisfy every page-type coverage minimum.",
+    "min_sources_per_page_type": 4,
+    "name": "screened_static_v1_with_public_portfolio_carryover",
+    "portfolio_admission": "all sources from the verified v0.2 public portfolio release",
+    "product_recovery_admission": "dual-mobile render-integrity pass"
+  },
+  "source_manifest_sha256": "7067abb01232561aaa4b2d699a94a4ea7715cd7655e49927031589ef635b2f98",
+  "version": "1.0.0"
+}

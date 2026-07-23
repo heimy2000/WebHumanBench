@@ -1,0 +1,84 @@
+{
+  "commit_sha": "a0c629acf3b64e680c04956cc145eafbea81b211",
+  "entrypoint": "packages/pwa-kit-dev/src/ssr/server/loading-screen/index.html",
+  "files": [
+    {
+      "bytes": 32532,
+      "git_blob_sha1": "6985b7b7241277846a4ef9b171cd954f62997b6c",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/css/main.css",
+      "sha256": "a2d49cdae104dab66e114f4e314747c17280bec3c3ebb8f7008d6006adf7f7e1"
+    },
+    {
+      "bytes": 6137,
+      "git_blob_sha1": "b0c1902dc6ad74a3de2f3c95a640d3bbc216f45e",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/css/normalize.css",
+      "sha256": "5838f522446a1e7c42bb250c02ea2b683a2d3aaf4e222afff98316fdb592e1de"
+    },
+    {
+      "bytes": 24296,
+      "git_blob_sha1": "22645f6a28b97a614ac92c3b40df8784aab56075",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/cloud-1.svg",
+      "sha256": "122f1ba1b6c009f7bfcc095998bd3e2bf357dfe8cb4e1bebb4e378e0bd8da916"
+    },
+    {
+      "bytes": 24296,
+      "git_blob_sha1": "43af1d0b4c3d99218eed9f49e0acaf9525147e9f",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/cloud-2.svg",
+      "sha256": "97a73d541a9f9d77f580e471918537109ea4dcd4dc2327cc90244ed1b2b4a1a7"
+    },
+    {
+      "bytes": 24296,
+      "git_blob_sha1": "d87261e46d0a6cefcb2321ebe2352ab31816a6d4",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/cloud-3.svg",
+      "sha256": "74640bd9440ac23fee03aaa92114a2c4d335976f53783c62376cbbe7f0849def"
+    },
+    {
+      "bytes": 24303,
+      "git_blob_sha1": "fcb8096313a6dc7ed51321799f2b6138dbac8515",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/codey-bear.svg",
+      "sha256": "9c7c26a0b1511bdce225b36541054951b82cf9fb7bbdb4699f9fbc2269b8fa43"
+    },
+    {
+      "bytes": 14881,
+      "git_blob_sha1": "4957e01bab37461c7c12fd25782f3e793931343d",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/codey-bg.svg",
+      "sha256": "5b57c34d1bdb0a28e9b676c162a3348e7a3c8229c859363b57ee2ca21a40174d"
+    },
+    {
+      "bytes": 911,
+      "git_blob_sha1": "db9c81809ae1d1fae203391abe473cd9dcd97116",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/devDocumentation.svg",
+      "sha256": "1bcf7009e94606683de2cb031887934dce39bb78b2549f3403efd5c740f99354"
+    },
+    {
+      "bytes": 1064,
+      "git_blob_sha1": "8b92d0e38e1b180db7029e73a4ad71f8839c6e0c",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/devGithub.svg",
+      "sha256": "aea8276fdf26b04b353b613c2878304abc195677d564a3b42807bba99c2860e1"
+    },
+    {
+      "bytes": 2285,
+      "git_blob_sha1": "39c9c7b86af2659481b4469a3e7750f80d1f8483",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/devTrailhead.svg",
+      "sha256": "318185b0b96260f90ebf3a40eba13bdbdfdf404b7e29c55aefe8596c6e211b6f"
+    },
+    {
+      "bytes": 8221,
+      "git_blob_sha1": "980a9e45e6a791092155c2dae42c2beb635aa7b1",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/img/logo.svg",
+      "sha256": "6cd7d748ea05a848d87811e85b2526e5abf15d7f0885986526ae630d95b1c29b"
+    },
+    {
+      "bytes": 6610,
+      "git_blob_sha1": "1d32464336bc62528334cf79acf933d4416b4ffe",
+      "path": "packages/pwa-kit-dev/src/ssr/server/loading-screen/index.html",
+      "sha256": "0943e0dd0105ef35c489fbce005b2973120f0864730159824ab4bc2008b8df6c"
+    }
+  ],
+  "github_tree_sha": "584ad45f82409c07815ae3fd5aee09f011c4f07d",
+  "github_tree_sha256": "5ac225c45500428eaa2fa924a8b3e3582d92d78fee1e0c807348bb7e011a2448",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "SalesforceCommerceCloud/pwa-kit",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111"
+}

@@ -1,0 +1,156 @@
+{
+  "commit_sha": "2c09cf12f9bb355d3060f2873a20f31848dbf47f",
+  "entrypoint": "docs/index.html",
+  "files": [
+    {
+      "bytes": 146010,
+      "git_blob_sha1": "6167622cecfb5c0f04156363565e3d4109fc55c5",
+      "path": "docs/css/bootstrap.css",
+      "sha256": "7e630d90c7234b0df1729f62b8f9e4bbfaf293d91a5a0ac46df25f2a6759e39a"
+    },
+    {
+      "bytes": 2949,
+      "git_blob_sha1": "e802c69df3e524defdad6351d320a6ce65dc838a",
+      "path": "docs/css/nivo-lightbox/close.png",
+      "sha256": "301ac78d350be4f7062501d233a9f7209f6c1d2ced9cbc1ba60465ebb440d71b"
+    },
+    {
+      "bytes": 3097,
+      "git_blob_sha1": "60b37fa212c85e045bc1d327f841caec33b47950",
+      "path": "docs/css/nivo-lightbox/close@2x.png",
+      "sha256": "24eec93c569c4d68ae2b0d6a567e8ad53794f285fabda440341e065d38a8229c"
+    },
+    {
+      "bytes": 3085,
+      "git_blob_sha1": "9574ff10c01b45dd2bf9380eb8206ba0202473b1",
+      "path": "docs/css/nivo-lightbox/default.css",
+      "sha256": "7310c7e5759a75703de877b31a305a7624c8cf86bd74424a59ef7f876101b451"
+    },
+    {
+      "bytes": 7303,
+      "git_blob_sha1": "5b796c41101c29834a8144a5f5a065a69e73d708",
+      "path": "docs/css/nivo-lightbox/loading.gif",
+      "sha256": "a650f35352617213038cfef07bf8607960928150f84df88f6b330ed7d196e61a"
+    },
+    {
+      "bytes": 18134,
+      "git_blob_sha1": "dc8aeffdc7338b88cdc07953a702e078e5d8b75c",
+      "path": "docs/css/nivo-lightbox/loading@2x.gif",
+      "sha256": "fe25300f8e8a25cd8e460e3f8fa5c3258fef473c8251a0335c179d31a900024e"
+    },
+    {
+      "bytes": 3193,
+      "git_blob_sha1": "462b64e45ee4af56c38fab160b4c5af61edc8858",
+      "path": "docs/css/nivo-lightbox/next.png",
+      "sha256": "c752916922525b36a0949bb9635c06cbd4984472b7b2dbe3b020f4c25bdbd05c"
+    },
+    {
+      "bytes": 4235,
+      "git_blob_sha1": "f246ae9366281beeccdf0d449d7ede9c30b71536",
+      "path": "docs/css/nivo-lightbox/next@2x.png",
+      "sha256": "6718008e28df13073d3fd0860e5bff5f304063d4a266294fbb893488352d2a07"
+    },
+    {
+      "bytes": 5705,
+      "git_blob_sha1": "f46886fe428df4bf6148de49ca7e27bc52274bc4",
+      "path": "docs/css/nivo-lightbox/nivo-lightbox.css",
+      "sha256": "cca4f37b4a4385ecdf4190c9f2be8e2ded15b5ed018bc04d4f63dd42c2eaf2fc"
+    },
+    {
+      "bytes": 3184,
+      "git_blob_sha1": "eda62a7e40f54a25d44c2cc1c87a8f61c783c314",
+      "path": "docs/css/nivo-lightbox/prev.png",
+      "sha256": "e7a2cee567739356cbd0a8290e3d2d697e0277ce07dd006741161e4bd9d2084b"
+    },
+    {
+      "bytes": 4224,
+      "git_blob_sha1": "49a2e4d6240a3ecec4199dbde4c0d34abc90348f",
+      "path": "docs/css/nivo-lightbox/prev@2x.png",
+      "sha256": "f334561a139ca1724c748b2459b4f8f82a725af6927674eb3eac3c569d1bf5c1"
+    },
+    {
+      "bytes": 11525,
+      "git_blob_sha1": "70da16d00feaa09ddd3090e1f0f56f380de0f395",
+      "path": "docs/css/style.css",
+      "sha256": "94816c92c4c24b487abfcedcbdb8a8b548620ab61e84865bb505d1ed393ddbe3"
+    },
+    {
+      "bytes": 28747,
+      "git_blob_sha1": "2dcdc220722c85a5db777797657b94c50d98aff7",
+      "path": "docs/fonts/font-awesome/css/font-awesome.css",
+      "sha256": "c374efba54279628793f04e10ebf5d0c1b4dbc36b3f4132d9235f01d64ca5c8e"
+    },
+    {
+      "bytes": 60767,
+      "git_blob_sha1": "33b2bb80055cc480e797de704925acaba4ba7d7d",
+      "path": "docs/fonts/font-awesome/fonts/fontawesome-webfont.eot",
+      "sha256": "cbb644d0ee730ea57dd5fbae35ef5ba4a41d57a254a6b1215de5c9ff8a321c2d"
+    },
+    {
+      "bytes": 313398,
+      "git_blob_sha1": "1ee89d4368d31a368817a842f14d53f7a64c3038",
+      "path": "docs/fonts/font-awesome/fonts/fontawesome-webfont.svg",
+      "sha256": "bfdef833219a6edffd9c3cbc28db72739d22bb4d20cc2e2f8d56a7a4d408a206"
+    },
+    {
+      "bytes": 122092,
+      "git_blob_sha1": "ed9372f8ea0fbaa04f42630a48887e4b38945345",
+      "path": "docs/fonts/font-awesome/fonts/fontawesome-webfont.ttf",
+      "sha256": "9e540a087924a6e64790149d735cac022640e4fa6bff6bd65f5e9f41529bf0b3"
+    },
+    {
+      "bytes": 71508,
+      "git_blob_sha1": "8b280b98fa2fa261aa4b0f8fd061f772073ef83e",
+      "path": "docs/fonts/font-awesome/fonts/fontawesome-webfont.woff",
+      "sha256": "e3870de89716b72cb61a4bba0e17c75783b361cdaba35ea96961c3070bd8ca18"
+    },
+    {
+      "bytes": 56780,
+      "git_blob_sha1": "3311d585145b1cc1b9581e914acbb32d8542b4f5",
+      "path": "docs/fonts/font-awesome/fonts/fontawesome-webfont.woff2",
+      "sha256": "aadc3580d2b64ff5a7e6f1425587db4e8b033efcbf8f5c332ca52a5ed580c87c"
+    },
+    {
+      "bytes": 3083,
+      "git_blob_sha1": "929ca2fe8ee1a455fd36cd00710fb7c2047768e3",
+      "path": "docs/index.html",
+      "sha256": "89cbc5de13261b9470edbea969fafb0f51ea1a5a7da7e8b269055dca4dac9a3e"
+    },
+    {
+      "bytes": 69707,
+      "git_blob_sha1": "8a2e99a535d47e5798b167d1074ae2c77cab21e7",
+      "path": "docs/js/bootstrap.js",
+      "sha256": "0abe8deb334de1ba743b04d0399e99eba336afed9da72fc4c0a302c99f9238c8"
+    },
+    {
+      "bytes": 95785,
+      "git_blob_sha1": "d1608e37ffa979b8689bfb868ad8b061b191f6f6",
+      "path": "docs/js/jquery.1.11.1.js",
+      "sha256": "24262baafef17092927c3dafe764aaa52a2a371b83ed2249cca7e414df99fac1"
+    },
+    {
+      "bytes": 362,
+      "git_blob_sha1": "bb62e63596d31638b513084d6f6b04049b82f3fe",
+      "path": "docs/static/css/main.6dea0f05.chunk.css",
+      "sha256": "30df240fbcb2c562b3cdc57ae479575c842bd908977a1b39bcfc903a0bc13a89"
+    },
+    {
+      "bytes": 294553,
+      "git_blob_sha1": "661cfc676010161507b60dadf2f3c735c14cbb59",
+      "path": "docs/static/js/2.288e8a4b.chunk.js",
+      "sha256": "96cda43e49035bc84e2e82b0f2eefbde01168651663e5f13223924d6404a9618"
+    },
+    {
+      "bytes": 13408,
+      "git_blob_sha1": "c893c4d38ed5595d25d73ad2a4a952ddb54d776f",
+      "path": "docs/static/js/main.a0b83190.chunk.js",
+      "sha256": "afae9934ddd7ad693868f6855adfce872be30518f1b7a9403c56eeceb1e38f5e"
+    }
+  ],
+  "github_tree_sha": "af954850e314f3807802705d2ce34997c86d72d2",
+  "github_tree_sha256": "3e6b92b7c2bedb1f58ce8fd615585f30904339a16db464f4c0fd1b8f255da9d1",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "wonderfullandingpage/mylandingpage",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a"
+}

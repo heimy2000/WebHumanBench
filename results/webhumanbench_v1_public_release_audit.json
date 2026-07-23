@@ -1,0 +1,17 @@
+{
+  "artifact_hashes_checked": true,
+  "benchmark_manifest_sha256": "90ccf09c7fea6f8b01af4e4708023960cdcc02b45f3f2008272eafaed8dd4bdd",
+  "capture_ledger_sha256": "2ed5ed70f68f4ca2c92952a39d54970189990a99d7b7d7a2053deb4b62f13ea4",
+  "feature_extractor_version": "computed-style-v3",
+  "n_ai_records": 590,
+  "n_benchmark_records": 622,
+  "n_captures": 64,
+  "n_human_records": 32,
+  "n_sources": 32,
+  "note": "Release completeness and cross-artifact provenance passed. This audit does not prove human authorship, preference, accessibility, or benchmark effectiveness.",
+  "provenance_policy_mode": "historical_open_source_evidence",
+  "release_revision": "39d65e8b308b591075fff1e2ca4a620d4f665d212d9de7bd549721b7bfcdb6c8",
+  "schema": "webmark_public_release_audit_v1",
+  "scoring_viewport": "390x844",
+  "source_manifest_sha256": "7067abb01232561aaa4b2d699a94a4ea7715cd7655e49927031589ef635b2f98"
+}

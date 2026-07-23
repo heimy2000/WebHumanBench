@@ -1,0 +1,18 @@
+{
+  "commit_sha": "971f696cf8c1453353891cdaddb6209cbbf54a1b",
+  "entrypoint": "src/v2/examples/vue-20-todomvc/index.html",
+  "files": [
+    {
+      "bytes": 7120,
+      "git_blob_sha1": "04463a3b7c2836cd2ce38deb8c42e612884b6f39",
+      "path": "src/v2/examples/vue-20-todomvc/index.html",
+      "sha256": "6410e34d848254943d8652c54f49fba6a4171b04ab488b348ab9b0e865d4448a"
+    }
+  ],
+  "github_tree_sha": "391d39e16c8d034f17eef461e597247914f68254",
+  "github_tree_sha256": "c72b25e3f112e45bb4baf5d9a876f38adf7123ffefc8e0423ee2bb02964bc74c",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "vuejs/v2.vuejs.org",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd"
+}

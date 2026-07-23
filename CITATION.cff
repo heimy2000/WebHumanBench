@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this anonymous analysis release, cite the associated paper and exact artifact version."
+title: "WebHumanBench: An Auditable Benchmark Pilot for Reference-Relative Web Design Fit"
+type: software
+authors:
+  - name: "Anonymized Authors"
+license: Apache-2.0
+version: 1.0.0-rc.5
+abstract: "Anonymous analysis release for a six-type reference-relative webpage-design benchmark pilot with source-level splits, hash-linked ledgers, derived feature records, and executable sensitivity and protocol audits."
+keywords:
+  - benchmark protocol
+  - webpage design
+  - browser artifact provenance
+  - reproducibility
+preferred-citation:
+  type: conference-paper
+  title: "WebHumanBench: An Auditable Benchmark Pilot for Reference-Relative Web Design Fit"
+  conference:
+    name: "Proceedings of the AAAI Conference on Artificial Intelligence"
+  year: 2027

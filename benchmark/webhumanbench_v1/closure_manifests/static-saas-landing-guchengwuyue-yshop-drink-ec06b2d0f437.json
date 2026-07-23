@@ -1,0 +1,18 @@
+{
+  "commit_sha": "d95d3b792a8ee4e4d4efa4234acd20da94bd3c2c",
+  "entrypoint": "supplier-admin/src/main/resources/templates/index.html",
+  "files": [
+    {
+      "bytes": 19365,
+      "git_blob_sha1": "851d44185ea2847d25cd241225a9bd22f0a25edb",
+      "path": "supplier-admin/src/main/resources/templates/index.html",
+      "sha256": "01f08ad9a1b99ac5fad2ef6ee20a479355af9e8414cdb95ab2b7e69ed7ebb732"
+    }
+  ],
+  "github_tree_sha": "a61848363d06fd0540066af5b82f956c1144bd1c",
+  "github_tree_sha256": "b293e2b3bd2db0a5bc87f621f0184f8e737f7d9032e72bb4613fc0ed7731cc3c",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "guchengwuyue/yshop-drink",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437"
+}

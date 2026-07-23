@@ -1,0 +1,83 @@
+{
+  "benchmark_manifest_sha256": "5c80caf286a57b0886c414d2acae585c64a183ed91d1e0790b48414cee299bb3",
+  "excluded_pages": 10,
+  "exclusions": [
+    {
+      "error": "'sf_portfolio_showcase_014' requested resources outside its archived HTML: 'https://via.placeholder.com/300x200?text=Project+1'",
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_id": "sf_portfolio_showcase_014",
+      "page_type": "portfolio_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_portfolio_showcase_042' requested resources outside its archived HTML: 'https://via.placeholder.com/300x200?text=Project+1'",
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_id": "sf_portfolio_showcase_042",
+      "page_type": "portfolio_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_portfolio_showcase_049' requested resources outside its archived HTML: 'https://via.placeholder.com/300x200'",
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_id": "sf_portfolio_showcase_049",
+      "page_type": "portfolio_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_portfolio_showcase_084' requested resources outside its archived HTML: 'https://via.placeholder.com/300x200'",
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_id": "sf_portfolio_showcase_084",
+      "page_type": "portfolio_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_product_showcase_003' requested resources outside its archived HTML: 'https://via.placeholder.com/300x150?text=Dashboard+Overview'",
+      "model_id": "Qwen/Qwen3-32B",
+      "page_id": "sf_product_showcase_003",
+      "page_type": "product_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_product_showcase_076' requested resources outside its archived HTML: 'https://via.placeholder.com/350x200'",
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_id": "sf_product_showcase_076",
+      "page_type": "product_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_product_showcase_087' requested resources outside its archived HTML: 'https://via.placeholder.com/400x150.png?text=Climate+Maps'",
+      "model_id": "Qwen/Qwen3-32B",
+      "page_id": "sf_product_showcase_087",
+      "page_type": "product_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_product_showcase_090' requested resources outside its archived HTML: 'https://via.placeholder.com/250x150?text=AI+Suggestions'",
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_id": "sf_product_showcase_090",
+      "page_type": "product_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_product_showcase_097' requested resources outside its archived HTML: 'https://via.placeholder.com/200x150?text=Component+1'",
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_id": "sf_product_showcase_097",
+      "page_type": "product_showcase",
+      "reason_code": "external_network_dependency"
+    },
+    {
+      "error": "'sf_saas_landing_017' requested resources outside its archived HTML: 'https://via.placeholder.com/1200x400'",
+      "model_id": "tencent/Hunyuan-A13B-Instruct",
+      "page_id": "sf_saas_landing_017",
+      "page_type": "saas_landing",
+      "reason_code": "external_network_dependency"
+    }
+  ],
+  "note": "Every omitted page failed the fixed offline-closure rule before reference-fit scoring.",
+  "retained_pages": 590,
+  "schema": "webhumanbench_v1_ai_exclusion_ledger_v1",
+  "selection_rule": "offline_local_render_with_complete_feature_arrays_and_no_external_network_dependency",
+  "selection_uses_reference_fit_score": false,
+  "source_archive_sha256": "b071d78227dd45150064b89831e9f84bc219399fa9b7b992d05c23096fcd02f0",
+  "source_run_sha256": "5ca7e5b59b5ed82a39929b12a01b090603b55cb7cca33cf5ba762b9d19525a37"
+}

@@ -1,0 +1,172 @@
+{
+  "assignment_policy": "stratified_source_group_hash_v1",
+  "assignments": [
+    {
+      "source_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee",
+      "split": "train"
+    },
+    {
+      "source_id": "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+      "split": "train"
+    },
+    {
+      "source_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a",
+      "split": "test"
+    },
+    {
+      "source_id": "static-dashboard-shell-tuiqiao-cboard-687368c6a35b",
+      "split": "dev"
+    },
+    {
+      "source_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4",
+      "split": "train"
+    },
+    {
+      "source_id": "static-developer-tool-karatelabs-karate-fc0ca2607186",
+      "split": "dev"
+    },
+    {
+      "source_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69",
+      "split": "train"
+    },
+    {
+      "source_id": "static-developer-tool-reactide-reactide-3a633e7df200",
+      "split": "test"
+    },
+    {
+      "source_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db",
+      "split": "train"
+    },
+    {
+      "source_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+      "split": "test"
+    },
+    {
+      "source_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9",
+      "split": "dev"
+    },
+    {
+      "source_id": "static-docs-homepage-mermaid-js-mermaid-35f57e9b9579",
+      "split": "train"
+    },
+    {
+      "source_id": "static-docs-homepage-pandao-editor-md-6900c1536aef",
+      "split": "train"
+    },
+    {
+      "source_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+      "split": "test"
+    },
+    {
+      "source_id": "static-docs-homepage-swagger-api-swagger-codegen-2aaaeb8479d0",
+      "split": "train"
+    },
+    {
+      "source_id": "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+      "split": "test"
+    },
+    {
+      "source_id": "portfolio-target-andy",
+      "split": "test"
+    },
+    {
+      "source_id": "portfolio-target-chester",
+      "split": "train"
+    },
+    {
+      "source_id": "portfolio-target-emerson",
+      "split": "train"
+    },
+    {
+      "source_id": "portfolio-target-german",
+      "split": "train"
+    },
+    {
+      "source_id": "portfolio-target-rafael",
+      "split": "dev"
+    },
+    {
+      "source_id": "portfolio-target-rodrigues",
+      "split": "test"
+    },
+    {
+      "source_id": "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+      "split": "test"
+    },
+    {
+      "source_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93",
+      "split": "dev"
+    },
+    {
+      "source_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+      "split": "train"
+    },
+    {
+      "source_id": "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+      "split": "train"
+    },
+    {
+      "source_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+      "split": "train"
+    },
+    {
+      "source_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b",
+      "split": "train"
+    },
+    {
+      "source_id": "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+      "split": "test"
+    },
+    {
+      "source_id": "static-saas-landing-guchengwuyue-yshop-drink-ec06b2d0f437",
+      "split": "test"
+    },
+    {
+      "source_id": "static-saas-landing-tableau-tabpy-6998dfe20a08",
+      "split": "train"
+    },
+    {
+      "source_id": "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a",
+      "split": "dev"
+    }
+  ],
+  "counts_by_page_type": {
+    "dashboard_shell": {
+      "dev": 1,
+      "test": 1,
+      "train": 2
+    },
+    "developer_tool": {
+      "dev": 1,
+      "test": 1,
+      "train": 2
+    },
+    "docs_homepage": {
+      "dev": 1,
+      "test": 3,
+      "train": 4
+    },
+    "portfolio_showcase": {
+      "dev": 1,
+      "test": 2,
+      "train": 3
+    },
+    "product_showcase": {
+      "dev": 1,
+      "test": 1,
+      "train": 2
+    },
+    "saas_landing": {
+      "dev": 1,
+      "test": 2,
+      "train": 3
+    }
+  },
+  "dev_share": 0.2,
+  "note": "Whole source groups are assigned once; alternate viewport captures remain in the capture ledger.",
+  "release_revision": "39d65e8b308b591075fff1e2ca4a620d4f665d212d9de7bd549721b7bfcdb6c8",
+  "schema": "webmark_source_split_assignments_v1",
+  "seed": "webhumanbench-v1",
+  "source_manifest_sha256": "7067abb01232561aaa4b2d699a94a4ea7715cd7655e49927031589ef635b2f98",
+  "train_share": 0.6
+}

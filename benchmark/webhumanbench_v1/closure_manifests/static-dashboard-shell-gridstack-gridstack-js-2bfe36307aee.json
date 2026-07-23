@@ -1,0 +1,222 @@
+{
+  "commit_sha": "27d0fe23f2b1e795fc3745b13c2e166ba71648f5",
+  "entrypoint": "demo/index.html",
+  "files": [
+    {
+      "bytes": 1935,
+      "git_blob_sha1": "e920964fd3bb06da13234a4b49e9a0815bdb07a7",
+      "path": "demo/angular/src/app/gridstack-item.component.ts",
+      "sha256": "f31233d70f42f2a4b11ffea83ff1d09da517ecc4d6589231c7da1ec7e6f5de03"
+    },
+    {
+      "bytes": 6403,
+      "git_blob_sha1": "53c768c536ef116c4f8948d3f996b8fb3c584f64",
+      "path": "demo/angular/src/app/gridstack.component.ts",
+      "sha256": "8eb5a11cdb658e43bb476ccc19bac551bb019327b9cf97dfce59a81e983f8bb8"
+    },
+    {
+      "bytes": 4931,
+      "git_blob_sha1": "2eeff838cba9e99773ad263ea3b8541baeccc7b9",
+      "path": "demo/angular/src/app/ngFor.ts",
+      "sha256": "664434981455807e4d6997ecbc195ab48006cf1f44b43dd5722430cf2d4394f8"
+    },
+    {
+      "bytes": 4239,
+      "git_blob_sha1": "b0df6c1f68aa702dcfcdb7cb576a6d5bc993af73",
+      "path": "demo/angular/src/app/ngFor_cmd.ts",
+      "sha256": "a98ba30afc317384d78a8a13f03e024ef9e2226410a0e70ab50acd8b877236dd"
+    },
+    {
+      "bytes": 1537,
+      "git_blob_sha1": "290ba6bfcd994226875ab0bf12eb1c34fea0edd5",
+      "path": "demo/angular/src/app/simple.ts",
+      "sha256": "f4b491b542c916901dc21996bf505eafdc54bc24845a7cb3760177e2d133f541"
+    },
+    {
+      "bytes": 1769,
+      "git_blob_sha1": "2ffaeed007054788c2d593cc440db02d950a359d",
+      "path": "demo/anijs.html",
+      "sha256": "b78068c49c18bb1d2633ba5aef5c25fcb4cae884e50a1b6f7641f4431a3b7e85"
+    },
+    {
+      "bytes": 1720,
+      "git_blob_sha1": "28c70fc4697756d8c5741d3ef4ea2fc050b4de5c",
+      "path": "demo/cell-height.html",
+      "sha256": "c3ee2158b6a8c649c1d334b55ea50220443caee12ead8b4a74b9e0e464499df4"
+    },
+    {
+      "bytes": 4413,
+      "git_blob_sha1": "65d9c82ac8b51224a3fed992549f1043fa39985f",
+      "path": "demo/column.html",
+      "sha256": "c957a0b05f1748aa729687c5e970099006a9f7ce12aebcb7c37f5a13bd56a9f3"
+    },
+    {
+      "bytes": 5547,
+      "git_blob_sha1": "bbb5c1884247026d2b20a1b608544771280fe609",
+      "path": "demo/demo.css",
+      "sha256": "bb2597acae0fa7a947822529588716706610395bd35c7fb44eadba36c84cd4a1"
+    },
+    {
+      "bytes": 3059,
+      "git_blob_sha1": "70bb17db7c8f44083aab6898db3c9d3d37073c08",
+      "path": "demo/events.js",
+      "sha256": "b2bb3fd11a0a8dff5dc361f480711be73e59730fe923f610eb128757e59dc601"
+    },
+    {
+      "bytes": 2353,
+      "git_blob_sha1": "24422e62571581f2d71c07e10de7d17486d5077f",
+      "path": "demo/float.html",
+      "sha256": "a766b1cf8aaacc2d7630af0377b16d7447e9104b1f2359f08ca8693bd7ac9ab3"
+    },
+    {
+      "bytes": 2734,
+      "git_blob_sha1": "4f49cab0ba1fcb2c19e5e5fd3382ef6e688c5cd3",
+      "path": "demo/index.html",
+      "sha256": "9ed696b2b018922deca446b94a7d7c8ac0c7395a0f80291dc758638c32641b55"
+    },
+    {
+      "bytes": 2849,
+      "git_blob_sha1": "06c4aa8fd495deea4cdf24c1d94dc3fb1a1376f2",
+      "path": "demo/knockout.html",
+      "sha256": "914eadf725eb11343c3e0159cd53b5e9a77f38adeb9b38d5672a64c48c5097c7"
+    },
+    {
+      "bytes": 787,
+      "git_blob_sha1": "95e43573965dc5e8c563c003e20eb9c20e9cceae",
+      "path": "demo/mobile.html",
+      "sha256": "beed5e3289ac2bcb6adb888597254e37e1fdcd83cfa53b85e785d9d40ed538b8"
+    },
+    {
+      "bytes": 4121,
+      "git_blob_sha1": "2d05e89524833b5a04fa374ac30e231a5d0e5e50",
+      "path": "demo/nested.html",
+      "sha256": "8a19eff25d90a1c2036f41cf5fb60ffc9c49b459ece0ab29982d1c2b30479a3c"
+    },
+    {
+      "bytes": 4469,
+      "git_blob_sha1": "1d5230ce55d13de573a13fbc4bb1023f4763c6ae",
+      "path": "demo/nested_advanced.html",
+      "sha256": "b2bb094e4a7a5e7c1deaa96fea530dac29365c478f356cf6cb41f5af17f88864"
+    },
+    {
+      "bytes": 3861,
+      "git_blob_sha1": "5d6c626047e1e15490558c97c98129dff7cf6319",
+      "path": "demo/nested_constraint.html",
+      "sha256": "6c443d82739c672f565cb700b8b3a4be5e7baa8219cc2c53b6fa6c3f6ded6361"
+    },
+    {
+      "bytes": 1533,
+      "git_blob_sha1": "7925ca128cbcf48af7e6415f50582651094c6134",
+      "path": "demo/offset.html",
+      "sha256": "2b9367847f09d8e18a83bdb59de619e87674a5bd74d3971b674b45c59143898c"
+    },
+    {
+      "bytes": 5140,
+      "git_blob_sha1": "dd7449b3e9fe8ef2d8e9e3711a5e7eb97434c964",
+      "path": "demo/old_nested-jq.html",
+      "sha256": "a209b753f9cbac14b17e058f6fa6d7de5c04333969f61f08ce19a856bf2e3e04"
+    },
+    {
+      "bytes": 3559,
+      "git_blob_sha1": "04b8c03d3fb03bec812361b60d609d9da13351bf",
+      "path": "demo/old_two-jq.html",
+      "sha256": "937a7cc016d650bdf62732069fce8068a199697cf172799178035eb3058ef063"
+    },
+    {
+      "bytes": 4612,
+      "git_blob_sha1": "3fa902155afd7987918ac6650dce0cb5c2de2204",
+      "path": "demo/react-hooks-controlled-multiple.html",
+      "sha256": "954e5ca4b4786b05370c6b53199203d710588918594adba10f1a01125d62f458"
+    },
+    {
+      "bytes": 5027,
+      "git_blob_sha1": "648b51d1a26ff9fe895e57ed8a2bc1917c488f4e",
+      "path": "demo/react-hooks.html",
+      "sha256": "57d4ff22ae554fa412f5664d5115b92456c6cfddc289c705d31d4b3008a62443"
+    },
+    {
+      "bytes": 3394,
+      "git_blob_sha1": "b1539c32390c57f46c13f85fdeda80a7de15d529",
+      "path": "demo/react.html",
+      "sha256": "e13e7a4db5f815132f39e26a304c58721ef13171195a826391f1d62b0138cd7d"
+    },
+    {
+      "bytes": 2683,
+      "git_blob_sha1": "d5e24496916b81bc31b96e7b752fdeb50a7dafe0",
+      "path": "demo/responsive.html",
+      "sha256": "c5f785a694730500c04f7e4b4086e2ad714583c50bc528dfebd825dea7121dc7"
+    },
+    {
+      "bytes": 3096,
+      "git_blob_sha1": "1e8197c255d5f44b3064307b313d557754078f46",
+      "path": "demo/right-to-left(rtl).html",
+      "sha256": "67f96bbd86912d6b83298a7b98450604422a584e1b4fe7de97d8e7060b28c5f7"
+    },
+    {
+      "bytes": 3293,
+      "git_blob_sha1": "76db8c048ba43e9beb3ba3b1dbd0fccf9530f902",
+      "path": "demo/serialization.html",
+      "sha256": "c04f30634d4ff2b90697661d7a5557db1cff52ae5018a0786de9a4e898cd3589"
+    },
+    {
+      "bytes": 2041,
+      "git_blob_sha1": "c8e551117bc636cd3e9c7c31952af3f1977b08aa",
+      "path": "demo/static.html",
+      "sha256": "1aeef6a60bd5d94112a9fb6f32ec31830d069c0788737412410ca192a61386fa"
+    },
+    {
+      "bytes": 3384,
+      "git_blob_sha1": "0b7cef41785a5188172e28fe7620b5250f41719e",
+      "path": "demo/two.html",
+      "sha256": "22b2fa1224dd78c050bdb726c76124b1dcfb113a836c18c95778ee39c3ad836e"
+    },
+    {
+      "bytes": 1386,
+      "git_blob_sha1": "73951a996c82aef930aef39ede38cea7005b8f52",
+      "path": "demo/two_vertical.html",
+      "sha256": "31161f5f111dddad8d27a702785f7fba8643d7b746f511b33786fe612a41a1ef"
+    },
+    {
+      "bytes": 3399,
+      "git_blob_sha1": "de1e042c4df3e88ae60d090baa0930882fa92e63",
+      "path": "demo/vue2js.html",
+      "sha256": "3afd7c9b6fe07325096861f0164d367d790d4cf2c8d974d24512e8d5e37b1d6f"
+    },
+    {
+      "bytes": 3157,
+      "git_blob_sha1": "10960ca48e143817f3c7e0cb9cf1e810fd212f5c",
+      "path": "demo/vue3js.html",
+      "sha256": "c2ae6e3f82354fa564e1b61ec177faadd46b404cd02c569e721c7ad6d49413e8"
+    },
+    {
+      "bytes": 5402,
+      "git_blob_sha1": "7c69eb1c9b436bd2400daee378936380fd903819",
+      "path": "demo/vue3js_v-for.html",
+      "sha256": "1f8d133ebeca8e9abba4d2357bc1b404a3a7ef543ab4fe9fe199d0668a545c85"
+    },
+    {
+      "bytes": 997,
+      "git_blob_sha1": "60a6734435037136d5428bff52b303a77a03d6df",
+      "path": "demo/web-comp.html",
+      "sha256": "4a79e89c80ace9e6a443cc59b3404c7650822fb1ad0aec5e59cb0fea88775b13"
+    },
+    {
+      "bytes": 1936,
+      "git_blob_sha1": "ebe51a1852054485e3a24e21d8f5db2d1dbcbba1",
+      "path": "demo/web1.html",
+      "sha256": "e44d986e148c7a0c6b3b7d4c97fd3366fcea82913e1c4c0553bb6f883e4b3fe3"
+    },
+    {
+      "bytes": 3304,
+      "git_blob_sha1": "323132badc4492dc98ab40221d63e043b4b0568e",
+      "path": "demo/web2.html",
+      "sha256": "c014eebb563c59b3c5b8e9b15638e08153a9fdd3b450b58fab07f90b44e930ef"
+    }
+  ],
+  "github_tree_sha": "df2e2295182c5fbd6157b21cd40a65cea84e3f29",
+  "github_tree_sha256": "f7abfff160d9cf431999b3719e2c367ccb6d4d7f93842818c6e4230c7ae8c24b",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "gridstack/gridstack.js",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-dashboard-shell-gridstack-gridstack-js-2bfe36307aee"
+}

@@ -1,0 +1,84 @@
+{
+  "commit_sha": "63786e671e2c1a1fd2be25b54a8910cd3bbc7c0a",
+  "entrypoint": "docs/index.html",
+  "files": [
+    {
+      "bytes": 19514,
+      "git_blob_sha1": "14868406aa7d728a88d63963f119635813b5d30e",
+      "path": "docs/fonts/OpenSans-Light-webfont.eot",
+      "sha256": "83a5c3512b7e56bef9b0d5451adf664b070eb3cf6278e69e2cf4fa0b2d2ef379"
+    },
+    {
+      "bytes": 117270,
+      "git_blob_sha1": "11a472ca8a5111187b4269b1407bbfd8dcf8fffd",
+      "path": "docs/fonts/OpenSans-Light-webfont.svg",
+      "sha256": "3527f01b330c2a9eb7fadb347da4e485e5ad7e1a1a30832c73f6442d4f44abeb"
+    },
+    {
+      "bytes": 22248,
+      "git_blob_sha1": "e786074813a27d0a7a249047832988d5bf0fe756",
+      "path": "docs/fonts/OpenSans-Light-webfont.woff",
+      "sha256": "a1cb81c9f07f1f399db66ec188c02a1c74bc382df9a8550ab8091aac93dff8a2"
+    },
+    {
+      "bytes": 19836,
+      "git_blob_sha1": "6bbc3cf58cb011a6b4bf3cb1612ce212608f7274",
+      "path": "docs/fonts/OpenSans-Regular-webfont.eot",
+      "sha256": "25f7c6430e4b537dfa6bbe5554d4641c0fbdbf3f9351aab6cd91d43d11738528"
+    },
+    {
+      "bytes": 119399,
+      "git_blob_sha1": "25a3952340fc727f6571e182d63a7938a2f27b32",
+      "path": "docs/fonts/OpenSans-Regular-webfont.svg",
+      "sha256": "9ecb8504258d8576dadbe37b75bb434cc95a0dde24225ebfea9c8aea99df8ea9"
+    },
+    {
+      "bytes": 22660,
+      "git_blob_sha1": "e231183dce4c7b452afc9e7799586fd285e146f4",
+      "path": "docs/fonts/OpenSans-Regular-webfont.woff",
+      "sha256": "22e7a1b10c110072f5a0bfd16e2197a76b279ec879bcce8978fada1dc9ee5d40"
+    },
+    {
+      "bytes": 960,
+      "git_blob_sha1": "6c67f6d77756f5296257f91ed84c328fdeb7bb3e",
+      "path": "docs/index.html",
+      "sha256": "792efd8d49b0779435fadc48fbb8461b18264595506bb2eb5eeef1f317831edf"
+    },
+    {
+      "bytes": 674,
+      "git_blob_sha1": "8d52f7eafdb166eeba1de2f1a223fcde9ffbe4fe",
+      "path": "docs/scripts/linenumber.js",
+      "sha256": "bcc1057a550d0865cd8fcebc0e7531b76226d25d42ebdfa8cabc11f2314c3787"
+    },
+    {
+      "bytes": 861,
+      "git_blob_sha1": "041e1f59067977554f29146ed51c13bcf509f0af",
+      "path": "docs/scripts/prettify/lang-css.js",
+      "sha256": "9b6ac483033b02572714eb4d37ee199185c41008eb2b3f46a00ab0ebce6a20c5"
+    },
+    {
+      "bytes": 13632,
+      "git_blob_sha1": "eef5ad7e6a07676b3919146d583d1c190bf1e163",
+      "path": "docs/scripts/prettify/prettify.js",
+      "sha256": "e2e576e3bc607cd179ff511947010f645d3441a35313aec0dbd06c4437f83b77"
+    },
+    {
+      "bytes": 6033,
+      "git_blob_sha1": "24aa20f0eff6cb6f6a27e54e755dd27153e47009",
+      "path": "docs/styles/jsdoc-default.css",
+      "sha256": "2edf81516d8b96855ad7c2281f196ac74a455ae15e5f9ba2323fd980bd57b59b"
+    },
+    {
+      "bytes": 2026,
+      "git_blob_sha1": "b6f92a78db990ec1dc52e032452a979b8c216a85",
+      "path": "docs/styles/prettify-tomorrow.css",
+      "sha256": "cc89c4a9a3301cf1355d13d3aa730fdae64e104605436ce371ab00bf64759d78"
+    }
+  ],
+  "github_tree_sha": "3b864f57419e17bb99940dfc30332a715b2ac9e6",
+  "github_tree_sha256": "c9220b8c0b3f45c868362791db33afa8622ac2292c5b433f2969e994dabf7e7c",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "pandao/editor.md",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-docs-homepage-pandao-editor-md-6900c1536aef"
+}

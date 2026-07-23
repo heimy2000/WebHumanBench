@@ -1,0 +1,24 @@
+{
+  "commit_sha": "cf53ec0bed0bf2486fdb07ce8142438d77e31559",
+  "entrypoint": ".doc_gen/metadata/sos_editor/index.html",
+  "files": [
+    {
+      "bytes": 119109,
+      "git_blob_sha1": "6868895ed266e0a9e2399d9f610fb5dd0475f91f",
+      "path": ".doc_gen/metadata/sos_editor/index.html",
+      "sha256": "70b4e21f4b9a701e21188df576e46d23dc54ec47b24dc1b83bef6876e636fc9b"
+    },
+    {
+      "bytes": 1790,
+      "git_blob_sha1": "807e012a8b883c325ac476d9a1deec4540ac9f5d",
+      "path": ".doc_gen/metadata/sos_editor/styles.css",
+      "sha256": "5470978867a2346a17d37700614e21c0c9ae573ea129866080f78c4e73af68c6"
+    }
+  ],
+  "github_tree_sha": "ae224103cf0bd8a4e8e3fdc38dbf17b58d100e45",
+  "github_tree_sha256": "734f0657876e97d82612a64391a550239a868865b2bc163666bd4ac4f90310a6",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "awsdocs/aws-doc-sdk-examples",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343"
+}

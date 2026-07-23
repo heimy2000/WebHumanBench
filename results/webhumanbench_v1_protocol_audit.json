@@ -1,0 +1,307 @@
+{
+  "generated_prompt_protocol": {
+    "audited_retained_prompt_artifacts": 590,
+    "boundary": "The challenge cohort is prompt- and pipeline-conditioned. Every retained prompt requests production-like, self-contained, literal-CSS output and explicitly asks for a plausible modern human-authored style; the cohort is not an uncontrolled sample of model generations.",
+    "generated_at_end": "2026-07-06T07:25:44+00:00",
+    "generated_at_start": "2026-07-05T06:05:48+00:00",
+    "normalized_user_templates": 6,
+    "planned_by_model": [
+      {
+        "count": 86,
+        "model_id": "MiniMaxAI/MiniMax-M2.5"
+      },
+      {
+        "count": 85,
+        "model_id": "Pro/moonshotai/Kimi-K2.6"
+      },
+      {
+        "count": 86,
+        "model_id": "Qwen/Qwen3-32B"
+      },
+      {
+        "count": 86,
+        "model_id": "deepseek-ai/DeepSeek-V4-Flash"
+      },
+      {
+        "count": 85,
+        "model_id": "meituan-longcat/LongCat-2.0"
+      },
+      {
+        "count": 86,
+        "model_id": "tencent/Hunyuan-A13B-Instruct"
+      },
+      {
+        "count": 86,
+        "model_id": "zai-org/GLM-5.2"
+      }
+    ],
+    "planned_by_page_type": [
+      {
+        "count": 100,
+        "page_type": "dashboard_shell"
+      },
+      {
+        "count": 100,
+        "page_type": "developer_tool"
+      },
+      {
+        "count": 100,
+        "page_type": "docs_homepage"
+      },
+      {
+        "count": 100,
+        "page_type": "portfolio_showcase"
+      },
+      {
+        "count": 100,
+        "page_type": "product_showcase"
+      },
+      {
+        "count": 100,
+        "page_type": "saas_landing"
+      }
+    ],
+    "planned_pages": 600,
+    "required_clause_coverage": {
+      "human_authored_style_condition": {
+        "count": 590,
+        "fraction": 1.0
+      },
+      "literal_css_extractor_condition": {
+        "count": 590,
+        "fraction": 1.0
+      },
+      "production_like_system_condition": {
+        "count": 590,
+        "fraction": 1.0
+      },
+      "self_contained_no_external_assets": {
+        "count": 590,
+        "fraction": 1.0
+      }
+    },
+    "retained_by_model": [
+      {
+        "count": 86,
+        "model_id": "MiniMaxAI/MiniMax-M2.5"
+      },
+      {
+        "count": 85,
+        "model_id": "Pro/moonshotai/Kimi-K2.6"
+      },
+      {
+        "count": 84,
+        "model_id": "Qwen/Qwen3-32B"
+      },
+      {
+        "count": 86,
+        "model_id": "deepseek-ai/DeepSeek-V4-Flash"
+      },
+      {
+        "count": 85,
+        "model_id": "meituan-longcat/LongCat-2.0"
+      },
+      {
+        "count": 78,
+        "model_id": "tencent/Hunyuan-A13B-Instruct"
+      },
+      {
+        "count": 86,
+        "model_id": "zai-org/GLM-5.2"
+      }
+    ],
+    "retained_by_page_type": [
+      {
+        "count": 100,
+        "page_type": "dashboard_shell"
+      },
+      {
+        "count": 100,
+        "page_type": "developer_tool"
+      },
+      {
+        "count": 100,
+        "page_type": "docs_homepage"
+      },
+      {
+        "count": 96,
+        "page_type": "portfolio_showcase"
+      },
+      {
+        "count": 95,
+        "page_type": "product_showcase"
+      },
+      {
+        "count": 99,
+        "page_type": "saas_landing"
+      }
+    ],
+    "unique_scenarios_by_page_type": [
+      {
+        "count": 12,
+        "page_type": "dashboard_shell"
+      },
+      {
+        "count": 12,
+        "page_type": "developer_tool"
+      },
+      {
+        "count": 12,
+        "page_type": "docs_homepage"
+      },
+      {
+        "count": 12,
+        "page_type": "portfolio_showcase"
+      },
+      {
+        "count": 12,
+        "page_type": "product_showcase"
+      },
+      {
+        "count": 12,
+        "page_type": "saas_landing"
+      }
+    ],
+    "unique_system_prompts": 1
+  },
+  "inputs": {
+    "ai_source_run_ledger": {
+      "path": "benchmark/webhumanbench_v1/ai_source_run_ledger.json",
+      "sha256": "2d925203e5b4edd442648681b1838057d19765c8cf09b646d3abe23d45a95116"
+    },
+    "benchmark_manifest": {
+      "path": "benchmark/webhumanbench_v1/webhumanbench_manifest.json",
+      "sha256": "5c80caf286a57b0886c414d2acae585c64a183ed91d1e0790b48414cee299bb3"
+    },
+    "capture_ledger": {
+      "path": "benchmark/webhumanbench_v1/capture_ledger.json",
+      "sha256": "930329061e8ef0ad4f550e0772c6c197ff3cf9b84dae4623ff9c72c29f63bad1"
+    },
+    "source_manifest": {
+      "path": "benchmark/webhumanbench_v1/source_manifest.json",
+      "sha256": "459e2598f4bee8ac840cd0bc0fb02cfa8b711cbd269f11b68ae4b0dfcdbb7a1d"
+    }
+  },
+  "interpretation": "The release candidate is hash-auditable, but auditability does not remove temporal asset, prompt, content, provider, or capture-pipeline confounding.",
+  "reference_capture_interventions": {
+    "boundary": "Vendoring makes the 2026 capture reproducible but does not establish that the fetched bytes equal the bytes served at the pinned commit date.",
+    "captured_at": "2026-07-13T09:21:33.673352+00:00",
+    "n_sources": 32,
+    "removed_external_script_count": 3,
+    "source_ids_with_modified_snapshot_entrypoints": [
+      "portfolio-target-andy",
+      "portfolio-target-chester",
+      "portfolio-target-emerson",
+      "portfolio-target-german",
+      "portfolio-target-rafael",
+      "portfolio-target-rodrigues",
+      "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+      "static-developer-tool-karatelabs-karate-fc0ca2607186",
+      "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+      "static-docs-homepage-pandao-editor-md-6900c1536aef",
+      "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+      "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+      "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+      "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+      "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+      "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+      "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a"
+    ],
+    "source_ids_with_vendored_assets": [
+      "portfolio-target-andy",
+      "portfolio-target-emerson",
+      "portfolio-target-german",
+      "portfolio-target-rafael",
+      "portfolio-target-rodrigues",
+      "static-dashboard-shell-kubenav-kubenav-ca41c645b6e6",
+      "static-developer-tool-karatelabs-karate-fc0ca2607186",
+      "static-docs-homepage-awsdocs-aws-doc-sdk-examples-918ecf3ed343",
+      "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be",
+      "static-docs-homepage-vuejs-v2-vuejs-org-00e6d742b5fd",
+      "static-product-showcase-aurelielerouxel-terre-de-geek-a68f5fa1e268",
+      "static-product-showcase-kiborgok-burger-palace-98bd538da7f8",
+      "static-product-showcase-salesforcecommercecloud-pwa-kit-d8b802f38111",
+      "static-saas-landing-abhinavs-cookie-1fdd22fcec64",
+      "static-saas-landing-gary149-tailwindcss-landing-gradients-582abb03f14e",
+      "static-saas-landing-wonderfullandingpage-mylandingpage-5e9f95dad94a"
+    ],
+    "sources_with_modified_snapshot_entrypoints": 17,
+    "sources_with_removed_external_scripts": 3,
+    "sources_with_vendored_assets": 16,
+    "vendored_asset_content_types": [
+      {
+        "content_type": "application/javascript",
+        "count": 5
+      },
+      {
+        "content_type": "application/octet-stream",
+        "count": 23
+      },
+      {
+        "content_type": "application/vnd.ms-fontobject",
+        "count": 8
+      },
+      {
+        "content_type": "font/ttf",
+        "count": 60
+      },
+      {
+        "content_type": "font/woff",
+        "count": 6
+      },
+      {
+        "content_type": "font/woff2",
+        "count": 6
+      },
+      {
+        "content_type": "image/jpeg",
+        "count": 19
+      },
+      {
+        "content_type": "image/png",
+        "count": 2
+      },
+      {
+        "content_type": "image/svg+xml",
+        "count": 8
+      },
+      {
+        "content_type": "text/css",
+        "count": 23
+      },
+      {
+        "content_type": "text/javascript",
+        "count": 3
+      }
+    ],
+    "vendored_asset_count": 163
+  },
+  "reference_temporal_provenance": {
+    "all_commits_before_cutoff": true,
+    "boundary": "The cutoff applies to the pinned repository commit. It does not date every externally hosted visual asset later frozen for local capture.",
+    "commit_year_counts": [
+      {
+        "count": 1,
+        "year": "2019"
+      },
+      {
+        "count": 3,
+        "year": "2020"
+      },
+      {
+        "count": 4,
+        "year": "2021"
+      },
+      {
+        "count": 24,
+        "year": "2022"
+      }
+    ],
+    "cutoff_utc": "2023-01-01T00:00:00+00:00",
+    "earliest_commit_authored_at": "2019-05-09T11:48:29+00:00",
+    "latest_commit_authored_at": "2022-12-31T12:42:18+00:00",
+    "n_sources": 32,
+    "sources_committed_in_2022": 24
+  },
+  "schema": "webmark_webhumanbench_v1_protocol_audit_v1"
+}

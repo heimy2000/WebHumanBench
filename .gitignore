@@ -1,0 +1,27 @@
+# Local Python and test state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Local dependency and build directories
+build/
+dist/
+*.egg-info/
+node_modules/
+
+# Operating-system metadata
+.DS_Store
+._*
+
+# Never commit locally captured raw artifacts or credentials.
+.env
+.env.*
+*.key
+*.pem
+benchmark/**/captures/

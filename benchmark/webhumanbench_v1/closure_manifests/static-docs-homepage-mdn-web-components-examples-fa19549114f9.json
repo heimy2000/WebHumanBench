@@ -1,0 +1,24 @@
+{
+  "commit_sha": "a5070993429e93024716e3bb79c0cea22f0ab2ce",
+  "entrypoint": "edit-word/index.html",
+  "files": [
+    {
+      "bytes": 779,
+      "git_blob_sha1": "ed296c02340dd13378684e9df3db5046e8d271c7",
+      "path": "edit-word/index.html",
+      "sha256": "b58d83b509a62cf05a0c5ffba0684bc459098e57cde15d654015f681210bb386"
+    },
+    {
+      "bytes": 2205,
+      "git_blob_sha1": "d9e9c0da8b9e6120233500ef66205191c4f4176a",
+      "path": "edit-word/main.js",
+      "sha256": "1038e1e985c46a511eac90f528c2f4da109b1523c4cabd8833165062d8532bb6"
+    }
+  ],
+  "github_tree_sha": "7b38855a412b705dc71607377194efe45039ce25",
+  "github_tree_sha256": "25f7c75eb3776117c1f6337ffd2a885e90db1f8f1b2242439ea1711c30e6e8ef",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "mdn/web-components-examples",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-docs-homepage-mdn-web-components-examples-fa19549114f9"
+}

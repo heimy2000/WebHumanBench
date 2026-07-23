@@ -1,0 +1,90 @@
+{
+  "commit_sha": "c58cea7642390ad4e94051d7dd95a3491ddfb96b",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 41423,
+      "git_blob_sha1": "6d965dc98f6365d5d8fcd58a205558985fdccf8f",
+      "path": "assets/activities-list.png",
+      "sha256": "a4e31de8e3a584ddcf0c9faca0cfa9fa5463c032e1f1f31134daa33d198b1f93"
+    },
+    {
+      "bytes": 63141,
+      "git_blob_sha1": "f16649f51cc85faf88f0b76919ac5db71efc6454",
+      "path": "assets/book-list.png",
+      "sha256": "dcb7f6d956094533b0b63b10354232715aa3f6658b4db7f62f10a31a3fb58f6e"
+    },
+    {
+      "bytes": 37759,
+      "git_blob_sha1": "58669c1d23dbb812a89d4561b215f551acfc2f07",
+      "path": "assets/dark1.jpeg",
+      "sha256": "87c42c826d226d7600929f01192061804bb454a6a487234220ecf856f8e1d7dc"
+    },
+    {
+      "bytes": 1126,
+      "git_blob_sha1": "a6312397143c0dd70c15b2761487072b56febe48",
+      "path": "assets/github.png",
+      "sha256": "e058f4ca759fa80993b91430fb63dbbe03f710cdd1a28b8d40861a8b0ae1558b"
+    },
+    {
+      "bytes": 875,
+      "git_blob_sha1": "436a001b38415fca474a7e9e638ceccdf7b97850",
+      "path": "assets/linkedin.png",
+      "sha256": "5a7346cda7145a6a6fb339e05f1061d499334ac27c6f603e4e69d77c8586ea13"
+    },
+    {
+      "bytes": 2880,
+      "git_blob_sha1": "500ec11a12773e2b45a007187ddaa25db5b085d7",
+      "path": "assets/menu.png",
+      "sha256": "015ac1de996d01d0391f4d7ed34761862634d0e6d6f716b12e52fa0ee92dd6ea"
+    },
+    {
+      "bytes": 336813,
+      "git_blob_sha1": "0c1affd49d0db10ce6f7e891a827a635f07ec930",
+      "path": "assets/modern-art-gallery.png",
+      "sha256": "0f73269d83ed08a5bb546477cf420d0870c5935f594a2001ab2f343c243f7af6"
+    },
+    {
+      "bytes": 818042,
+      "git_blob_sha1": "5d5e76fb4ee02b269bb8598de2b186d26ab1602b",
+      "path": "assets/philosophy.png",
+      "sha256": "2135bccffcc4bb5fe55fe8501c664e862fc4171c74bbf6ee0bfcf5b3ece035a8"
+    },
+    {
+      "bytes": 41050,
+      "git_blob_sha1": "fab706159573ba41285567ce24b4a17df1a54d17",
+      "path": "assets/tic-tac-toe.png",
+      "sha256": "fbac5a321f4a0972507bfc1a238ac4299eb3bcef5e8650fc77ad09d648968d4b"
+    },
+    {
+      "bytes": 1059,
+      "git_blob_sha1": "835878f381882da6d72c568a12d66d2d8644285f",
+      "path": "assets/twitter.png",
+      "sha256": "8426b52faa4e358435e2d42e1c75f31d86f2e5f7528562c68a7057080c966104"
+    },
+    {
+      "bytes": 290825,
+      "git_blob_sha1": "89d914cbc2aeff8ad77c572ac2f5c9e08d99f324",
+      "path": "assets/yachts-display.png",
+      "sha256": "f60c2be2809e683ab154209ca57e0667495b982253d6e39681fdec28a7208631"
+    },
+    {
+      "bytes": 12383,
+      "git_blob_sha1": "f6ef927c148b358edc93b50823c4c125063badec",
+      "path": "index.html",
+      "sha256": "c4fe265c154fb5431b715be53f4c6195665536ee7a1804ba4dfdd4be2506ea9a"
+    },
+    {
+      "bytes": 2036,
+      "git_blob_sha1": "8266fc5c73811f5626eb21e9032312041dd1a22e",
+      "path": "style.css",
+      "sha256": "2125863f09c3d20432efa921020209cc6c1dc2b9c6db083505d510e8b51d50cf"
+    }
+  ],
+  "github_tree_sha": "c1f6e66789957253216d28ce8218c7e77fa11a9a",
+  "github_tree_sha256": "47ab353b669a3c9374edda5382f39bcba20b8ac429510cdd8a30a5f9fa02c459",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "German-Cobian/Portfolio",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "portfolio-target-german"
+}

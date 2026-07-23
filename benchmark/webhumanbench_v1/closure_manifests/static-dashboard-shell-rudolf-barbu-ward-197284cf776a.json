@@ -1,0 +1,18 @@
+{
+  "commit_sha": "0251f68405fe79d0f92fda8ba850a4496d0d63e5",
+  "entrypoint": "src/main/resources/templates/index.html",
+  "files": [
+    {
+      "bytes": 16104,
+      "git_blob_sha1": "46f66e7aaac8210c7169be29f01ceab929560124",
+      "path": "src/main/resources/templates/index.html",
+      "sha256": "b0f10532e72afab3ca9849b3c20b879cb13dbdf32304a212d84b4444d5a2fbbe"
+    }
+  ],
+  "github_tree_sha": "ca23c4873e9262b5fb8c84c8311ba35383a6b0e3",
+  "github_tree_sha256": "c4443981855d64acc62b7646489f61d7ac38e5acea0150ec2515e3671cc6783c",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "Rudolf-Barbu/Ward",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-dashboard-shell-rudolf-barbu-ward-197284cf776a"
+}

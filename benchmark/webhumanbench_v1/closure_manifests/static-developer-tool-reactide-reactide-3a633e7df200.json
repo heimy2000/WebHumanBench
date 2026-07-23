@@ -1,0 +1,24 @@
+{
+  "commit_sha": "564d8c3bdd26ddc05424257c5ec497fe7ad60792",
+  "entrypoint": "example/index.html",
+  "files": [
+    {
+      "bytes": 878242,
+      "git_blob_sha1": "3b303af7308ceed36d947820e743067a4232b8d0",
+      "path": "example/build/webpack-bundle.js",
+      "sha256": "a1ce0e726952b8fedbc79073d99a3877c887045ed12fb2b34844a65e2bff8110"
+    },
+    {
+      "bytes": 524,
+      "git_blob_sha1": "8d03874839bc339b17b2e73b31d31fcc31e98cd0",
+      "path": "example/index.html",
+      "sha256": "7d283742ca638661e7c52828fab1ad8151f0863935b44e8c1d8e2706910b636c"
+    }
+  ],
+  "github_tree_sha": "991855e6a4f93f792cfdf7b0f7d5ea2804694906",
+  "github_tree_sha256": "c521899d0fb0e41c9aa4681ef548af9abd679ad74609cc9b19d96cf3cf9d598a",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "reactide/reactide",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-developer-tool-reactide-reactide-3a633e7df200"
+}

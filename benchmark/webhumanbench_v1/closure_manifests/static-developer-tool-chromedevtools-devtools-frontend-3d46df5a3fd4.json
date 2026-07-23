@@ -1,0 +1,30 @@
+{
+  "commit_sha": "4f73ee63549e6c41c7e35da7950292ef67533fbf",
+  "entrypoint": "test/screenshots/interactive/index.html",
+  "files": [
+    {
+      "bytes": 1357,
+      "git_blob_sha1": "4a2b14fc52d96a77b83eb5914f93d9cf11924ead",
+      "path": "test/screenshots/interactive/index.html",
+      "sha256": "be049bce39cd7d56bfeb13c88291dcab4d61832fa93b11918ab1b4d7fa90273b"
+    },
+    {
+      "bytes": 3392,
+      "git_blob_sha1": "a84916c44c06ed51198dc119f6ef84daf1c3008e",
+      "path": "test/screenshots/interactive/interactive.css",
+      "sha256": "dc54826f194a968141690e3140df9a0e9f187f03679e41de4e4d62fa02f0f9c5"
+    },
+    {
+      "bytes": 3485,
+      "git_blob_sha1": "d1b3e0ef343b34dd3181daf9821b9952566f9a17",
+      "path": "test/screenshots/interactive/interactive.js",
+      "sha256": "5a1ffa4f6030dc3128a14304ffaeb84bcfa3141c16df288abbeea56665d5c7e5"
+    }
+  ],
+  "github_tree_sha": "c95278f61f1809b1c61bad5a7389dd755a8fac0c",
+  "github_tree_sha256": "0bbc8b89e40a7cda17b32cbd7ead08e1371f3345243de6cb02cacc5043d81612",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "ChromeDevTools/devtools-frontend",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-developer-tool-chromedevtools-devtools-frontend-3d46df5a3fd4"
+}

@@ -1,0 +1,18 @@
+{
+  "commit_sha": "bc49e61d198ca1f642776d4116a174ee13d692d3",
+  "entrypoint": "tabpy/tabpy_server/static/index.html",
+  "files": [
+    {
+      "bytes": 1548,
+      "git_blob_sha1": "f47e6a067b3e00e33ea452a5b6dbbe544e8b816c",
+      "path": "tabpy/tabpy_server/static/index.html",
+      "sha256": "e0076405d96a3c9a3808139db6569cd6e3634805448139ac805108922fb66ea4"
+    }
+  ],
+  "github_tree_sha": "00f5e7757145b28eb1449a18c5db903a6460c450",
+  "github_tree_sha256": "8ab2d8f5542d25fef3fa64be060d76207e203ad3cac7ad5bdacb1f21245209a1",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "tableau/TabPy",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-saas-landing-tableau-tabpy-6998dfe20a08"
+}

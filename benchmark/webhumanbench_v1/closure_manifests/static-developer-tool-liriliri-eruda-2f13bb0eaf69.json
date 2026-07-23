@@ -1,0 +1,96 @@
+{
+  "commit_sha": "dff8ad544d613df985bb98b69533ccb3a57da8d2",
+  "entrypoint": "test/index.html",
+  "files": [
+    {
+      "bytes": 940,
+      "git_blob_sha1": "4bb2f16220f037f0dd3e4d42c2dce3f25eb9245f",
+      "path": "test/boot.js",
+      "sha256": "7fa046387ee5899c2003f08f9a8d6553943621f15e7a5ea499b7016180f74f6f"
+    },
+    {
+      "bytes": 566,
+      "git_blob_sha1": "5ee51d1b76797eea36a2dc7095e229e90cb8535b",
+      "path": "test/console.html",
+      "sha256": "90c02d721cd2c4383c00facd3ed97fa9c4bc070c6e5252a138af9bfb61177a66"
+    },
+    {
+      "bytes": 568,
+      "git_blob_sha1": "275deb06bd3b223000a24570a6497f279eaeac3e",
+      "path": "test/elements.html",
+      "sha256": "33a5a37e20a2088eb1152980027d681c64d759daa0b06586c30e97c351cf21a5"
+    },
+    {
+      "bytes": 565,
+      "git_blob_sha1": "dd1786227d710ee8f3b72f6c96390f9ed9397fe1",
+      "path": "test/eruda.html",
+      "sha256": "43f3a78774ce7f05659a3e96fcff21547884b1dffdcb70338baf35cbfe1950c5"
+    },
+    {
+      "bytes": 1744,
+      "git_blob_sha1": "d68357b18d3a6f82f39e687777217d4ac7b1a28c",
+      "path": "test/index.html",
+      "sha256": "0a09e7a9bf8aee9a23c72d98378564ecfb026155fde7da99cf03502c8c1b876f"
+    },
+    {
+      "bytes": 560,
+      "git_blob_sha1": "89166f6d72bb14c6f066d156ef2ab39c140dd242",
+      "path": "test/info.html",
+      "sha256": "5a20e1c86d855ac305a21d03291d152ee6168e7dbaadd4b33192f90a384ff47f"
+    },
+    {
+      "bytes": 5465,
+      "git_blob_sha1": "ac2933b45ba1c8b66a7a047016b4c4e6166b33aa",
+      "path": "test/manual.html",
+      "sha256": "67e668d3f27aeb98317f09452a2cc2c3d7577ddef370b9edf168e3bd31444bcb"
+    },
+    {
+      "bytes": 602,
+      "git_blob_sha1": "5adbffcc1bc3469341b36c0b7e15c8140606b973",
+      "path": "test/network.html",
+      "sha256": "71e5af780960b2583b4a4e6a77edfa12dbb92b525b23c52daeae5df6215d3f5d"
+    },
+    {
+      "bytes": 606,
+      "git_blob_sha1": "a6b15a7e3221650ecece766c729aed0c602f1edf",
+      "path": "test/resources.html",
+      "sha256": "d68b2e57e229671daeab6580494924a2410e4506aad0c6ba92dddd7702b0b2bb"
+    },
+    {
+      "bytes": 568,
+      "git_blob_sha1": "c68dde44eed748211e0340a19464058fa02197ec",
+      "path": "test/settings.html",
+      "sha256": "5af2a7443d70f7719e337b62b9cf24b8ba863a4c286d4431111834f2227d935e"
+    },
+    {
+      "bytes": 568,
+      "git_blob_sha1": "323003f12b08c576459148361b5d8cce2ecc3e81",
+      "path": "test/snippets.html",
+      "sha256": "82c7cc156fcf98e9d1001cc45623b559f7ec6d55a32e790db371822cf08acf17"
+    },
+    {
+      "bytes": 566,
+      "git_blob_sha1": "98adaa3baab43520d405c28639c3490c693436b8",
+      "path": "test/sources.html",
+      "sha256": "43f7138f1f27f2d24314367789341ae493adcb31dabe950a798da3b72e2987d0"
+    },
+    {
+      "bytes": 977,
+      "git_blob_sha1": "6127314ad0a8eeb040a6fa1ef74bc724b743e086",
+      "path": "test/style.css",
+      "sha256": "2a1e40f9bb146fe8bf5e5036fc3bbb8105d4300918c9c4b78c5e54e153edc22e"
+    },
+    {
+      "bytes": 119215,
+      "git_blob_sha1": "79349943bf665bd11f1beaa9f5556f8f742f4429",
+      "path": "test/util.js",
+      "sha256": "751c2755548604fcc0d4d9c23503b0a82f0acb6a0ddec503445ca33ca5ac6165"
+    }
+  ],
+  "github_tree_sha": "73dbd7c8d0ef3a2a7cf230166673098c57e8d38f",
+  "github_tree_sha256": "4c3aa4e0371c12127d93b16f60b8c51689844596a6b79be49bebe9912b632c28",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "liriliri/eruda",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-developer-tool-liriliri-eruda-2f13bb0eaf69"
+}

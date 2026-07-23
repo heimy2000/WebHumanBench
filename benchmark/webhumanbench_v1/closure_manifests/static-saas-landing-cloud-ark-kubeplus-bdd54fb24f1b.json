@@ -1,0 +1,228 @@
+{
+  "commit_sha": "85105d1a8f632500a44ac4dd9006c016b17325aa",
+  "entrypoint": "docs/html/html/index.html",
+  "files": [
+    {
+      "bytes": 199259,
+      "git_blob_sha1": "c3711bbc93b94c9946cf7ac7580558538057fec7",
+      "path": "docs/html/html/_images/KubePlus-components2.jpg",
+      "sha256": "9e66fd2d04e4c5e00af1e6727d5966e61655fca4c7847022ea7fd1cddd17bd49"
+    },
+    {
+      "bytes": 70287,
+      "git_blob_sha1": "4d4dcdbfd9b7b0d054ec8a5c6b3588ca69c9686c",
+      "path": "docs/html/html/_images/application-stacks-1.png",
+      "sha256": "8c4e8ac3a51aea3578eed1b61c6debee0c6ca4b5b4f564d12bffc3614e0456bd"
+    },
+    {
+      "bytes": 691530,
+      "git_blob_sha1": "34a8d9059b88ea097c34c22c080e69a89933dc73",
+      "path": "docs/html/html/_images/crd-for-crds-1.png",
+      "sha256": "1a3a509c7775b10b0c1fa83a0b59d4a186da11ac374557ce2d39c63e8c3cafa9"
+    },
+    {
+      "bytes": 402193,
+      "git_blob_sha1": "2b0c155ae4468e5cdf0f4eb33a7f627c89d8ed5a",
+      "path": "docs/html/html/_images/hello-world-connections-flat.png",
+      "sha256": "95b3e1d9e878537fb04f7486155577eb6d7c2d443b58381b8a1ba5afad165b32"
+    },
+    {
+      "bytes": 68877,
+      "git_blob_sha1": "d9a952cfde536dd0bcd5a1d50e3f2207e1bdb2bf",
+      "path": "docs/html/html/_images/hello-world-connections-png.png",
+      "sha256": "6a54f8ae2e91452ea590eef5c4e6913b233d9d9ea8186698e3438b28120ea8e0"
+    },
+    {
+      "bytes": 459512,
+      "git_blob_sha1": "28e10a383bdd19468185b44cdef342428e8d0a22",
+      "path": "docs/html/html/_images/hello-world-metrics-prometheus.png",
+      "sha256": "d95dac9ef39a95ec82e17a0f43b0d5624f53d2f3b7ec96fd717fe353f32260b3"
+    },
+    {
+      "bytes": 31573,
+      "git_blob_sha1": "30da0e95b0c655dad5dbbc76b23493e367249e00",
+      "path": "docs/html/html/_images/hello-world-resources.png",
+      "sha256": "1f5110a5ac8b943fbf01fba624ba24a6471a6018d00b038c986e66d92f9a7295"
+    },
+    {
+      "bytes": 220434,
+      "git_blob_sha1": "6da43af5d476e13a02e599194a36e901a19538f4",
+      "path": "docs/html/html/_images/kubeplus-provider-consumer.png",
+      "sha256": "dfddb3bc8aae8a4db34f75db039fa5abfd4ce2df4b28db75d8eba9d9f01e0d90"
+    },
+    {
+      "bytes": 186770,
+      "git_blob_sha1": "2579e6fd2751145179183cf6412fa441706e1cbd",
+      "path": "docs/html/html/_images/mysql-as-a-service.png",
+      "sha256": "5e45472008829c35633fc12d0df7e3e6bc4845cfafd90506d7ad5fb70c337fbf"
+    },
+    {
+      "bytes": 247591,
+      "git_blob_sha1": "b7193d042e1c504e0a4b78712362ed3c855e873f",
+      "path": "docs/html/html/_images/mysqlservice-connections.png",
+      "sha256": "b866894f0737d8cad6cc11256509345cd1a97323874b345614822c0c3e2bf955"
+    },
+    {
+      "bytes": 76718,
+      "git_blob_sha1": "d30b45d10c55561d34808d43fb62f8fd05ab200b",
+      "path": "docs/html/html/_images/search-kubeplus-mp.png",
+      "sha256": "8eec016dd26a2d9ade1a1f679c21ac9d605d8a5ad79c4673e91f73a94597a452"
+    },
+    {
+      "bytes": 78,
+      "git_blob_sha1": "353f26dde0803aa172c23e21ef6ac068e1253bc8",
+      "path": "docs/html/html/_static/background_b01.png",
+      "sha256": "74a01976311eb5eaf50432a5158ecceed3ccd36ddaf84ff5b2e384822bccddb3"
+    },
+    {
+      "bytes": 13647,
+      "git_blob_sha1": "4781a7514eaa79251752e9e74d3f8627939d7ced",
+      "path": "docs/html/html/_static/basic.css",
+      "sha256": "cae255f99bad94cd8412d1a70e2c00f21f9c2822ec8b1c87a7d2f4bcf0b095bd"
+    },
+    {
+      "bytes": 9800,
+      "git_blob_sha1": "def9cedc5dbfb46c1c8b8b95c40289ecea8869b4",
+      "path": "docs/html/html/_static/bizstyle.css",
+      "sha256": "4f99f452328487b9125553d16a6be0059bbe532fa84c79793ba908016593da94"
+    },
+    {
+      "bytes": 1178,
+      "git_blob_sha1": "c13dc0629f5e97087f57f1df07f554a8a501f075",
+      "path": "docs/html/html/_static/bizstyle.js",
+      "sha256": "ea0b380dc79311fe04f9768251ba1309528b1649632f81f41f73c0439b8bf87e"
+    },
+    {
+      "bytes": 14940,
+      "git_blob_sha1": "59735f59dcb97f8d892a786ab94a33120254db9d",
+      "path": "docs/html/html/_static/css3-mediaqueries.js",
+      "sha256": "0bdff46f7e10f633d1e9f2ef99bde753b96bcb7386b0cc902de951ec348ae95e"
+    },
+    {
+      "bytes": 9416,
+      "git_blob_sha1": "144884ea651188725eb76ee7da89f291f0f84925",
+      "path": "docs/html/html/_static/doctools.js",
+      "sha256": "6255412bfc892dfc55ed7979747103d53dcc80bcc08a80738118f1d047c7d54a"
+    },
+    {
+      "bytes": 356,
+      "git_blob_sha1": "9af54603b9c00b544aabb3e792e6b7d3f2321493",
+      "path": "docs/html/html/_static/documentation_options.js",
+      "sha256": "26b182ffd859949d01466c3dd4e1dd6b782e6360a256842286f6c82fbb6f4420"
+    },
+    {
+      "bytes": 286,
+      "git_blob_sha1": "a858a410e4faa62ce324d814e4b816fff83a6fb3",
+      "path": "docs/html/html/_static/file.png",
+      "sha256": "5c4bc9a16aebf38c4b950f59b8e501ca36495328cb9eb622218bce9064a35e3e"
+    },
+    {
+      "bytes": 89476,
+      "git_blob_sha1": "b0614034ad3a95e4ae9f53c2b015eeb3e8d68bde",
+      "path": "docs/html/html/_static/jquery.js",
+      "sha256": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d"
+    },
+    {
+      "bytes": 10847,
+      "git_blob_sha1": "0e7dc7e9ef06f03be549d8cc8efd761316eaaf24",
+      "path": "docs/html/html/_static/language_data.js",
+      "sha256": "eac39be87f968fabacd1d5aae3b9f512d3a40115d8b8411dbd5825dd6e742f86"
+    },
+    {
+      "bytes": 4837,
+      "git_blob_sha1": "de7af262ffba81e1a469570e613127271b9efbf7",
+      "path": "docs/html/html/_static/pygments.css",
+      "sha256": "18c2734a56aefbb8d1df3ba5052fb8521d5d27075606c834652331751ef40466"
+    },
+    {
+      "bytes": 16323,
+      "git_blob_sha1": "6fc9e7f3338d3a98c0a538da92ec6cb45450fbd8",
+      "path": "docs/html/html/_static/searchtools.js",
+      "sha256": "46a9911291401471412c002433e2dce3cb37545ffaa176f21fa5b5527897c54d"
+    },
+    {
+      "bytes": 12140,
+      "git_blob_sha1": "5b55f32beaca186f84cca115514f02cddbd1bbd5",
+      "path": "docs/html/html/_static/underscore.js",
+      "sha256": "42d8fad13bc28fc726775196ec9ab953febf9bde175c5845128361c953fa17f4"
+    },
+    {
+      "bytes": 4176,
+      "git_blob_sha1": "33a3587c4fc77708511aa7f6ca9d0903df559c2f",
+      "path": "docs/html/html/community.html",
+      "sha256": "f9f8269b080de815033c46edcf3b3b155a76b5d30ae4fd8fe00136f23d0f6bf1"
+    },
+    {
+      "bytes": 3454,
+      "git_blob_sha1": "d8ed4672e8587bed86a730551674bfa244d1dea2",
+      "path": "docs/html/html/comparison.html",
+      "sha256": "b53cae4d8bdc6eee456c5a949a2ddcd7d89ba5b02c510efbbf2163285d1462da"
+    },
+    {
+      "bytes": 15981,
+      "git_blob_sha1": "761d0460522384dbc6d563dd1b77b069e5c1162f",
+      "path": "docs/html/html/compile-components.html",
+      "sha256": "318126dcafe10a9b8b0effdb0a0d8b91ec871d0793f2cbc3d1f1f525eceb464f"
+    },
+    {
+      "bytes": 7867,
+      "git_blob_sha1": "ff9a5e580bf4f819040591ff1a4baee98f69bf34",
+      "path": "docs/html/html/getting-started.html",
+      "sha256": "b6193f447640f8cc7da495afeaf3f7ce567fadd918cf9e18fe53ca8a99d46628"
+    },
+    {
+      "bytes": 9526,
+      "git_blob_sha1": "8f71281f3042fd5f2eaf5c0254686eadabf4ac02",
+      "path": "docs/html/html/index.html",
+      "sha256": "1fdd7c8d62aea35d587e7e0a4ab64090fe727ffec463593b5c770e5f985e6619"
+    },
+    {
+      "bytes": 30889,
+      "git_blob_sha1": "1b598a642ce534b5f6ba138eadaf48bd3997406b",
+      "path": "docs/html/html/kubeplus-components.html",
+      "sha256": "8a1d47b3c94f51cf11845f84416ff1b8cdaeac56e5180fa93c0e51b82f719223"
+    },
+    {
+      "bytes": 6812,
+      "git_blob_sha1": "9580add83ce05e23a6e795ae0b5c5fae5b3f90c6",
+      "path": "docs/html/html/openshift-deployment.html",
+      "sha256": "8a181b92b1f7c769b4bbb1ddde3f806c1dc13b61c89ddcc6b14ef0e41474251b"
+    },
+    {
+      "bytes": 3936,
+      "git_blob_sha1": "013fa4456f72f30077ace2a86c30351739777c5d",
+      "path": "docs/html/html/operators.html",
+      "sha256": "f400343cfae7ccdfb2ccc86a1daadc3cddf47e90a24cb98c6b7627f92bb3b687"
+    },
+    {
+      "bytes": 3462,
+      "git_blob_sha1": "1c13f79d50fc4ff262c8e910a11961d256395802",
+      "path": "docs/html/html/roadmap.html",
+      "sha256": "eaa93f1ab1f81501c8eb36d8ab2ac411b2af7250f8098d51e8e57390d38c5982"
+    },
+    {
+      "bytes": 22043,
+      "git_blob_sha1": "41800d03de4c3d5313314f2057e93050be96b64c",
+      "path": "docs/html/html/sample-example.html",
+      "sha256": "037d7b4ecd88f2515b382dc0d2a74cf3c70985f271e05303c37bf5758ebd9a6c"
+    },
+    {
+      "bytes": 2787,
+      "git_blob_sha1": "2057ee2fcce83afee025bcaf5f828cc795719f70",
+      "path": "docs/html/html/search.html",
+      "sha256": "c2c63685007d7fb513a0a854c163e128f721830a39c141a455ecd85b73fcb3e8"
+    },
+    {
+      "bytes": 19959,
+      "git_blob_sha1": "d8958470c7de798b5441d6ecbf8d11de7a2805d9",
+      "path": "docs/html/html/searchindex.js",
+      "sha256": "5cb09efc5b13cfa43248b6cfcf99a4092f9f0590ddda9e73c67dd8de5e3f0fa9"
+    }
+  ],
+  "github_tree_sha": "193c25a1f65da7c14cbb5a129f8993cbf5603547",
+  "github_tree_sha256": "1cd0cf9e9f54e5ca741b3ca8e96733c8cd5df3caef0e510900b67d9916a7e922",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "cloud-ark/kubeplus",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-saas-landing-cloud-ark-kubeplus-bdd54fb24f1b"
+}

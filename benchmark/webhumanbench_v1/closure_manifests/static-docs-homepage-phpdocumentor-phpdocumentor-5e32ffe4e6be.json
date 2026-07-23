@@ -1,0 +1,66 @@
+{
+  "commit_sha": "4a6ce1f63546a9a8d31a3170558c6f933049be15",
+  "entrypoint": "data/website/site/index.html",
+  "files": [
+    {
+      "bytes": 1240,
+      "git_blob_sha1": "6b2421a0704404ac337e5385c24c4f6e2ca025dc",
+      "path": "data/website/site/apple-touch-icon.png",
+      "sha256": "996b2c3b41f5f01d6e0b54024a709f14db6cd32e31af32fbe8b6b8d489ba4593"
+    },
+    {
+      "bytes": 4459,
+      "git_blob_sha1": "04f77cd1ab4ce688a365412a71e3d28fc919ff34",
+      "path": "data/website/site/css/template.css",
+      "sha256": "25b830ccf632ac779df837dfa773d74d2225706935dab102629b4c039039e0b8"
+    },
+    {
+      "bytes": 347,
+      "git_blob_sha1": "8e8ae3da0b693d5212fb7ddfcb7982c41b1fca64",
+      "path": "data/website/site/favicon-16x16.png",
+      "sha256": "3412e07ae4e3236c12d0b110030b968a53fbfdf0b1de45759cf0dcba617ac48b"
+    },
+    {
+      "bytes": 536,
+      "git_blob_sha1": "f9ceae69fbb40d5c2605c20ad27405bc7c37ef41",
+      "path": "data/website/site/favicon-32x32.png",
+      "sha256": "377287f8ac019bc506ac4e1e73cbda4683653a712b47a8a7727dd88ac9baff2e"
+    },
+    {
+      "bytes": 13155,
+      "git_blob_sha1": "002f8feffa0a71eba487450a42be9951a3032c87",
+      "path": "data/website/site/images/hero-illustration.svg",
+      "sha256": "70c430160f39cb4aa403535b2014facbbd4e0224c2d4a4f94fb67f2583b1f259"
+    },
+    {
+      "bytes": 279789,
+      "git_blob_sha1": "5bf4d5d54ba894d0b0eefc126b869f334c6aaef9",
+      "path": "data/website/site/images/screenshot.png",
+      "sha256": "f642453e9ebdb749b4e1bb53fc7ce92381db35eee67b05b6a223a1d9134ddaf5"
+    },
+    {
+      "bytes": 13382,
+      "git_blob_sha1": "d97534841a7aad612850ed80dfcd2cf898ac4d46",
+      "path": "data/website/site/index.html",
+      "sha256": "17f2367303c75eb59127b34b85b1eb543c69d9eaccfeabb61d8bbddb83f9fa1d"
+    },
+    {
+      "bytes": 6993,
+      "git_blob_sha1": "5d65b18ec5bc544e0481fd5b4c41adffd946a607",
+      "path": "data/website/site/safari-pinned-tab.svg",
+      "sha256": "9afd67791839b31b6ee7c70b891126ab431ff111d1472ed6fdc4d594f97087b0"
+    },
+    {
+      "bytes": 426,
+      "git_blob_sha1": "b20abb7cbb2903c45280ba3540710669aeb63163",
+      "path": "data/website/site/site.webmanifest",
+      "sha256": "310b869434f0ee9d99a110e5ef6bfb41eac115bce2428f562ff5df14378519ff"
+    }
+  ],
+  "github_tree_sha": "c5455e6055bc52b61471ecb858d209e543a74b05",
+  "github_tree_sha256": "57f3b5ae0d4c15838dc5a9a4915adcd2dd22bd323443162549a166775407e103",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "phpDocumentor/phpDocumentor",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-docs-homepage-phpdocumentor-phpdocumentor-5e32ffe4e6be"
+}

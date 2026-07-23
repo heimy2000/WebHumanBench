@@ -1,0 +1,240 @@
+{
+  "commit_sha": "9ab3767ee0f84b127981fa4a4f6e76af5f92735c",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 234054,
+      "git_blob_sha1": "437432473053f067e260ddf8d1de32fbabe96648",
+      "path": "css/bootstrap.min.css",
+      "sha256": "1533e979ea80683da865eb7886b9fcd8b0ccccb04eb63bb041a6161705eddcfa"
+    },
+    {
+      "bytes": 3351,
+      "git_blob_sha1": "a71df11c0177ce0ed8ce0e1ed68aa8773ecc232f",
+      "path": "css/owl.carousel.min.css",
+      "sha256": "521410e1fc44780061e09adc980275fb5ea277fd5d9e538454214ec4379ff4bc"
+    },
+    {
+      "bytes": 1157,
+      "git_blob_sha1": "a017230c433553686bf3938be2d78c5424e88de7",
+      "path": "css/skins/black.css",
+      "sha256": "1d518e700bb43324deebf9702da50abe3cf416ab6f0f9e37f754b4a003df13fe"
+    },
+    {
+      "bytes": 1159,
+      "git_blob_sha1": "5fa76c3e58abc1879696280e4053a9c1b6289503",
+      "path": "css/skins/blue.css",
+      "sha256": "1e0e03bdf478c5def2e9c5744876a9b12351b3531c7f62fe8f7fc0fd912ffac4"
+    },
+    {
+      "bytes": 1159,
+      "git_blob_sha1": "37d41a76fd007039cc7384daed14b5b30bb2c6b8",
+      "path": "css/skins/green.css",
+      "sha256": "34633b95ed8b5ff1ba9ac565752c228c6c3d01881d7610aeb69892ca9bf95286"
+    },
+    {
+      "bytes": 1157,
+      "git_blob_sha1": "01ebdeb94553ddb3ec0c704ee3b009ebf3163069",
+      "path": "css/skins/orange.css",
+      "sha256": "bf912510ac241711ce4b46ccfb781a56b9493a00a7a65e036d77da62628b8038"
+    },
+    {
+      "bytes": 1159,
+      "git_blob_sha1": "da3f259c7cdc0bdf06928e460b263e25ec08b143",
+      "path": "css/skins/purple.css",
+      "sha256": "b13b199b0c44ef888d99f3bb12b1b59e448825a67a105d6adca75b3598908cd3"
+    },
+    {
+      "bytes": 1158,
+      "git_blob_sha1": "80d7dc334c90620a355097dd922e0c98062a12a5",
+      "path": "css/skins/red.css",
+      "sha256": "1cfdbb7ac4cf09075eefb57a9674d12652f561b63197af2361fcdf7ec6be39d7"
+    },
+    {
+      "bytes": 11033,
+      "git_blob_sha1": "d1041eb39c83c288cc4e9f13837628c60de83641",
+      "path": "css/style.css",
+      "sha256": "d2050b34b3c2f5bab01b0af7b0bb83198cfda00beee03a02909035bd15134f2f"
+    },
+    {
+      "bytes": 51128,
+      "git_blob_sha1": "495af75762ea16d890d9c8af7647be22216f9725",
+      "path": "fonts/vazir-bold.woff2",
+      "sha256": "3333e31188a2b628db8780ca22fd5aad85bc083ccee9beb8d4d52db18cb98d48"
+    },
+    {
+      "bytes": 50684,
+      "git_blob_sha1": "c9824c872b3b4f2eb13a102748f8ef1a6ef97da0",
+      "path": "fonts/vazir.woff2",
+      "sha256": "e382101336c6eb32cfb31381c027d02d2e0354bad08f6a395d4088beb3db3d91"
+    },
+    {
+      "bytes": 759071,
+      "git_blob_sha1": "6f184991662b3a1536989220542ad37d966c1a43",
+      "path": "imgs/1.png",
+      "sha256": "9cb8accccd60526eb7d4c6d245e1ab4516deb7cf4c5ffb530759915590c76dd4"
+    },
+    {
+      "bytes": 1415830,
+      "git_blob_sha1": "df12177c14b7e309a828aa6d609a1ca1798e8579",
+      "path": "imgs/2.png",
+      "sha256": "d4e15740558e8bea60e504eb254cd6bdfb4f22b2a42c867846dc39c76c5d7465"
+    },
+    {
+      "bytes": 234397,
+      "git_blob_sha1": "17b0d9aca337b56865a664537b1fbc947332713b",
+      "path": "imgs/contact-us-banner.jpg",
+      "sha256": "4e0f6f3e260203d7630d29ef8944e941a5fff5085981bb9c27c8006d04b740d7"
+    },
+    {
+      "bytes": 4286,
+      "git_blob_sha1": "5c440350ebd2424e22c414d8a206c77299bce50a",
+      "path": "imgs/favicon.ico",
+      "sha256": "59466ad09aafa445534b0efa2aa3b215ee145ac01d573e4814ed27578d5018c1"
+    },
+    {
+      "bytes": 23539,
+      "git_blob_sha1": "60c0594f5ad3bb082d8fde66e7977c3ad53a9e05",
+      "path": "imgs/product/1.jpg",
+      "sha256": "ed1f39d093f472ce7faa0bdfeff0f043b24bd85ec3ad20d50e7a312d603e8743"
+    },
+    {
+      "bytes": 40297,
+      "git_blob_sha1": "92f242c213dd61a22ab6b2369c8517c6818d3740",
+      "path": "imgs/product/2.jpg",
+      "sha256": "f09ecf53f0adc900897e3b4a5a6598aab6927c1d3916aa9fab1ab4eabdf6c1da"
+    },
+    {
+      "bytes": 31963,
+      "git_blob_sha1": "b92b3e7144fb2db67acd497b71ef8ad09bd38c8a",
+      "path": "imgs/product/3.jpg",
+      "sha256": "c30112fbf07ae45d099e329c71f6f6cac37a901b5092126873229ceb4ec934ba"
+    },
+    {
+      "bytes": 50588,
+      "git_blob_sha1": "3d9e892a57b2998b263618fe517b38a9cf675b54",
+      "path": "imgs/product/4.jpg",
+      "sha256": "3fccac2ac4d6cfad5f1bd5adcd0fa73cf7f2faf277e9039fcc201ef15efa0f5e"
+    },
+    {
+      "bytes": 40042,
+      "git_blob_sha1": "e81feba7b7fb08e528fb993f8e96350d048b3ef1",
+      "path": "imgs/product/5.jpg",
+      "sha256": "d56a991bc79c58f7460073558e47caf22d1a2fac27f1b6986e97f364fec54881"
+    },
+    {
+      "bytes": 66572,
+      "git_blob_sha1": "845b06c438d04e32f3b3fc9b0c379c3f05c75ad4",
+      "path": "imgs/product/6.jpg",
+      "sha256": "a59f96b57241e62dc20fd796d3640a8eb236095f27d2da696722b80f863db358"
+    },
+    {
+      "bytes": 35429,
+      "git_blob_sha1": "cd255ddfce780d2615ae722320a1727ea23a15e1",
+      "path": "imgs/product/7.jpg",
+      "sha256": "4be9886b9d3ff89acfe17c6cae7fd2913f74f90c3491bfa6f95bc2b63aa434c9"
+    },
+    {
+      "bytes": 107882,
+      "git_blob_sha1": "d7d3e8440e5dcdff50b54d1fd6db23e1f393489d",
+      "path": "imgs/product/8.jpg",
+      "sha256": "0041bf51df00c9d2f2481ab2cd00c70c08b508aed542b5bc59d53001bec4541b"
+    },
+    {
+      "bytes": 737,
+      "git_blob_sha1": "161c81e92e16008a9301ee700735bfae80ab5cce",
+      "path": "imgs/star-solid.svg",
+      "sha256": "353027bff89ee75d0c891b1f306d10ea1b1d49a161d33d8de5cb434eca4c537b"
+    },
+    {
+      "bytes": 159481,
+      "git_blob_sha1": "69b0328be47161239e373c70a5a3a3420263f435",
+      "path": "imgs/testimonial.jpg",
+      "sha256": "7d8b4e9fe29b6bb89303ba88cbaaf32c28b6a3948cc6829973d316b9aa4d127f"
+    },
+    {
+      "bytes": 37170,
+      "git_blob_sha1": "024c269d2d5d2427658c22ffa68a1dc144d51481",
+      "path": "imgs/testimonial/1.jpg",
+      "sha256": "fc7f51c582356dc0b3b3f389f02cd159e3ac39cff5541e1249743992b7396a27"
+    },
+    {
+      "bytes": 58514,
+      "git_blob_sha1": "1e2f1e1aa2411eac3a157c0ff7b58fcef30ce39c",
+      "path": "imgs/testimonial/2.jpg",
+      "sha256": "c218aa6ccab62ab5d238713d5873923f1a96c55a54cd68cac64b00744060a7cf"
+    },
+    {
+      "bytes": 116353,
+      "git_blob_sha1": "2c9611f66481c6791d43fd795a6cac40a9cf4c88",
+      "path": "imgs/testimonial/3.jpg",
+      "sha256": "1a83db7b96988351b4e9c8ccbf98a308f1e9f08c0d34dad2b6a9e5088c4162e5"
+    },
+    {
+      "bytes": 109291,
+      "git_blob_sha1": "cbe187e3608bb3887ab6a2fe33da0f1de32b3393",
+      "path": "imgs/testimonial/4.jpg",
+      "sha256": "7190de8bd5e83f2a3f589821fabec88cbfc19fbe1d1da5aba48e0c80f2fd4c8f"
+    },
+    {
+      "bytes": 108106,
+      "git_blob_sha1": "87c421194edf562a6c9e819f64df1f01c5e2edf1",
+      "path": "imgs/testimonial/5.jpg",
+      "sha256": "a8fc181c9b45d24ba17a4708d917ba29f3d1259618cc780ef7142f3e23601317"
+    },
+    {
+      "bytes": 77288,
+      "git_blob_sha1": "ca5125bcd6f836ecf119d20bb4e5f682f292d858",
+      "path": "index.html",
+      "sha256": "593fd7f41deea0bdf69ab6ae926f89add928b39947e061dfc42f7afc0fe59d03"
+    },
+    {
+      "bytes": 80457,
+      "git_blob_sha1": "ebe7da66742b4cc795378330c01a52e07fdf6d9c",
+      "path": "js/bootstrap.bundle.min.js",
+      "sha256": "a85b2fe307777c8eb47f06a1eec399fcbddfe83d252fd202d3e1358051fcf27d"
+    },
+    {
+      "bytes": 729,
+      "git_blob_sha1": "c4b78fa767c2576f817c4976ae65235b558bce17",
+      "path": "js/carousel.js",
+      "sha256": "1efe461994c6dd0a4fc14bfc9a211e21992aa8116fd2ac21a945fa52a6989c09"
+    },
+    {
+      "bytes": 201,
+      "git_blob_sha1": "2ece03ff819b30102b80dd753f851855e979630c",
+      "path": "js/email.js",
+      "sha256": "02dd47d35bc053051e4632b04bf68baa7d4a439d3e7d293883dc38450456afeb"
+    },
+    {
+      "bytes": 89501,
+      "git_blob_sha1": "c4c6022f2982e8dae64cebd6b9a2b59f2547faad",
+      "path": "js/jquery.js",
+      "sha256": "ff1523fb7389539c84c65aba19260648793bb4f5e29329d2ee8804bc37a3fe6e"
+    },
+    {
+      "bytes": 44342,
+      "git_blob_sha1": "fbbffc53407258192a266e7f682f7deab5833c24",
+      "path": "js/owl.carousel.min.js",
+      "sha256": "a53c43f834b32309b084ea9314df8307e9c78cee2202c6e07f216ae4ae5b704d"
+    },
+    {
+      "bytes": 88,
+      "git_blob_sha1": "834ce41381e60c83d71eac43c62e397b3727fd78",
+      "path": "js/scroll.js",
+      "sha256": "2645cde5e5c339df90732c7f8dc07f23457698d73f8e1d685ff3dc36b5ffe9ce"
+    },
+    {
+      "bytes": 571,
+      "git_blob_sha1": "879b2729ae586cb8c3e8e0f95377f52bae139790",
+      "path": "js/style-switcher.js",
+      "sha256": "a32c0ad75d092dc7d8f3dd4e7d53075edea5de8418f0df9d905d37072a53c2ee"
+    }
+  ],
+  "github_tree_sha": "40b970bf4673a0e8c98fbedbe4e5f4ad93feb173",
+  "github_tree_sha256": "a9638058f57fddbedce4e4382f7073e9bfa9918185866b6f5426953b310d62dc",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "dori-dev/odkolon-store",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-product-showcase-dori-dev-odkolon-store-859fb7f02c93"
+}

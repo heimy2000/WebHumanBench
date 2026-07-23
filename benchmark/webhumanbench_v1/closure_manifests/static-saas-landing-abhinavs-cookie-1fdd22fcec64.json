@@ -1,0 +1,18 @@
+{
+  "commit_sha": "b4f149bd755ef8649398282e582b958959ed621d",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 27686,
+      "git_blob_sha1": "b8b1043a61edf416b51c9f826e19bbfbc5623239",
+      "path": "index.html",
+      "sha256": "b1dcbae13e89b2333df483489d9c71b49733546a998f94fca45f8967bda05374"
+    }
+  ],
+  "github_tree_sha": "5ab46a44d6cacaeef0013cf3164442048a6acc86",
+  "github_tree_sha256": "bf84bb96df25d5951ee3a818bc5c68d607048ffd8113a5eeb12bf1c05f262b82",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "abhinavs/cookie",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-saas-landing-abhinavs-cookie-1fdd22fcec64"
+}

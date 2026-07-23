@@ -1,0 +1,18 @@
+{
+  "commit_sha": "63808a237db015c9024d45de1df7dc966fd0ef0f",
+  "entrypoint": "www/index.html",
+  "files": [
+    {
+      "bytes": 9630,
+      "git_blob_sha1": "46c678a9ab7ae6e48d029d3c637e2e3b3bed30f7",
+      "path": "www/index.html",
+      "sha256": "510cbe4d54fefd565b8c35e78f5f8f10d1f94053fb48ab98d2d29c05bdfc893a"
+    }
+  ],
+  "github_tree_sha": "93c58b4ed932a4f4f54c1d8d164f7e7ad14d2370",
+  "github_tree_sha256": "90c6736dac1452aeb1a0f09f65766e5c753447202615d110909d269d59b1800c",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "apache/cordova-docs",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-docs-homepage-apache-cordova-docs-eca53cb118db"
+}

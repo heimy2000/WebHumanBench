@@ -1,0 +1,174 @@
+{
+  "commit_sha": "5ae14b2e7f376fd3152e1348d4cc3da3fcbd261e",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 1903563,
+      "git_blob_sha1": "693f0a30646ec3836ee5220c52c2c42fc735793a",
+      "path": "images/CITYPNG.png",
+      "sha256": "ca3754ea6f749c4987a73536716e87ec015921459e675e01a5c430a345d1206b"
+    },
+    {
+      "bytes": 481366,
+      "git_blob_sha1": "5d4dc9b2180a0da8935f7257193c73e8cf6c430f",
+      "path": "images/SeekPng 1.png",
+      "sha256": "df7aaaf6b18efd8e6deeadcffb535f681f266171c4461530d8004d8ff733de57"
+    },
+    {
+      "bytes": 588535,
+      "git_blob_sha1": "7e45391095d6c6fb608aeab1c3e553556fce9dff",
+      "path": "images/SeekPng 2.png",
+      "sha256": "51c04dce26cbb2f796a055aabb34937c584c2210073044121a7ff531c175ec7a"
+    },
+    {
+      "bytes": 482019,
+      "git_blob_sha1": "31cfaedd9c2be2a123989ee67a88a3584d0e1022",
+      "path": "images/SeekPng 3.png",
+      "sha256": "8cf601ac43c9d96eb5c4f441380b0ea09c04d20131f55ead8b559eb3bd028e55"
+    },
+    {
+      "bytes": 523848,
+      "git_blob_sha1": "58115f755bcaf13aa8961a7cef9a6124bcab8e7e",
+      "path": "images/SeekPng 4.png",
+      "sha256": "bcae72ff478f392f864061ed87d04872169cc7ccc9686f1b9f29681ebb36dbc0"
+    },
+    {
+      "bytes": 441901,
+      "git_blob_sha1": "2245b71d9772aa057620c3ae952ff0abe39b01ec",
+      "path": "images/SeekPng 5.png",
+      "sha256": "2bea8aa7297155144dc7b3e10f3cd01de217671777216cf4a4f47830a9bd0b26"
+    },
+    {
+      "bytes": 394854,
+      "git_blob_sha1": "9d8fc6d15a79c6866dca83760f39b864ccc97d2a",
+      "path": "images/SeekPng 6.png",
+      "sha256": "d13348e3796c0a1e302040effe545aa8b536827eb392490c91fdbafc1d26c587"
+    },
+    {
+      "bytes": 7145,
+      "git_blob_sha1": "73441dfecaf807ee83379cdf858f5ac786dbb029",
+      "path": "images/android.jpeg",
+      "sha256": "8b5e5d078da0956a48803af646aa8d672d382fc32a057a231a88cd03e102027e"
+    },
+    {
+      "bytes": 7135,
+      "git_blob_sha1": "625b26d9cdb5827bdfb4aa8f29e6823c57238af0",
+      "path": "images/app.jpeg",
+      "sha256": "814852e11419db5426b9d15080ed107ea8ccd5b505f43754f9258993641141a8"
+    },
+    {
+      "bytes": 29351,
+      "git_blob_sha1": "ee44ea9335462f96f6398ce250a224a88bcb3a6d",
+      "path": "images/delivery.png",
+      "sha256": "76b5c4ab269bfee4baaa6a05693ea3aaa1ccae4ab452f04c28cd949d0b72caf0"
+    },
+    {
+      "bytes": 634164,
+      "git_blob_sha1": "d3866bd809a3161666aefd466fb1f6ea09d686b1",
+      "path": "images/double-check1.png",
+      "sha256": "0833fc8d6e4e3ede3e4d8b491e2321612c5193355af49fda27cac515e5ccf0e1"
+    },
+    {
+      "bytes": 751828,
+      "git_blob_sha1": "bf01014ae3fd6f1b89301e1ea56d9d7d39c01b9a",
+      "path": "images/double-check2.png",
+      "sha256": "0ed98ac587b955760282bbd6e213d0fd163fee9b0d0c855717e25486304d7c49"
+    },
+    {
+      "bytes": 10793,
+      "git_blob_sha1": "1704d71d27f7260b628541073d71d92ab39b33bf",
+      "path": "images/facebook.png",
+      "sha256": "c50a8bb59cfa96b472694468efd7f2c8c25aac3949f297739a8c035d311169a2"
+    },
+    {
+      "bytes": 27267,
+      "git_blob_sha1": "9bfa9732fe6ddbb13ac28c6413c75fce7e2dac1e",
+      "path": "images/fast-food.png",
+      "sha256": "3e11a11ae082307618a36d82dc8c177cdaaa67433d5a79ab4dfaa72f809f9aee"
+    },
+    {
+      "bytes": 19009,
+      "git_blob_sha1": "7e8a8e716df9bbe4673b3cfaf15431491ea2337d",
+      "path": "images/food-tray.png",
+      "sha256": "6882b116f210754b50ec92d050a1fa6067eed74dc51903a8afe9413cab3c62bd"
+    },
+    {
+      "bytes": 14849,
+      "git_blob_sha1": "8cdd9b0bd12bd45c7d9636f72a1220140c9df26c",
+      "path": "images/instagram.png",
+      "sha256": "50678b50e9d45d59f184a953f9ea8becf41a0a992f4d242261db76b63ac3d1f1"
+    },
+    {
+      "bytes": 4699,
+      "git_blob_sha1": "50aeee7c37a359cee5c59db9188f55453e15c601",
+      "path": "images/linkedin-logo.png",
+      "sha256": "207dec2afc2a7f339dc0759c4d4a776af188ceaa872073b16dd2cd1800dfdb45"
+    },
+    {
+      "bytes": 5689,
+      "git_blob_sha1": "79408e733531dfe682f1ee43e3264e86618afd35",
+      "path": "images/logo.png",
+      "sha256": "b4b0db175d9583dd7b836921878f350b93f043be08621e7d92726bb9319f9b52"
+    },
+    {
+      "bytes": 67560,
+      "git_blob_sha1": "88aeeeb55e2e254f61f83322f84acd3fa9b19d87",
+      "path": "images/mobile1.png",
+      "sha256": "b4fe580d54dbd0ac073fba0338b08c5d0c462e62fb293ad17464773b1a9feee9"
+    },
+    {
+      "bytes": 68439,
+      "git_blob_sha1": "582ec7462bd772cb4c2c34aaa00d488c71f58dc6",
+      "path": "images/mobile2.png",
+      "sha256": "12ce2a2277e1976e1a4c3850c646333705ac3121ce54cc1b977d7e93c0941ffb"
+    },
+    {
+      "bytes": 4334,
+      "git_blob_sha1": "9e2383ce5759af92a1e73027150118b23b710541",
+      "path": "images/right-arrow.png",
+      "sha256": "57a29765d5feb694c3b7438fe69bd987f051142f493078580d978c80c1764c39"
+    },
+    {
+      "bytes": 23263,
+      "git_blob_sha1": "9e8ed754d2517c10bfa5a2cfaa8791a645017ae5",
+      "path": "images/shopping-cart (1).png",
+      "sha256": "0ec6e2d2e69dcd5bf42eeda8c912bc754c1494e3fe096b91653488865140298a"
+    },
+    {
+      "bytes": 11304,
+      "git_blob_sha1": "ba4ef90d4a5fff4cbbe63e16ccb34a0e7886afa1",
+      "path": "images/shopping-cart.png",
+      "sha256": "89c38ab8d43b944f8b0d77070589f73652d23ff635b26d2502698c533a807be1"
+    },
+    {
+      "bytes": 6748,
+      "git_blob_sha1": "c8ad9fa47d261e9a0e1b517496252378bff34d6a",
+      "path": "images/twitter-sign.png",
+      "sha256": "170b1cd60ac2be46d33355d25862c833b5bb7f08720169f823337524ca0c0c3a"
+    },
+    {
+      "bytes": 6686,
+      "git_blob_sha1": "390fdad8588e5f3c55f1df4df4f73971adf29569",
+      "path": "images/youtube.png",
+      "sha256": "922258296a5dc7a1f49010d441f4526ca12ca0d5d34fb16e869bf2601e07f835"
+    },
+    {
+      "bytes": 13008,
+      "git_blob_sha1": "683b89aeb7f79437abff98c377b9313258828f6a",
+      "path": "index.html",
+      "sha256": "cbf4473df7d710b94539efea2bf8dbdad720b48a76a694afc14e3faca237e0b9"
+    },
+    {
+      "bytes": 9420,
+      "git_blob_sha1": "f31d9f1c89188020120c1f15de6a7b354995ada8",
+      "path": "style.css",
+      "sha256": "9baccc4ec21754e83645a975874be94c8529371f24670cf67a4b1401d4729c49"
+    }
+  ],
+  "github_tree_sha": "77bc0d07ce9e0fbd5cb88ed025a48e417ef8a2f0",
+  "github_tree_sha256": "5a4abee9d6fbd962ece552b70056855dc9943c8db328c599aeba689a4b2dc47a",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "kiborgok/burger_palace",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "static-product-showcase-kiborgok-burger-palace-98bd538da7f8"
+}

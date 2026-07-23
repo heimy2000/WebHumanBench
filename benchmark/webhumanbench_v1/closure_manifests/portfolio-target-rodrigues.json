@@ -1,0 +1,150 @@
+{
+  "commit_sha": "8a69af27c3721b4a324a13d9a1552ccd3801be6b",
+  "entrypoint": "index.html",
+  "files": [
+    {
+      "bytes": 26378,
+      "git_blob_sha1": "0f4f45f47d64d4da66514effb613414c64317469",
+      "path": "assets/archive/lucas-rodrigues-curriculo.pdf",
+      "sha256": "48b8d0f169e8ecac320990dec3b4addea67b5502288c2a828cce430801ab1037"
+    },
+    {
+      "bytes": 69426,
+      "git_blob_sha1": "48bc059063de4ac8e93d54c854eab5ecbf44b337",
+      "path": "assets/images/computer.svg",
+      "sha256": "086bb1ee88c3c3ddfc86f8a92fba8a23a58ad9510f2578b452e15bbe5d0d2ac0"
+    },
+    {
+      "bytes": 755,
+      "git_blob_sha1": "54fcaaff7d6658e46956c6ed9feccd77430a32a3",
+      "path": "assets/images/icon-css.svg",
+      "sha256": "652bc4451118fa488d0c2e1b0c52419885929a66d6924068eb3c105c3d7e2a19"
+    },
+    {
+      "bytes": 4767,
+      "git_blob_sha1": "97e569b4d82061a67088601c3b6e7b61b6797109",
+      "path": "assets/images/icon-git.svg",
+      "sha256": "b8555258f10acc03e22207e2a1dee026eef5d1d10fb2755fc8b893bfc393c11c"
+    },
+    {
+      "bytes": 1783,
+      "git_blob_sha1": "5ff6db686eb911d6d47fd74135b9da690f6f827d",
+      "path": "assets/images/icon-github.svg",
+      "sha256": "56aac838fce7da2b46695a633c31ea1e999004fe88cd81e99e8a865e1e239e55"
+    },
+    {
+      "bytes": 746,
+      "git_blob_sha1": "b90a676f662bca8c1f887086000d1b7b6f804020",
+      "path": "assets/images/icon-html.svg",
+      "sha256": "2441381c51683b139514a3041031189ec404e5612e73017572312f4d5df8b646"
+    },
+    {
+      "bytes": 1335,
+      "git_blob_sha1": "2eab3157bfca3e9c0c7d964767e9bca58d87537f",
+      "path": "assets/images/icon-js.svg",
+      "sha256": "1e484c3b442cfe679aa9890d03adfee18bef55fc3dcc02be9b525c8127524ed7"
+    },
+    {
+      "bytes": 770,
+      "git_blob_sha1": "0536dddc7635083623bd823005e21bb32394afcf",
+      "path": "assets/images/icon-linkedin.svg",
+      "sha256": "ad3a99e99ed0683a213c5e785c25cdb6f79118dddbd6297fa5b5559c21a75232"
+    },
+    {
+      "bytes": 439,
+      "git_blob_sha1": "63a134e86ab303648943a6b450caf03bed516298",
+      "path": "assets/images/icon-menu.svg",
+      "sha256": "1ed74dd00a6b899507b79ef4154e9d8c0909fe59283838ba535c33914912b539"
+    },
+    {
+      "bytes": 3429,
+      "git_blob_sha1": "bde557c8268b835199dc6fb7b7f8b41b4e4d7376",
+      "path": "assets/images/icon-react.svg",
+      "sha256": "029db4ad2574db06e19575a272bd626e9a4ce04a3d6107e6f40c2b5f3dd805d5"
+    },
+    {
+      "bytes": 211803,
+      "git_blob_sha1": "326452f2b6b885c437426990d7c9bd05c25670a7",
+      "path": "assets/images/img-mentor.PNG",
+      "sha256": "9e8018cd27231e904e43d6b03403687f6302816f4d15a048c215cc248ddb6fe8"
+    },
+    {
+      "bytes": 19072,
+      "git_blob_sha1": "afcf793c78a3089fc092598b5b27a40f510a3b93",
+      "path": "assets/images/img-todo.PNG",
+      "sha256": "2a166b5139029e3cd64d826b90a58e6dc2c0c65e5f9c1005cf5724541c938899"
+    },
+    {
+      "bytes": 1372674,
+      "git_blob_sha1": "e5ef0d355f552447d997b670fdbeafd477ab99bf",
+      "path": "assets/images/img-viagens.PNG",
+      "sha256": "4d2971ee94dff9ccc5c93bfa5308954129cac04dee6b184a33abcd7c63be441c"
+    },
+    {
+      "bytes": 556382,
+      "git_blob_sha1": "f9149f9758a76811038442a7aa6a6c77af94c80c",
+      "path": "assets/images/jogoDV1.PNG",
+      "sha256": "b32914e06d32a40bbf2a4aa1c013658501d2a6e88536fe80c3058a82dae3dfee"
+    },
+    {
+      "bytes": 9039,
+      "git_blob_sha1": "507f0f823ebf46e1bb717603e096d63b7c893c6d",
+      "path": "assets/images/logo.png",
+      "sha256": "647954c31aad3d29e2d225aa6fa62f66a8dc574f9a928e89981536e1a039dc27"
+    },
+    {
+      "bytes": 1920216,
+      "git_blob_sha1": "5f28a8c12b0f62c9d47ff00215f69dbbdc8f6b53",
+      "path": "assets/images/minha-foto.png",
+      "sha256": "797ce391fa68375d1371605d206f900396a9ddf42675bfe30a5e3971a5208abd"
+    },
+    {
+      "bytes": 1177607,
+      "git_blob_sha1": "920bc50c44340741b153b8a1fd5555a8efd05056",
+      "path": "assets/images/proj-copa.PNG",
+      "sha256": "c94ec64ad03c5105bc988af8cd1b76bb3c08669a624a08f872dde98501f1d8cc"
+    },
+    {
+      "bytes": 28590,
+      "git_blob_sha1": "272b5c066e62f0601ce56a3afb3dafd5396939e9",
+      "path": "assets/images/quizz1.PNG",
+      "sha256": "9b68ac7cc45a630863f47b2836ca3a7c47392a3a4040d55653df3803ba6d6069"
+    },
+    {
+      "bytes": 215,
+      "git_blob_sha1": "e02277cafe53b0a7449b38079e6361aa531e6cba",
+      "path": "css/scrollbar.css",
+      "sha256": "85745d5a2472be27c7cece968b1d00baff42588310dd915473818f51d791cc2b"
+    },
+    {
+      "bytes": 8055,
+      "git_blob_sha1": "1ae90963a0239dc697d5fb5d920b0d6ea9f80102",
+      "path": "css/styles.css",
+      "sha256": "e93f8c5e5ba1233aa2fcd2616139fb23e440c91abbbb7fcdb9b0b32e88310fa5"
+    },
+    {
+      "bytes": 12139,
+      "git_blob_sha1": "83c73524a034b3277a7ffee03cf671d525a604ed",
+      "path": "index.html",
+      "sha256": "79ef77e7e37060fa0740b3e37aa437e41eb5f842433917fc6131f451417d04e9"
+    },
+    {
+      "bytes": 2906,
+      "git_blob_sha1": "2d1159390a81c74731ac0d0e4d595ea0b0984fc8",
+      "path": "js/script.js",
+      "sha256": "07c193673577fb7cdfb3ac79410b7af5747cff3f8399872e08ff94b2bfda556d"
+    },
+    {
+      "bytes": 236,
+      "git_blob_sha1": "94db206caa1f735a4f9690a637ef1d7e7aeef835",
+      "path": "js/scrollreveal.js",
+      "sha256": "71aea183819a61aaf62fd55dc8b688880b92886a5662983289e55ad95d15f1f5"
+    }
+  ],
+  "github_tree_sha": "cc6e4659a79af1af54566f94a3bc19c8fabb3499",
+  "github_tree_sha256": "2acd7931093cee19412440a8c0d654f82a644952685a83f6092e7bb0ffe99215",
+  "note": "Closure contains the pinned HTML entrypoint and repository-local dependencies reached by the deterministic HTML/CSS/JS URL walker. It is a capture snapshot, not a complete repository checkout.",
+  "repository": "rodrigues14/Portfolio-Lucas",
+  "schema": "webmark_pinned_entrypoint_closure_v1",
+  "source_id": "portfolio-target-rodrigues"
+}
