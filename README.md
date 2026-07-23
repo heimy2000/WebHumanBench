@@ -118,12 +118,4 @@ their hashes remain in the provenance ledgers. Review
 [`THIRD_PARTY_ARTIFACT_NOTICES.md`](THIRD_PARTY_ARTIFACT_NOTICES.md) before
 requesting or redistributing any restricted material.
 
-## Citation
-
-```bibtex
-@inproceedings{webhumanbench2027,
-  title = {WebHumanBench: An Auditable Benchmark Pilot for Reference-Relative Web Design Fit},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  year = {2027}
-}
 ```
